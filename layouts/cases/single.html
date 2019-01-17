@@ -1,0 +1,43 @@
+{{ define "header"}} {{ partial "menu" . }} {{ end }}
+
+{{ define "main" }}
+<div class="section">
+  <div class="container">
+    <h2 class="is-size-2">Case Number: {{ .Params.CaseDescriptionCaseNumber }}</h2>
+      <p>{{ .Params.CaseDescription }}</p>
+      <h3 class="is-size-3">Circumstances</h3>
+      <table class="table is-hoverable is-fullwidth">
+        <tr>
+          <th>Date of Offense</th>
+          <td>{{ .Params.CircumstancesDateOfOffense }}</td>
+        </tr>
+        <tr>
+          <th>Date of Death</th>
+          <td>{{ .Params.CircumstancesDateOfDeath }}</td>
+        </tr>
+        <tr>
+          <th>Address</th>
+          <td>{{ .Params.CircumstancesAddress }}</td>
+        </tr>
+      </table>
+      <h3 class="is-size-3">Victim</h3>
+      <table class="table is-hoverable is-fullwidth">
+        <tr>
+          <th>Name</th>
+          <td>{{ .Params.VictimName }}</td>
+        </tr>
+        <tr>
+          <th>Age</th>
+          <td>{{ .Params.VictimAge}}</td>
+        </tr>
+        <tr>
+          <th>Gender</th>
+          <td>{{ .Params.VictimGender }}</td>
+        </tr>
+      </table>
+</div>
+{{ end }}
+
+{{ define "footer" }}
+  {{ partial "footer" . }}
+{{ end }}
