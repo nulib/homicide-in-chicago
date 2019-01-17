@@ -13,42 +13,134 @@
           <td>{{ .Params.CircumstancesDateOfOffense }}</td>
         </tr>
         {{ end }}
+
         {{ if .Params.CircumstancesDateOfDeath}}
         <tr>
           <th>Date of Death</th>
           <td>{{ .Params.CircumstancesDateOfDeath }}</td>
         </tr>
         {{ end }}
+
         {{ if .Params.CircumstancesTimeBetweenOffenseAndDeath }}
         <tr>
           <th>Time Between Offense and Death</th>
           <td>{{ .Params.CircumstancesTimeBetweenOffenseAndDeath }}</td>
         </tr>
         {{ end }}
+
         {{ if .Params.CircumstancesTimeOfDayApprox }}
         <tr>
           <th>Approximate Time of Day</th>
           <td>{{ .Params.CircumstancesTimeOfDayApprox }}</td>
         </tr>
         {{ end }}
+
+        {{ if .Params.CircumstancesTimeOfDayExact}}
+        <tr>
+          <th>Time of day (exact)</th>
+          <td>{{ .Params.CircumstancesTimeOfDayExact }}</td>
+        </tr>
+        {{ end }}
+
         {{ if .Params.CircumstancesAddress }}
         <tr>
           <th>Address</th>
           <td>{{ .Params.CircumstancesAddress }}</td>
         </tr>
         {{ end }}
+
+        {{ if .Params.CircumstancesTypeOfLocation }}
+        <tr>
+          <th>Type of Location</th>
+          <td>{{ .Params.CircumstancesTypeOfLocation }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.CircumstancesTypeOfPublicPlace }}
+        <tr>
+          <th>Type of Public Place</th>
+          <td>{{ .Params.CircumstancesTypeOfPublicPlace }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.CircumstancesLocationDescription }}
+        <tr>
+          <th>Location Description</th>
+          <td>{{ .Params.CircumstancesLocationDescription }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.CircumstancesTypeOfDeath }}
+        <tr>
+          <th>Type of Death</th>
+          <td>{{ .Params.CircumstancesTypeOfDeath }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.CircumstancesTypeOfHomicide }}
+        <tr>
+          <th>Type of Homicide</th>
+          <td>{{ .Params.CircumstancesTypeOfHomicide }}</td>
+        </tr>
+        {{ end }}
+
         {{ if .Params.CircumstancesCharacteristics }}
         <tr>
           <th>Characteristics</th>
           <td>{{ .Params.CircumstancesCharacteristics }}</td>
         </tr>
         {{ end }}
+
+        {{ if .Params.CircumstancesMethodOfKilling }}
+        <tr>
+          <th>Method of Killing</th>
+          <td>{{ .Params.CircumstancesMethodOfKilling }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.CircumstancesWeapon }}
+        <tr>
+          <th>Weapon</th>
+          <td>{{ .Params.CircumstancesWeapon }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.CircumstancesMotive }}
+        <tr>
+          <th>Motive</th>
+          <td>{{ .Params.CircumstancesMotive }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.CircumstancesVictimInitiatedEventsLeadingToHomicide }}
+        <tr>
+          <th>Victim Initiated Events Leading to Homicide</th>
+          <td>{{ .Params.CircumstancesVictimInitiatedEventsLeadingToHomicide }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.CircumstancesMurderSuicide }}
+        <tr>
+          <th>Murder/ Suicide?</th>
+          <td>{{ .Params.CircumstancesMurderSuicide }}</td>
+        </tr>
+        {{ end }}
+
         {{ if .Params.CircumstancesCircumstancesDescription }}
         <tr>
           <th>Description</th>
           <td>{{ .Params.CircumstancesCircumstancesDescription }}</td>
         </tr>
         {{ end }}
+
+        {{ if .Params.CircumstancesTotalNumberOfVictims }}
+        <tr>
+          <th>Total Number of Victims</th>
+          <td>{{ .Params.CircumstancesTotalNumberOfVictims }}</td>
+        </tr>
+        {{ end }}
+
+
         {{ if .Params.CircumstancesCircumstancesOfCivilUnrest }}
         <tr>
           <th>Civil Unrest</th>
@@ -67,225 +159,180 @@
           <td>{{ .Params.CircumstancesLocationDescription }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.CircumstancesMethodOfKilling }}
+
+        {{ if .Params.CircumstancesTotalNumberOfDefendants }}
         <tr>
-          <th>Method of Killing</th>
-          <td>{{ .Params.CircumstancesMethodOfKilling }}</td>
+          <th>Number of Defendants</th>
+          <td>{{ .Params.CircumstancesTotalNumberOfDefendants }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.CircumstancesMotive }}
-        <tr>
-          <th>Motive</th>
-          <td>{{ .Params.CircumstancesMotive }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.CircumstancesMurderSuicide }}
-        <tr>
-          <th>Murder/ Suicide?</th>
-          <td>{{ .Params.CircumstancesMurderSuicide }}</td>
-        </tr>
-        {{ end }}
+
         {{ if .Params.CircumstancesOtherRelatedOrganizedCrimeIndicators }}
         <tr>
           <th>Organized Crime Indicators</th>
           <td>{{ .Params.CircumstancesOtherRelatedOrganizedCrimeIndicators }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.CircumstancesCharacteristics }}
+
+        {{ if .Params.CircumstancesOtherRelatedProhibitionIndicators }}
         <tr>
           <th>Prohibition Related Indicators</th>
           <td>{{ .Params.CircumstancesOtherRelatedProhibitionIndicators }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.CircumstancesCharacteristics }}
+
+        {{ if .Params.Circumstancesl}}
         <tr>
           <th>Prohibition Related Location</th>
           <td>{{ .Params.CircumstancesCharacteristics }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.CircumstancesCharacteristics }}
-        <tr>
-          <th>Characteristics</th>
-          <td>{{ .Params.CircumstancesCharacteristics}}</td>
-        </tr>
-        {{ end }}
+
         {{ if .Params.CircumstancesRelatedToCivilUnrest }}
         <tr>
           <th>Circumstances Related to Civil Unrest</th>
           <td>{{ .Params.CircumstancesRelatedToCivilUnrest }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.CircumstancesCharacteristics }}
-        <tr>
-          <th>Type of Death</th>
-          <td>{{ .Params.CircumstancesTypeOfDeath }}</td>
-        </tr>
-        {{ end }}
+
         {{ if .Params.CircumstancesCharacteristics }}
         <tr>
           <th>Related to Organized Crime</th>
           <td>{{ .Params.CircumstancesRelatedToOrganizedCrime }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.CircumstancesCharacteristics }}
-        <tr>
-          <th>Number of Defendants</th>
-          <td>{{ .Params.CircumstancesTotalNumberOfDefendants }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.CircumstancesTotalNumberOfVictims }}
-        <tr>
-          <th>Number of Victims</th>
-          <td>{{ .Params.CircumstancesTotalNumberOfVictims }}</td>
-        </tr>
-        {{ end }}
+
+
         {{ if .Params.CircumstancesTypeOfAccident }}
         <tr>
           <th>Type of Accident</th>
           <td>{{ .Params.CircumstancesTypeOfAccident }}</td>
         </tr>
         {{ end }}
+
         {{ if .Params.CircumstancesTypeOfBusiness }}
         <tr>
           <th>Type of Business</th>
           <td>{{ .Params.CircumstancesTypeOfBusiness }}</td>
         </tr>
         {{ end }}
+
         {{ if .Params.CircumstancesTypeOfCivilUnrest }}
         <tr>
           <th>Type of Civil Unrest</th>
           <td>{{ .Params.CircumstancesTypeOfCivilUnrest }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.CircumstancesTypeOfCivilUnrest }}
-        <tr>
-          <th>Type of Death</th>
-          <td>{{ .Params.CircumstancesTypeOfDeath }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.CircumstancesTypeOfHomicide }}
-        <tr>
-          <th>Type of Homicide</th>
-          <td>{{ .Params.CircumstancesTypeOfHomicide }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.CircumstancesTypeOfLocation }}
-        <tr>
-          <th>Type of Location</th>
-          <td>{{ .Params.CircumstancesTypeOfLocation }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.CircumstancesCharacteristics }}
+
+        {{ if .Params.CircumstancesTypeOfManslaughter }}
         <tr>
           <th>Type of Manslaughter</th>
           <td>{{ .Params.CircumstancesTypeOfManslaughter }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.CircumstancesTypeOfPublicPlace }}
-        <tr>
-          <th>Type of Public Place</th>
-          <td>{{ .Params.CircumstancesTypeOfPublicPlace }}</td>
-        </tr>
-        {{ end }}
+
         {{ if .Params.CircumstancesTypeOfResidence }}
         <tr>
           <th>Type of Residence</th>
           <td>{{ .Params.CircumstancesTypeOfResidence }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.CircumstancesVictimInitiatedEventsLeadingToHomicide }}
-        <tr>
-          <th>Victim Initiated Events Leading to Homicide</th>
-          <td>{{ .Params.CircumstancesVictimInitiatedEventsLeadingToHomicide }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.CircumstancesWeapon }}
-        <tr>
-          <th>Weapon</th>
-          <td>{{ .Params.CircumstancesWeapon }}</td>
-        </tr>
-        {{ end }}
       </table>
+
       <h3 class="is-size-3">Victim</h3>
       <table class="table is-hoverable is-fullwidth">
+
         {{ if .Params.VictimName }}
         <tr>
           <th>Name</th>
           <td>{{ .Params.VictimName }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.VictimName }}
+
+        {{ if .Params.VictimAge }}
         <tr>
           <th>Age</th>
           <td>{{ .Params.VictimAge}}</td>
         </tr>
         {{ end }}
+
         {{ if .Params.VictimGender }}
         <tr>
           <th>Gender</th>
           <td>{{ .Params.VictimGender }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.VictimGender }}
-        <tr>
-          <th>Employed</th>
-          <td>{{ .Params.VictimEmployed }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.VictimGender }}
-        <tr>
-          <th>VictimEmploymentType</th>
-          <td>{{ .Params.VictimEmploymentType }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.VictimEthnicity }}
-        <tr>
-          <th>Ethnicity</th>
-          <td>{{ .Params.VictimEthnicity }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.VictimKilledWhileProtectingPerson }}
-        <tr>
-          <th>Killed While Protecting Person</th>
-          <td>{{ .Params.VictimKilledWhileProtectingPerson }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.VictimKilledWhileProtectingProperty }}
-        <tr>
-          <th>Victim Killed While Protecting Property</th>
-          <td>{{ .Params.VictimKilledWhileProtectingProperty }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.VictimKnownToChicagoPoliceAs }}
-        <tr>
-          <th>Known to Chicago Police as</th>
-          <td>{{ .Params.VictimKnownToChicagoPoliceAs }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.VictimNameOfHospitalWhereVictimWasTaken }}
-        <tr>
-          <th>Name of Hospital Where Victim Was Taken</th>
-          <td>{{ .Params.VictimNameOfHospitalWhereVictimWasTaken }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.VictimOccupationalSkill }}
-        <tr>
-          <th>Occupation/ Skill</th>
-          <td>{{ .Params.VictimOccupationalSkill }}</td>
-        </tr>
-        {{ end }}
+
         {{ if .Params.VictimRace }}
         <tr>
           <th>Race</th>
           <td>{{ .Params.VictimRace }}</td>
         </tr>
         {{ end }}
+
+        {{ if .Params.VictimEmployed }}
+        <tr>
+          <th>Employed</th>
+          <td>{{ .Params.VictimEmployed }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.VictimEmploymentType }}
+        <tr>
+          <th>VictimEmploymentType</th>
+          <td>{{ .Params.VictimEmploymentType }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.VictimEthnicity }}
+        <tr>
+          <th>Ethnicity</th>
+          <td>{{ .Params.VictimEthnicity }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.VictimKilledWhileProtectingPerson }}
+        <tr>
+          <th>Killed While Protecting Person</th>
+          <td>{{ .Params.VictimKilledWhileProtectingPerson }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.VictimKilledWhileProtectingProperty }}
+        <tr>
+          <th>Victim Killed While Protecting Property</th>
+          <td>{{ .Params.VictimKilledWhileProtectingProperty }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.VictimKnownToChicagoPoliceAs }}
+        <tr>
+          <th>Known to Chicago Police as</th>
+          <td>{{ .Params.VictimKnownToChicagoPoliceAs }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.VictimNameOfHospitalWhereVictimWasTaken }}
+        <tr>
+          <th>Name of Hospital Where Victim Was Taken</th>
+          <td>{{ .Params.VictimNameOfHospitalWhereVictimWasTaken }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.VictimOccupationalSkill }}
+        <tr>
+          <th>Occupation/ Skill</th>
+          <td>{{ .Params.VictimOccupationalSkill }}</td>
+        </tr>
+        {{ end }}
+
         {{ if .Params.VictimRelatedByBloodOrMarriage }}
         <tr>
           <th>Related by Blood or Marriage</th>
           <td>{{ .Params.VictimRelatedByBloodOrMarriage }}</td>
         </tr>
         {{ end }}
+
         {{ if .Params.VictimVictimDefendantRelationship }}
         <tr>
           <th>Victim/ Defendant Relationship</th>
@@ -293,80 +340,94 @@
         </tr>
         {{ end }}
       </table>
+
       <h3 class="is-size-3">Defendant</h3>
       <table class="table is-hoverable is-fullwidth">
+
         {{ if .Params.DefendantName }}
         <tr>
           <th>Name</th>
           <td>{{ .Params.DefendantName }}</td>
         </tr>
         {{ end }}
+
         {{ if .Params.DefendantAge }}
         <tr>
           <th>Age</th>
           <td>{{ .Params.DefendantAge }}</td>
         </tr>
         {{ end }}
+
         {{ if .Params.DefendantGender }}
         <tr>
           <th>Gender</th>
           <td>{{ .Params.DefendantGender }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.DefendantBusinessOwner }}
-        <tr>
-          <th>Business Owner</th>
-          <td>{{ .Params.DefendantBusinessOwner }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.DefendantGender }}
-        <tr>
-          <th>Defedant/ Victim Relationship</th>
-          <td>{{ .Params.DefendantDefendantVictimRelationship }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.DefendantEmployed }}
-        <tr>
-          <th>Employed</th>
-          <td>{{ .Params.DefendantEmployed }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.DefendantEmploymentType }}
-        <tr>
-          <th>Employment Type</th>
-          <td>{{ .Params.DefendantEmploymentType }}</td>
-        </tr>
-        {{ end }}
+
         {{ if .Params.DefendantEthnicity }}
         <tr>
           <th>Ethnicity</th>
           <td>{{ .Params.DefendantEthnicity }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.DefendantKillingWhileProtectingPerson }}
-        <tr>
-          <th>Killed While Protecting Person</th>
-          <td>{{ .Params.DefendantKillingWhileProtectingPerson }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.DefendantKillingWhileProtectingProperty }}
-        <tr>
-          <th>Killed While Protecting Property</th>
-          <td>{{ .Params.DefendantKillingWhileProtectingProperty }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.DefendantOccupationalSkill }}
-        <tr>
-          <th>Occupation/ Skill</th>
-          <td>{{ .Params.DefendantOccupationalSkill }}</td>
-        </tr>
-        {{ end }}
+
         {{ if .Params.DefendantRace }}
         <tr>
           <th>Race</th>
           <td>{{ .Params.DefendantRace }}</td>
         </tr>
         {{ end }}
+
+        {{ if .Params.DefendantDefendantVictimRelationship }}
+        <tr>
+          <th>Defedant/ Victim Relationship</th>
+          <td>{{ .Params.DefendantDefendantVictimRelationship }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.DefendantBusinessOwner }}
+        <tr>
+          <th>Business Owner</th>
+          <td>{{ .Params.DefendantBusinessOwner }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.DefendantEmployed }}
+        <tr>
+          <th>Employed</th>
+          <td>{{ .Params.DefendantEmployed }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.DefendantEmploymentType }}
+        <tr>
+          <th>Employment Type</th>
+          <td>{{ .Params.DefendantEmploymentType }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.DefendantKillingWhileProtectingPerson }}
+        <tr>
+          <th>Killed While Protecting Person</th>
+          <td>{{ .Params.DefendantKillingWhileProtectingPerson }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.DefendantKillingWhileProtectingProperty }}
+        <tr>
+          <th>Killed While Protecting Property</th>
+          <td>{{ .Params.DefendantKillingWhileProtectingProperty }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.DefendantOccupationalSkill }}
+        <tr>
+          <th>Occupation/ Skill</th>
+          <td>{{ .Params.DefendantOccupationalSkill }}</td>
+        </tr>
+        {{ end }}
+
         {{ if .Params.DefendantRelatedByBloodOrMarriage }}
         <tr>
           <th>Related by Blood or Marriage</th>
@@ -374,83 +435,126 @@
         </tr>
         {{ end }}
       </table>
+
       <h3 class="is-size-3">Police</h3>
       <table class="table is-hoverable is-fullwidth">
-        {{ if .Params.PoliceAllegationsOfPoliceCorruption }}
-        <tr>
-          <th>Allegations of Police Corruption</th>
-          <td>{{ .Params.PoliceAllegationsOfPoliceCorruption }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.PoliceArrestMadeAtCrimeScene }}
-        <tr>
-          <th>Arrest Made at Crime Scene</th>
-          <td>{{ .Params.PoliceArrestMadeAtCrimeScene }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.PoliceDateDefendantArrested }}
-        <tr>
-          <th>Date Defendant Arrested</th>
-          <td>{{ .Params.PoliceDateDefendantArrested }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.PoliceDefendantIdDAtScene }}
-        <tr>
-          <th>Defendant Identified at Scene</th>
-          <td>{{ .Params.PoliceDefendantIdDAtScene }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.PoliceLocationOfArrest }}
-        <tr>
-          <th>Location of Arrest</th>
-          <td>{{ .Params.PoliceLocationOfArrest }}</td>
-        </tr>
-        {{ end }}
+
         {{ if .Params.PolicePrecinct }}
         <tr>
           <th>Precinct</th>
           <td>{{ .Params.PolicePrecinct }}</td>
         </tr>
         {{ end }}
+
+        {{ if .Params.PoliceAllegationsOfPoliceCorruption }}
+        <tr>
+          <th>Allegations of Police Corruption</th>
+          <td>{{ .Params.PoliceAllegationsOfPoliceCorruption }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.PoliceArrestMadeAtCrimeScene }}
+        <tr>
+          <th>Arrest Made at Crime Scene</th>
+          <td>{{ .Params.PoliceArrestMadeAtCrimeScene }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.PoliceDateDefendantArrested }}
+        <tr>
+          <th>Date Defendant Arrested</th>
+          <td>{{ .Params.PoliceDateDefendantArrested }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.PoliceDefendantIdDAtScene }}
+        <tr>
+          <th>Defendant Identified at Scene</th>
+          <td>{{ .Params.PoliceDefendantIdDAtScene }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.PoliceLocationOfArrest }}
+        <tr>
+          <th>Location of Arrest</th>
+          <td>{{ .Params.PoliceLocationOfArrest }}</td>
+        </tr>
+        {{ end }}
+
         {{ if .Params.PoliceTimeBetweenCrimeAndArrest }}
         <tr>
           <th>Time Between Crime and Arrest</th>
           <td>{{ .Params.PoliceTimeBetweenCrimeAndArrest }}</td>
         </tr>
         {{ end }}
+
         {{ if .Params.PoliceTotalNumberOfDefendantsArrested }}
         <tr>
           <th>Total Number of Defendants Arrested</th>
           <td>{{ .Params.PoliceTotalNumberOfDefendantsArrested }}</td>
         </tr>
         {{ end }}
+
         {{ if .Params.PoliceVictimEmployedInLawEnforcement }}
         <tr>
           <th>Victim Employed by Law Enforcement</th>
           <td>{{ .Params.PoliceVictimEmployedInLawEnforcement }}</td>
         </tr>
         {{ end }}
+
       </table>
       <h3 class="is-size-3">Legal</h3>
       <table class="table is-hoverable is-fullwidth">
-        {{ if .Params.LegalAllegationsOfPoliceCorruption }}
-        <tr>
-          <th>Allegations of Police Corruption</th>
-          <td>{{ .Params.LegalAllegationsOfPoliceCorruption }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.LegalChargesAgainstDefendant }}
-        <tr>
-          <th>Charges Against Defendant</th>
-          <td>{{ .Params.LegalAllegationsOfPoliceCorruption }}</td>
-        </tr>
-        {{ end }}
+
         {{ if .Params.LegalDateOfCoronerSDecision }}
         <tr>
           <th>Date of Coroner's Decision</th>
           <td>{{ .Params.LegalDateOfCoronerSDecision }}</td>
         </tr>
         {{ end }}
+
+        {{ if .Params.LegalOutcomeOfCoronerSJudgement }}
+        <tr>
+          <th>Outcome of Coroner's Judgment</th>
+          <td>{{ .Params.LegalOutcomeOfCoronerSJudgement }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.LegalChargesAgainstDefendant }}
+        <tr>
+          <th>Charges Against Defendant</th>
+          <td>{{ .Params.LegalAllegationsOfPoliceCorruption }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.LegalTrialJudge }}
+        <tr>
+          <th>Trial Judge</th>
+          <td>{{ .Params.LegalTrialJudge }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.LegalTypeOfLegalDecisionRecorded }}
+        <tr>
+          <th>Type of Legal Decision Recorded</th>
+          <td>{{ .Params.LegalTypeOfLegalDecisionRecorded }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.LegalJuryVerdict }}
+        <tr>
+          <th>Jury Verdict</th>
+          <td>{{ .Params.LegalJuryVerdict }}</td>
+        </tr>
+        {{ end }}
+
+        {{ if .Params.LegalAllegationsOfPoliceCorruption }}
+        <tr>
+          <th>Allegations of Police Corruption</th>
+          <td>{{ .Params.LegalAllegationsOfPoliceCorruption }}</td>
+        </tr>
+        {{ end }}
+
         {{ if .Params.LegalDateOfGrandJuryDecision }}
         <tr>
           <th>Date of Grand Jury Decision</th>
@@ -469,12 +573,7 @@
           <td>{{ .Params.LegalFelonyMurderClassification }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.LegalJuryVerdict }}
-        <tr>
-          <th>Jury Verdict</th>
-          <td>{{ .Params.LegalJuryVerdict }}</td>
-        </tr>
-        {{ end }}
+
         {{ if .Params.LegalLengthOfSentence }}
         <tr>
           <th>Length of Sentence</th>
@@ -487,12 +586,7 @@
           <td>{{ .Params.LegalNumberOfTimesCaseStrickenOff }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.LegalOutcomeOfCoronerSJudgement }}
-        <tr>
-          <th>Outcome of Coroner's Judgment</th>
-          <td>{{ .Params.LegalOutcomeOfCoronerSJudgement }}</td>
-        </tr>
-        {{ end }}
+
         {{ if .Params.LegalOutcomeOfGrandJuryDecision }}
         <tr>
           <th>Outcome of Grand Jury Decision</th>
@@ -523,18 +617,8 @@
           <td>{{ .Params.LegalSentencedTo }}</td>
         </tr>
         {{ end }}
-        {{ if .Params.LegalTrialJudge }}
-        <tr>
-          <th>Trial Judge</th>
-          <td>{{ .Params.LegalTrialJudge }}</td>
-        </tr>
-        {{ end }}
-        {{ if .Params.LegalTypeOfLegalDecisionRecorded }}
-        <tr>
-          <th>Type of Legal Decision Recorded</th>
-          <td>{{ .Params.LegalTypeOfLegalDecisionRecorded }}</td>
-        </tr>
-        {{ end }}
+
+
       </table>
 </div>
 {{ end }}
