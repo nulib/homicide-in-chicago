@@ -1,0 +1,24 @@
+<div class="column is-full-desktop" itemscope itemtype="http://schema.org/CreativeWork">
+    <h1 class="blog-timestamp">
+        {{ if eq .Type "post" }}
+        <h1 class="">
+        {{ partial "post/meta" . }}
+        </h1>
+        {{ end }}
+    </h1>
+    <h2 class="title">
+        <a href="{{ .Permalink }}" itemprop="headline">Case Number: {{ .Params.CaseDescriptionCaseNumber }}</a>
+    </h2>
+    {{ if .Params.CircumstancesAddress }}
+    <h3>{{ .Params.CircumstancesAddress }}</h3>
+    {{ end }}
+    {{ if .Params.CaseDescription }}
+    <blockquote itemprop="about">{{ .Params.CaseDescription }}</blockquote>
+    {{ end }}
+    <h2 class="content" itemprop="description">
+        {{ .Summary }}
+    </h2>
+</div>
+<div class="button">
+    <a href="{{ .RelPermalink }}" itemprop="url">Read More…</a>
+</div>
