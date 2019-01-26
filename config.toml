@@ -23,3 +23,6 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
   weight = 1
     identifier = "cases"
   url = "/cases/"
+
+  [outputs]
+    cases = ["HTML", "RSS", "JSON"]
