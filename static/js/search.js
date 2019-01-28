@@ -12,7 +12,7 @@ var fuseOptions = {
     {name:"Case Number",weight:0.8},
     {name:"Case Description",weight:0.5},
     {name:"Address",weight:0.3},
-    {name:"categories",weight:0.3}
+    {name:"contents",weight:0.3}
   ]
 };
 
