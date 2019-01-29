@@ -23,13 +23,48 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
   weight = 1
     identifier = "cases"
   url = "/cases/"
-  
+
 [[menu.main]]
   name = "Search"
   weight = 2
     identifier = "search"
   url = "/search/"
 
+[[menu.main]]
+  name = "Historical Context"
+  weight = 3
+    identifier = "historical"
+  url = "/historical/"
+
+[[menu.main]]
+  name = "Legal Context"
+  weight = 3
+    identifier = "legal"
+  url = "/legal/"
+
+[[menu.main]]
+  name = "Crimes of the Century"
+  weight = 4
+    identifier = "crimes"
+  url = "/crimes/"
+
+[[menu.main]]
+  name = "Publications"
+  weight = 5
+    identifier = "pubs"
+  url = "/pubs/"
+
+[[menu.main]]
+  name = "Videos"
+  weight = 6
+    identifier = "videos"
+  url = "/gallery/"
+
+[[menu.main]]
+  name = "About"
+  weight = 6
+    identifier = "about"
+  url = "/about/"
 
 [outputs]
   home = ["HTML", "JSON"]
