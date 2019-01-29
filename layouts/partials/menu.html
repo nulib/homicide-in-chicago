@@ -1,0 +1,36 @@
+<script src="/js/menu.js"></script>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="{{.Site.BaseURL | relURL}}">
+      <h1>Homicide in Chicago 1870-1930</h1>
+    </a>
+    <a role="button" class="navbar-burger " data-target="navMenu"  aria-label="menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </a>
+  </div>
+
+  <div class="navbar-menu" id="navMenu">
+
+    <!-- This "navbar-burger" hamburger menu is only visible on mobile -->
+    <!-- You need JavaScript to toggle the "is-active" class on "nav-menu" --><!--
+    <span class="navbar-burger">
+        <span></span>
+        <span></span>
+        <span></span>
+    </span>
+
+    <!-- This "nav-menu" is hidden on mobile -->
+    <!-- Add the modifier "is-active" to display it on mobile -->
+    <div class="navbar-end">
+      <div class="navbar-item">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+          <a itemprop="url" class="navbar-item {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} is-active{{end}}" href="{{.URL}}"><span itemprop="name">{{ .Name }}</span></a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</nav>
