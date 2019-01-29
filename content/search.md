@@ -1,5 +1,5 @@
 ---
-title: "Search Results"
+title: "Chicago Police Department Homicide Record Index"
 sitemap:
   priority : 0.1
 layout: "search"
