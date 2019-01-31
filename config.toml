@@ -21,8 +21,8 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 [[menu.main]]
   name = "Database"
   weight = 1
-    identifier = "cases"
-  url = "/cases/"
+    identifier = "database"
+  url = "/database/"
 
 [[menu.main]]
   name = "Search"
@@ -31,7 +31,7 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
   url = "/search/"
 
 [[menu.main]]
-  name = "Historical Context"
+  name = "History"
   weight = 3
     identifier = "historical"
   url = "/historical/"
