@@ -10,9 +10,12 @@ var fuseOptions = {
   minMatchCharLength: 1,
   keys: [
     {name:"CaseNumber",weight:0.8},
-    {name:"CaseDescription",weight:0.5},
-    {name:"Address",weight:0.7},
-    {name:"contents",weight:0.3}
+    {name:"CaseDescription",weight:0.7},
+    {name:"DateOfOffense",weight:0.6},
+    {name:"VictimName",weight:0.5},
+    {name:"DefendantName",weight:0.4},
+    {name:"Address",weight:0.3},
+    {name:"contents",weight:0.2}
   ]
 };
 
@@ -68,7 +71,7 @@ function populateResults(result){
     //pull template from hugo templarte definition
     var templateDefinition = $('#search-result-template').html();
     //replace values
-    var output = render(templateDefinition,{key:key,CaseNumber:value.item.CaseNumber,link:value.item.permalink,CaseDescription:value.item.CaseDescription,Address:value.item.Address,snippet:snippet});
+    var output = render(templateDefinition,{key:key,CaseNumber:value.item.CaseNumber,link:value.item.permalink,CaseDescription:value.item.CaseDescription,DateOfOffense:value.item.DateOfOffense,VictimName:value.item.VictimName,DefendantName:value.item.DefendantName,Address:value.item.Address,snippet:snippet});
     $('#search-results').append(output);
 
     $.each(snippetHighlights,function(snipkey,snipvalue){
