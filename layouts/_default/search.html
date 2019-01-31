@@ -23,6 +23,7 @@
     <div id="search-results">
       <br>
       {{ .Content }}
+      <hr>
     </div>
 </section>
 
@@ -32,7 +33,7 @@
 <script id="search-result-template" type="text/x-js-template">
   <section class="section is-paddingless">
     <div id="summary-${key}">
-      <h3><a href="${link}">Case Number: ${CaseNumber}</a></h3>
+      <h3 class="title is-3"><a href="${link}">Case Number: ${CaseNumber}</a></h3>
         ${ isset DateOfOffense }<p><span class="has-text-weight-bold">Date of Offense:</span> ${DateOfOffense}</p>${end}
         ${ isset VictimName }<p><span class="has-text-weight-bold">Victim Name:</span> ${VictimName}</p>${ end }
         ${ isset DefendantName }<p><span class="has-text-weight-bold">DefendantName:</span> ${DefendantName}</p>${ end }
