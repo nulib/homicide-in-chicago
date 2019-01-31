@@ -14,18 +14,18 @@
 {{ define "main" }}
 
 <section class="section">
-  <div class="content container" >
+  <div class="content container">
     <h2 class="title">{{ .Title }}</h2>
     <p>Disclaimer: The database is constructed verbatum from the source material. Hence all errors of spelling, naming, dates, etc have intentionally not been corrected.</p>
     <form action="{{ "search" | absURL }}">
       <input id="search-query" name="s" class="input is-large" type="text" placeholder="Search for names, addresses, or case number..."/>
     </form>
-      <div id="search-results">
-        <br>
-      </div>
-    </section>
-  </div>
+    <div id="search-results">
+      <br>
+      {{ .Content }}
+    </div>
 </section>
+
 
 <!-- this template is sucked in by search.js and appended to the search-results div above. So editing here will adjust style -->
 
