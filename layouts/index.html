@@ -11,7 +11,7 @@
         <div class="columns is-vcentered">
           <div class="column is-5">
             <figure class="image is-4by3">
-              <img class="lazyload" src="http://homicide.northwestern.edu/images_fk/timeline/1886/large/197.jpg" alt="Description">
+              <img class="lazyload" src="{{ .Params.image }}" alt="Description">
             </figure>
           </div>
           <div class="column is-7 is-multiline">
@@ -21,14 +21,20 @@
             <h2 class="subtitle is-three-fifths">
               {{ .Site.Params.description}}
             </h2>
-            <br>
-            <div class="column  is-offset-1">
-              {{ .Content }}
-            </div>
             </div>
           </div>
         </div>
       </div>
+
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
 
 {{ end }}
 
