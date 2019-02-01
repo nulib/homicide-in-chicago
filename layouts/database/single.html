@@ -421,6 +421,13 @@
         </tr>
         {{ end }}
 
+        {{ if .Params.DefendantKillingWhileProvidingMedicalServices }}
+        <tr>
+          <th>Killing While Providing Medical Services</th>
+          <td>{{ .Params.DefendantKillingWhileProvidingMedicalServices }}</td>
+        </tr>
+        {{ end }}
+
         {{ if .Params.DefendantOccupationalSkill }}
         <tr>
           <th>Occupation/ Skill</th>
