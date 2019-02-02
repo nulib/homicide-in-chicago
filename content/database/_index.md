@@ -3,7 +3,9 @@ title: "Chicago Police Department Homicide Record Index"
 draft: false
 description: "Over 11,000 homicide cases in Chicago."
 layout: "search"
-permalink: /search/
+url: /search/
+aliases:
+  - /database/
 ---
 Following documents help explain changes to Street Addresses over time conversion sites:
 
