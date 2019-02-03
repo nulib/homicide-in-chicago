@@ -24,6 +24,8 @@ var searchQuery = param("s");
 if(searchQuery){
   $("#search-query").val(searchQuery);
   executeSearch(searchQuery);
+  $('.loading-overlay').show();
+  setTimeout(function() {$('.loading-overlay').hide()}, 3000);
 }else {
   $('#search-results');
 }
