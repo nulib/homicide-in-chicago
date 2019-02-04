@@ -3,9 +3,13 @@
 
 ## To test it out
 `$ git clone https://github.com/nulib/homicide-in-chicago.git`
+
 `$ cd homicide-in-chicago`
+
 `$ hugo` to build the search index (/index.json)
+
 `$ hugo serve` to start a development server
+
 Visit http://localhost:1313
 
 ## Credits
