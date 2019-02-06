@@ -11,7 +11,13 @@
         <section class="hero is-default is-bold">
             <div class="hero-body">
                 <div class="content container">
-                   {{ .Content}}
+                  <h2 class="title">{{ .Title }}</h2>
+                  <!-- Arch is not currently configured to allow iframe embeds
+                  <iframe src="http://arch.library.northwestern.edu/concern/parent/vx021f31v/file_sets/s7526c62c" style="height:440px;width:100%"></iframe>
+                  -->
+                  {{ .Content}}
+
+                  <a class="button" href="{{ .Params.doi }}">Download</a>
                 </div>
                 <br>
             </div>
