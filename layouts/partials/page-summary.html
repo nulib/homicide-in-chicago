@@ -1,0 +1,28 @@
+<div class="column is-full-desktop" itemscope itemtype="http://schema.org/CreativeWork">
+    <h1 class="blog-timestamp">
+        {{ if eq .Type "post" }}
+        <h1 class="">
+        {{ partial "post/meta" . }}
+        </h1>
+        {{ end }}
+    </h1>
+    <article class="media">
+      <a href="{{ .Permalink }}" alt="{{ .Title }}" title="{{ .Title }}">
+        <figure class="media-left">
+          <p class="image is-128x128">
+            <img src="/img/{{ .Params.thumbnail }}">
+          </p>
+        </figure>
+      </a>
+      <div class="media-content">
+        <div class="content">
+          <h2 class="title">
+              <a href="{{ .Permalink }}" itemprop="headline">{{ .Title }}</a>
+          </h2>
+          <p class="content" itemprop="description">
+              {{ .Content }}
+          </p>
+        </div>
+      </div>
+    </article>
+</div>
