@@ -26,7 +26,7 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [[menu.main]]
   name = "History"
-  weight = 3
+  weight = 2
     identifier = "historical"
   url = "/historical/"
 
@@ -51,12 +51,12 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 [[menu.main]]
   name = "Videos"
   weight = 6
-    identifier = "videos"
+    identifier = "gallery"
   url = "/gallery/"
 
 [[menu.main]]
   name = "About"
-  weight = 6
+  weight = 7
     identifier = "about"
   url = "/about/"
 
