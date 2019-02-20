@@ -14,23 +14,32 @@
 
   <div class="navbar-menu" id="navMenu">
 
-    <!-- This "navbar-burger" hamburger menu is only visible on mobile -->
-    <!-- You need JavaScript to toggle the "is-active" class on "nav-menu" --><!--
-    <span class="navbar-burger">
-        <span></span>
-        <span></span>
-        <span></span>
-    </span>
-
-    <!-- This "nav-menu" is hidden on mobile -->
-    <!-- Add the modifier "is-active" to display it on mobile -->
     <div class="navbar-end">
-      <div class="navbar-item">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-          <a itemprop="url" class="navbar-item {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} is-active{{end}}" href="{{.URL}}"><span itemprop="name">{{ .Name }}</span></a>
-        {{ end }}
-      </div>
+
+      {{- $currentPage := . }}
+      {{- range .Site.Menus.main }}
+      	{{- if .HasChildren }}
+      	<div class="navbar-item has-dropdown is-hoverable">
+      		{{ template "navbar-link" . -}}
+      		<div class="navbar-dropdown">
+      			{{- range .Children -}}
+      			{{ template "navbar-item" . }}
+      			{{- end -}}
+      		</div>
+      	</div>
+      	{{- else -}}
+      		{{ template "navbar-item" . }}
+      	{{- end -}}
+      {{- end -}}
+
+      {{ define "navbar-item" }}
+      	<a class="navbar-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
+      {{ end }}
+
+      {{ define "navbar-link" }}
+      	<a class="navbar-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
+      {{ end }}
+
     </div>
   </div>
 </nav>
