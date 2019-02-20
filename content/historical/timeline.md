@@ -3,17 +3,9 @@ title: "Timeline of the City's History"
 url: /historical/timeline/
 ---
 
-###Timeline of the City's History
-Click on images to display more for each year.
+![1871 Image](/img/timeline/1871.jpg) **1871 Great Chicago Fire** (City Population is at 298,977; 90,000 left homeless, 300 dead; Center City devastated.  Chicago Public Library founded with books donated after the fire) **Montgomery Ward Founded** (First mass market catalog company). Selected case(s) from this year:  [2403](/database/2472)
 
-![1871 Image]()
-**1871 Great Chicago Fire** (City Population is at 298,977; 90,000 left homeless, 300 dead; Center City devastated.  Chicago Public Library founded with books donated after the fire)
-**Montgomery Ward Founded** (First mass market catalog company)
-Selected case(s) from this year:  [2403](/database/2472)
-
-![1872 image]()
-**1872 First Black Police Officer** (Mayor Carter Harrison appoints 4 Black police officers)
-Selected case(s) from this year:  [505](/database/533)
+![1872 image](/img/timeline/1872.jpg) **1872 First Black Police Officer** (Mayor Carter Harrison appoints 4 Black police officers) Selected case(s) from this year: [505](/database/533)
 
 ![1873 image]()
 **1873 Financial Panic (through 1879)** ("Bread Riot" on LaSalle Street; Founding of Pullman City)
