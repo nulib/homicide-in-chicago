@@ -18,6 +18,8 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 #  github  = "github" # Optional, to display link to github account in menu bar
 #  twitter = "twitter" # Optional, to display link to twitter account in menu bar
 
+SectionPagesMenu = "main"
+
 [[menu.main]]
   name = "Database"
   weight = 1
