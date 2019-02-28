@@ -1,6 +1,7 @@
 ---
 title: "1919 Race Riot"
 permalink: /historical/movements/raceriot
+layout: historical
 ---
 
 ###1919 Race Riot
@@ -13,7 +14,7 @@ permalink: /historical/movements/raceriot
 
 The Race riot in Chicago in the summer of 1919 left 38 dead, including twenty three black men and boys; and 537 injured, of whom 342 were black, and hundreds homeless. Race riots in other Midwestern and northern cities took place about the same time, as social tensions were aggravated by economic and labor problems after the World War I armistice.
 
-The Coroner’s report on the riot described the events as follows: “Five days of terrible hate and passion let loose, cost the people of Chicago 38 lives (15 white and 23 colored), wounded and maimed several hundred, destroyed property of untold value, filled thousands with fear, blemished the city and left in its wake fear and apprehension for the future....” 
+The Coroner’s report on the riot described the events as follows: “Five days of terrible hate and passion let loose, cost the people of Chicago 38 lives (15 white and 23 colored), wounded and maimed several hundred, destroyed property of untold value, filled thousands with fear, blemished the city and left in its wake fear and apprehension for the future....”
 
 Chicago as a national railroad hub, and with its booming industrial economy during the war, had been a magnet for black workers from the South from 1918 onward. The black population in Chicago increased 148 per cent from 1916 to 1919. The Great Migration of blacks from the South to the urban and industrial north and Midwest, encouraged by reports of available jobs in the stockyards and the meat packing industry, by the leading black American newspaper, *The Defender*, published in Chicago, resulted in dramatic changes in the demographics of many inner city wards, and the creation of new, vibrant black neighborhoods in the city.
 

@@ -1,9 +1,9 @@
 ---
 title: "Jane Addams and Hull House"
 permalink: /historical/movements/hullhouse
+layout: historical
 ---
 
-###Jane Addams and Hull House
 ![Jane Addams, speaking to a crowd upon her arrival at Union Depot](/historical/timeline/1915/281)
 Jane Addams, speaking to a crowd upon her arrival at Union Depot. Click on image to view detail
 
@@ -19,7 +19,7 @@ Jane Addams
 **For more information:**
    *Hull House Maps and Papers* (1895):
     **Chapter X: The Settlement as a factor in the labor movement**
-    
+
     **Editor's Preface**
-    
+
     **Urban Experience in Chicago: Hull-House and Its Neighborhoods, 1889-1963.**

@@ -1,13 +1,11 @@
 ---
 title: "Labor, Social and Reform Movements"
 permalink: /historical/movements
+layout: historical
 menu:
   main:
     parent: historical
 ---
-
-### Labor, Social and Reform Movements
-
 
    [Working in Chicago (1870-1930)](/historical/movements/working)
 

@@ -1,7 +1,7 @@
 ---
 title: "Historical Context"
 url: /historical/
-layout: single
+layout: historical
 ---
 <section class="section">
   <div class="container">

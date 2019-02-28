@@ -12,7 +12,17 @@
             <div class="hero-body">
                 <div class="content container">
                   <h2>{{ .Params.Title }}</h2>
+
+                  {{ if .Params.image_src }}
+                  <div class="box">
+                    <figure class="image">
+                      <img src="{{ .Params.image_src }}">
+                    </figure>
+                  </div>
+                  {{ end }}
+
                    {{ .Content}}
+
                 </div>
                 <br>
             </div>

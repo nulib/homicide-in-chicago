@@ -1,6 +1,7 @@
 ---
 title: "People and Events"
 permalink: /historical/people/
+layout: historical
 menu:
   main:
     parent: historical
