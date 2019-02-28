@@ -1,6 +1,9 @@
 ---
 title: "Timeline of the City's History"
 url: /historical/timeline/
+menu:
+  main:
+    parent: historical
 ---
 
 ![1871 Image](/img/timeline/1871.jpg) **1871 Great Chicago Fire** (City Population is at 298,977; 90,000 left homeless, 300 dead; Center City devastated.  Chicago Public Library founded with books donated after the fire) **Montgomery Ward Founded** (First mass market catalog company). Selected case(s) from this year:  [2403](/database/2472)
