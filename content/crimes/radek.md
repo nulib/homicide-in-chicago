@@ -1,14 +1,13 @@
 ---
 title: "1910: Child Murderess: The Mary Radek Case"
 permalink: /crimes/radek/
+layout: crimes-page
 ---
 
-###1910: Child Murderess: The Mary Radek Case
-
 ![]()
-click on image to view photo details	
+click on image to view photo details
 
-Cases involving children as victims and defendants are found at all periods in the records. Some cases are accidental deaths; some are intentional. All raise special issues for legal determination. 
+Cases involving children as victims and defendants are found at all periods in the records. Some cases are accidental deaths; some are intentional. All raise special issues for legal determination.
 
 [View case details...](/database/2093/)
 

@@ -1,14 +1,13 @@
 ---
 title: "1903: Police Chief Cut to Death"
 permalink: /crimes/policeChief/
+layout: crimes-page
 ---
 
-###1903: Police Chief Cut to Death
-
 ![]()
-click on image to view photo details	
+click on image to view photo details
 
-Extraordinary and dramatic circumstances of homicide, such as these, offer an opportunity for investigation into original source materials. Did the newspapers of the day offer an explanation for these events? Was the homicide sparked by police corruption, or related to another incident of interracial conflict? 
+Extraordinary and dramatic circumstances of homicide, such as these, offer an opportunity for investigation into original source materials. Did the newspapers of the day offer an explanation for these events? Was the homicide sparked by police corruption, or related to another incident of interracial conflict?
 
 [View case details...](/database/39/)
 
@@ -32,19 +31,19 @@ The following research institutions also have some original newspaper records fr
    Chicago, IL 60614
    Phone (312) 642-4600
    Fax (312) 266-2077
-   
+
    [Chicago Public Library](https://www.chipublib.org/)
    400 S. State St.
    Chicago, IL 60605
    Archives Dept. Phone (312) 747-1941
    Special Collections Dept. Phone (312) 747-4740
    Fax (312) 747-4077
-   
+
    [Newberry Library](https://www.newberry.org/)
    60 W. Walton St.
    Chicago, IL 60610
    Phone (312) 943-9090
-   
+
    [University of Chicago Library](https://www.lib.uchicago.edu/)
    Special Collections Research Center
    1100 East 57th St.

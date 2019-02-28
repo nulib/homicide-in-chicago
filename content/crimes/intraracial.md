@@ -1,14 +1,13 @@
 ---
 title: "1923: Intra-Racial Murder"
 permalink: /crimes/intraracial
+layout: crimes-page
 ---
 
-###1923: Intra-Racial Murder
-
 ![]()
 ![]()
 
-The vast majority of murders in this data set occur between persons of the same race and ethnicity, with the exception of extraordinary eruptions of violence such as the [Chicago Race Riots in 1919](/historical/movements/raceriot/ ). 
+The vast majority of murders in this data set occur between persons of the same race and ethnicity, with the exception of extraordinary eruptions of violence such as the [Chicago Race Riots in 1919](/historical/movements/raceriot/ ).
 
 For this data set of more than 11,000 cases the breakdown of homicides by race is as follows: [JCLC p.520-521](doesnt work). The coding protocols for race of victim and defendant are described at: [JCLC p.543-546](doesnt work). Data on race of victim and defendant are also presented as Figures ([JCLC p.530](/docs_fk/homicide/jclc530.pdf)) and Tables ([JCLC p.551 and JCLC p.552](doesnt work)). Demographics by race, percent Foreign Born, and the figures for unemployment, 1870-1930 are reported in: JCLC p.553-554.
 

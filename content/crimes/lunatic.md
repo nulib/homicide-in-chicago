@@ -1,14 +1,13 @@
 ---
 title: "1887: Lunatic at Large"
 permalink: /crimes/lunatic/
+layout: crimes-page
 ---
 
-###1887: Lunatic at Large
-
 ![Eugene Patrick Prendergast, photographed in the Cook County Jail]()
-click on image to view photo details	
+click on image to view photo details
 
-Killings by persons who were insane, deranged or temporarily incapacitated mentally occur throughout this data set. The standard for proving insanity was the McNaghten test, the standard being that the actor did not know what he was doing or did not know that it was wrong. This standard is still used in most American jurisdictions today. 
+Killings by persons who were insane, deranged or temporarily incapacitated mentally occur throughout this data set. The standard for proving insanity was the McNaghten test, the standard being that the actor did not know what he was doing or did not know that it was wrong. This standard is still used in most American jurisdictions today.
 
 [View case details...](/database/899/)
 
