@@ -1,7 +1,7 @@
 ---
 title: "1923: Intra-Racial Murder"
 permalink: /crimes/intraracial
-layout: crimes-page
+layout: crimes
 ---
 
 ![]()

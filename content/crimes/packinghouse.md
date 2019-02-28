@@ -1,7 +1,7 @@
 ---
 title: "1921: Strike In A Packing House"
 permalink: /crimes/packinghouse/
-layout: crimes-page
+layout: crimes
 ---
 
 ![]()

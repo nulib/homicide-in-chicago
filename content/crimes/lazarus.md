@@ -1,7 +1,7 @@
 ---
 title: "1908: An Accidental Anarchist"
 permalink: /crimes/lazarus/
-layout: crimes-page
+layout: crimes
 ---
 
 ![]()

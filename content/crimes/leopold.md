@@ -1,7 +1,7 @@
 ---
 title: "1924: Leopold and Loeb"
 permalink: /crimes/leopold/
-layout: crimes-page
+layout: crimes
 ---
 
 ![Photograph of Leopold and Loeb with their defense attorney, Clarence Darrow and two unidentified men]()

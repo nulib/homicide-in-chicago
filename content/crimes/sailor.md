@@ -1,7 +1,7 @@
 ---
 title: "1876: The Stabbed Sailor"
 permalink: /crimes/sailor/
-layout: crimes-page
+layout: crimes
 ---
 
 ![Chicago Daily Tribune cover story]()

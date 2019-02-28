@@ -1,7 +1,7 @@
 ---
 title: "1903: Police Chief Cut to Death"
 permalink: /crimes/policeChief/
-layout: crimes-page
+layout: crimes
 ---
 
 ![]()

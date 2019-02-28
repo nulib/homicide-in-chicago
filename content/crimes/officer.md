@@ -1,7 +1,7 @@
 ---
 title: "1921: Killing By An Officer"
 permalink: /crimes/officer/
-layout: crimes-page
+layout: crimes
 ---
 
 ![]()

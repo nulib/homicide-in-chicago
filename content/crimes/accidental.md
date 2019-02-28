@@ -1,7 +1,7 @@
 ---
 title: "1921: Accidental Shooting"
 permalink: /crimes/accidental/
-layout: crimes-page
+layout: crimes
 ---
 
 Deaths attributed to accidental shootings occur regularly throughout this set of cases. Some cases involve children, some involve quarrels in saloons or bars, or circumstances of domestic violence.

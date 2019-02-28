@@ -1,7 +1,7 @@
 ---
 title: "1893: Mayor Carter Harrison"
 permalink: /crimes/carter/
-layout: crimes-page
+layout: crimes
 ---
 
 ![Mayor Carter Harrison, photo courtesy the Chicago Historical Society]()

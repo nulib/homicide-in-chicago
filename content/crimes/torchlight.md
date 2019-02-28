@@ -1,7 +1,7 @@
 ---
 title: "1876: Boy Kicked to Death"
 permalink: /crimes/torchlight/
-layout: crimes-page
+layout: crimes
 ---
 
 ![Girls Sewing in Chicago Sweatshop]()

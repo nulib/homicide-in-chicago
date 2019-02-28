@@ -1,7 +1,7 @@
 ---
 title: "1919: The Race Riot"
 permalink: /crimes/raceriot/
-layout: crimes-page
+layout: crimes
 ---
 
 ![]()

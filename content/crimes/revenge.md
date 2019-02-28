@@ -1,7 +1,7 @@
 ---
 title: "1923: Revenge"
 permalink: /crimes/revenge
-layout: crimes-page
+layout: crimes
 ---
 
 ![Alice Davis Sing, Accused Murderess]()

@@ -1,7 +1,7 @@
 ---
 title: "1886: Haymarket Affair"
 permalink: /crimes/haymarket/
-layout: crimes-page
+layout: crimes
 ---
 
 ![Chicago Daily Tribune cover story]()

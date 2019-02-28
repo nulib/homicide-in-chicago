@@ -1,7 +1,7 @@
 ---
 title: "1887: Lunatic at Large"
 permalink: /crimes/lunatic/
-layout: crimes-page
+layout: crimes
 ---
 
 ![Eugene Patrick Prendergast, photographed in the Cook County Jail]()
