@@ -20,6 +20,9 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 SectionPagesMenu = "main"
 
+[permalinks]
+  posts = "/:section/:filename/"
+
 [[menu.main]]
   name = "Database"
   weight = 1
