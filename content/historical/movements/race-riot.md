@@ -1,6 +1,5 @@
 ---
 title: "1919 Race Riot"
-permalink: /historical/movements/raceriot
 layout: historical
 ---
 
