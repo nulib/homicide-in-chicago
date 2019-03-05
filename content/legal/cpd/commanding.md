@@ -1,6 +1,6 @@
 ---
 title: "Commanding Officers"
-permalink: /legal/cpd/commanding
+layout: legal
 ---
 
 ![Commanding Officers](/historical/timeline/1906/345/)

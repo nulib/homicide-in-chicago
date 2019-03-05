@@ -1,12 +1,7 @@
 ---
 title: "Chicago Police Department"
-permalink: /legal/cpd/
-menu:
-  main:
-    parent: legal
+layout: legal
 ---
-
-###Chicago Police Department
 
 ![William (Wild Billy) Lewis with Patrick Knox]()
 ![Florence Carsello sitting on Policeman Martin Ernest's lap]()

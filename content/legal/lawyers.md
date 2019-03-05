@@ -1,6 +1,6 @@
 ---
 title: "Lives of Lawyers"
-permalink: /legal/lawyers
+layout: legal
 ---
 
 ###Lives of Lawyers
@@ -11,5 +11,5 @@ permalink: /legal/lawyers
   *[William P. Black](/crimes/haymarket/newspaper/blackobit/)
   *[Clarence Darrow](/legal/lawyers/darrowobit/)
 
-Rare interview of Clarence Darrow. 
+Rare interview of Clarence Darrow.
 Circa 1932. Source unknown.

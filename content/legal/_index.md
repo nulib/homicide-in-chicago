@@ -1,4 +1,4 @@
 ---
 title: Legal Context
-layout: single
+layout: legal
 ---

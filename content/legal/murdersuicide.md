@@ -1,6 +1,7 @@
 ---
 title: "Murder-Suicides"
-permalink: /legal/murdersuicide/
+layout: legal
+aliases: [/legal/murdersuicide]
 ---
 
 ###Murder-Suicides

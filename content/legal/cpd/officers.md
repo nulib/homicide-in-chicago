@@ -1,9 +1,7 @@
 ---
 title: "Officers and Detectives"
-permalink: /legal/cpd/officers
+layout: legal
 ---
-
-###Officers and Detectives
 
 ![Policeman Orthman](/historical/timeline/1907/338/)
 ![Policeman Foley](/historical/timeline/1909/340/)

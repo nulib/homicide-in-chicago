@@ -1,11 +1,11 @@
 ---
 title: "Gambling"
-permalink: /legal/gambling
+layout: legal
 ---
 
 ![Gambling]()
-![Andy Craig]() 
-![J. T. 'Bud' White]() 
+![Andy Craig]()
+![J. T. 'Bud' White]()
 ![John A. Rogers]()
 ![Andy Craig (outside)]()
 ![Si Mayer]()

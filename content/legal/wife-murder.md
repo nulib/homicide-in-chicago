@@ -1,6 +1,6 @@
 ---
 title: "Wife Murder"
-permalink: /legal/wife-murder/
+layout: legal
 ---
 
 ###Wife Murder
