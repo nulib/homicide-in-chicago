@@ -1,6 +1,5 @@
 ---
 title: "Crimes of the Century"
-permalink: /crimes/
 layout: crimes
 ---
 The patterns of homicide which emerged from our study of the record were unique, but also similar to those exhibited today and in other studies of homicide and social violence: killings related to what we now term domestic violence, lethal violence by police and the killing of police officers, seemingly senseless slayings in bars and saloons, what appear to be impulse murders over trivial amounts of money, random and spontaneous insults or gratuitous verbal exchanges, killings by persons who are drunk, and murders by the insane, the mentally deranged or mentally disabled.

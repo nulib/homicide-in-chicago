@@ -1,6 +1,5 @@
 ---
 title: "1921: Accidental Shooting"
-permalink: /crimes/accidental/
 layout: crimes
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "1923: Death By Moonshine"
-permalink: /crimes/moonshine/
 layout: crimes
 ---
 

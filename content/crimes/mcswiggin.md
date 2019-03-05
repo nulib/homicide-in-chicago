@@ -1,6 +1,5 @@
 ---
 title: "1926: Capone vs. McSwiggin"
-permalink: /crimes/mcswiggin/
 layout: crimes
 ---
 

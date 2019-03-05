@@ -1,6 +1,5 @@
 ---
 title: "1876: Boy Kicked to Death"
-permalink: /crimes/torchlight/
 layout: crimes
 ---
 

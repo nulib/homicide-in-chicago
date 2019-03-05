@@ -1,7 +1,7 @@
 ---
 title: "1870: Harrison Street Police Station"
-permalink: /crimes/harrison-street/
 layout: crimes
+aliases: [/crimes/harrisonStreet/]
 ---
 
 [Harrison Street Police Station circa 1900]()

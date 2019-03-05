@@ -1,6 +1,5 @@
 ---
 title: "1910: Child Murderess: The Mary Radek Case"
-permalink: /crimes/radek/
 layout: crimes
 ---
 

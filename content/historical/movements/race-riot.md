@@ -1,6 +1,7 @@
 ---
 title: "1919 Race Riot"
 layout: historical
+aliases: [/historical/raceriot]
 ---
 
 ###1919 Race Riot

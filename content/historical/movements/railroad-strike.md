@@ -1,6 +1,7 @@
 ---
 title: "Railroad Strike (1877)"
 layout: historical
+aliases: [/historical/railroadStrike/]
 ---
 
 ![Railway Strike 1]()

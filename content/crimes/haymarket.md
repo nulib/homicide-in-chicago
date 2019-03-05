@@ -1,6 +1,5 @@
 ---
 title: "1886: Haymarket Affair"
-permalink: /crimes/haymarket/
 layout: crimes
 ---
 

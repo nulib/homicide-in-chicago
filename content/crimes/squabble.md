@@ -1,6 +1,5 @@
 ---
 title: "1922: Union Squabble"
-permalink: /crimes/squabble/
 layout: crimes
 ---
 

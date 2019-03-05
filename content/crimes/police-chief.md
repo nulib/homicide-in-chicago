@@ -1,7 +1,7 @@
 ---
 title: "1903: Police Chief Cut to Death"
-permalink: /crimes/police-chief/
 layout: crimes
+aliases: [/crimes/harrisonStreet/]
 ---
 
 ![]()

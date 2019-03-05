@@ -1,7 +1,7 @@
 ---
 title: "1910: Wife Murder In Chicago"
-permalink: /crimes/wife-murder/
 layout: crimes
+aliases: [/crimes/wifeMurder/]
 ---
 
 ![]()

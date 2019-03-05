@@ -1,6 +1,5 @@
 ---
 title: "1893: Mayor Carter Harrison"
-permalink: /crimes/carter/
 layout: crimes
 ---
 

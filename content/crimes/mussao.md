@@ -1,6 +1,5 @@
 ---
 title: "1912: Husband Set On Fire"
-permalink: /crimes/mussao/
 layout: crimes
 ---
 

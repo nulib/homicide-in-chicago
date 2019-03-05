@@ -1,7 +1,7 @@
 ---
 title: "1889: Murder-Suicide"
-permalink: /crimes/murder-suicide/
 layout: crimes
+aliases: [/crimes/murderSuicide/]
 ---
 
 [Elizabeth Mize, Murder Victim]()

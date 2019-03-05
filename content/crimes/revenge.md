@@ -1,6 +1,5 @@
 ---
 title: "1923: Revenge"
-permalink: /crimes/revenge
 layout: crimes
 ---
 

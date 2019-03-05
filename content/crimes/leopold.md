@@ -1,6 +1,5 @@
 ---
 title: "1924: Leopold and Loeb"
-permalink: /crimes/leopold/
 layout: crimes
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "1925: People vs. Fisher"
-permalink: /crimes/fisher/
 layout: crimes
 ---
 

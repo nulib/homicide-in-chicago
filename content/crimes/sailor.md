@@ -1,6 +1,5 @@
 ---
 title: "1876: The Stabbed Sailor"
-permalink: /crimes/sailor/
 layout: crimes
 ---
 
