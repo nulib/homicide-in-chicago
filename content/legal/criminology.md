@@ -3,7 +3,6 @@ title: "Criminology"
 layout: legal
 ---
 
-### Criminology
 ![Northwestern University Law School facilities, Loop location-click on photo to enlarge]()
 ![Northwestern University Law School facilities, Loop location-click on photo to enlarge]()
 ![Northwestern University Law School facilities, Loop location-click on photo to enlarge]()

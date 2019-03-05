@@ -3,8 +3,6 @@ title: "Judges"
 layout: legal
 ---
 
-### Judges
-
 Florence Carsello sitting on Policeman Martin Ernest's lap
 Judges Johnston, Baldwin, McGoonty Cook
 County Circuit Court Judge John R. Caverly sitting behind judge's bench

@@ -3,7 +3,6 @@ title: "Capital Punishment"
 layout: legal
 ---
 
-###Capital Punishment
 ![Cook County Criminal Court Building and Jail circa 1886- click on photo to view larger version]()
 
 Capital punishment, or the death penalty, was the legal punishment for murder during this entire period. Yet a small proportion of those convicted of murder were sentenced to death, and a smaller proportion of those were actually executed. During this entire time capital punishment was a politically charged issue, with  periodic calls for its abolition. Juries imposed the death sentence under the law, but judges controlled the conduct of trial and had the authority to modify or overrule the jury's sentence.

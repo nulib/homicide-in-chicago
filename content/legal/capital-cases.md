@@ -1,9 +1,8 @@
 ---
 title: "Capital Punishment Cases"
 layout: legal
+aliases: [/legal/capital_cases/index.html]
 ---
-
-### Capital Punishment Cases
 
 **July 27, 1919**
 Wilkinson, Jannet - Age 6 - Choked to death and body hidden under coal in basement of 114 E. Superior St., by Thomas Fitzgerald, who, on 7/28 was held by the Coroner. 28 Pct. 9/23/19 - Sentenced to hang 10/17/19 - Crowe. 10/17/19 - Hanged at County Jail.

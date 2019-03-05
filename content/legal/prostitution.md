@@ -3,8 +3,6 @@ title: "Prostitution"
 layout: legal
 ---
 
-Prostitution
-
 ![Prostitution in Chicago]()
 ![Exterior view of the Heitler Resort, a house of prostitution at 310 North Peoria Street (formerly 169 Peoria Street), in the Near West Side community area of Chicago]()
 ![Marching on the Levee District]()

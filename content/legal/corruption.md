@@ -3,8 +3,6 @@ title: "Anti-Corruption Campaigns"
 layout: legal
 ---
 
-###Anti-Corruption Campaigns
-
 ![Lieutenant Augustus White](historical/timeline/1917/446/)
 ![Captain Nicholas Hunt](/historical/timeline/1917/431/)
 ![Healey Corruption Case](/historical/timeline/1916/430/)

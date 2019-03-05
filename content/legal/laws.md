@@ -3,8 +3,6 @@ title: "The Laws"
 layout: legal
 ---
 
-###The Laws
-
 This collection of statutes, cases and other legal documents relate to subjects and topics addressed in this web site. They are arranged chronologically, rather than by subject.
 
   *[Illinois Homicide Statute 1871](/docs_fk/homicide/laws/ill_homicide_statute_1871.pdf)
