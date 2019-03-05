@@ -1,10 +1,7 @@
 ---
 title: "Working in Chicago (1870-1930)"
-permalink: /historical/movements/working/
 layout: historical
 ---
-
-### Working in Chicago (1870-1930)
 
 ![Kids on Cleveland Avenue in Chicago](/historical/timeline/1914/91)
 These images offer glimpses of how people lived and worked in Chicago during the period of this data set.
