@@ -2,34 +2,57 @@
   {{ .Title }} | {{ .Site.Title }}
 {{- end }}
 
-{{ define "header" }} {{ partial "menu" . }} {{ end }}
+{{ define "header"}} {{ partial "menu" . }} {{ end }}
 
 {{ define "main" }}
 
-<div class="columns is-fullheight">
-    <div class="column">
-        <section class="hero is-default is-bold">
-            <div class="hero-body">
-                <div class="content container">
-                  <h2>{{ .Params.Title }}</h2>
+<section class="section">
 
-                  {{ if .Params.image_src }}
-                  <div class="box">
-                    <figure class="image">
-                      <img src="{{ .Params.image_src }}">
-                    </figure>
-                  </div>
-                  {{ end }}
+<div class="container">
 
-                   {{ .Content}}
+    <div class="columns">
 
-                </div>
-                <br>
-            </div>
-        </section>
-    </div>
+      <div class="column is-one-quarter">
+        <aside class="menu">
+          <p class="menu-label">
+            Historical Context
+          </p>
+          <ul class="menu-list">
+            <li><a href="/historical/">People and Events</a></li>
+            <li><a href="/historical/timeline/">Timeline of the City's History</a></li>
+            <li>
+              <a href="">Labor, Social and Reform Movements</a>
+              <ul>
+                <li><a href="/historical/people/">Working in Chicago</a></li>
+                <li><a href="/historical/people/">Prohibition and Temperance</a></li>
+                <li><a href="/historical/people/">Race Riot</a></li>
+                <li><a href="/historical/people/">Jane Addams and Hull House</a></li>
+                <li><a href="/historical/people/">The Haymarket Affair</a></li>
+                <li><a href="/historical/people/">Railroad Strike</a></li>
+              </ul>
+            </li>
+            <li><a href=""></a>Lives of Children</li>
+          </ul>
+        </aside>
+      </div>
+
+
+      <div class="column">
+        <div class="content">
+          <h2>{{ .Params.Title }}</h2>
+
+            {{ .Content }}
+        </div>
+      </div>
+
+    </div><!-- columns -->
+
 </div>
+
+</section>
+
 {{ end }}
+
 {{ define "footer" }}
   {{ partial "footer" . }}
 {{ end }}
