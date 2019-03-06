@@ -3,11 +3,11 @@ title: "Anti-Corruption Campaigns"
 layout: legal
 ---
 
-![Lieutenant Augustus White](historical/timeline/1917/446/)
-![Captain Nicholas Hunt](/historical/timeline/1917/431/)
-![Healey Corruption Case](/historical/timeline/1916/430/)
-![Policeman Jason Walston](/historical/timeline/1915/432/)
-![Lieutenant Augustus White](/historical/timeline/1917/437/)
+[![Lieutenant Augustus White](/static/img/legal/corruption/white.jpg)](historical/timeline/1917/446/)
+[![Captain Nicholas Hunt](/static/img/legal/corruption/hunt.jpg)](/historical/timeline/1917/431/)
+[![Healey Corruption Case](/static/img/legal/corruption/healey.jpg)](/historical/timeline/1916/430/)
+[![Policeman Jason Walston](/static/img/legal/corruption/walston.jpg)](/historical/timeline/1915/432/)
+[![Lieutenant Augustus White](/static/img/legal/corruption/white_2.jpg)](/historical/timeline/1917/437/)
 
 The history of the Chicago police and city government during this period is a story of periodic efforts at reform, followed by elections which put back in power corrupt politicians and officers of the law. The police department was under the authority of the Mayor, and the appointment or retention of the Chief of Police for Chicago was one of the first and most important political acts of a new administration.
 

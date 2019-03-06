@@ -3,27 +3,27 @@ title: "Prostitution"
 layout: legal
 ---
 
-![Prostitution in Chicago]()
-![Exterior view of the Heitler Resort, a house of prostitution at 310 North Peoria Street (formerly 169 Peoria Street), in the Near West Side community area of Chicago]()
-![Marching on the Levee District]()
-![Portrait of Frankie Fore sitting in a room during a vice quiz in Calumet City (formerly known as West Hammond) Illinois]()
-![Image of policeman Andrew Wodarczyk, in uniform, standing at the front door of 121 East 30th Street after a vice raid in Chicago]()
-![Exterior view of Vic Shaw's resort, associated with the Moore case, at 2014 Dearborn Street in Chicago, Illinois. A person is standing in a broken window on the first floor. Vic Shaw, who ran a house of prostitution, was associated with the Moore case]()
-![Image of policeman Andrew Wodarczyk, in uniform, standing and pointing at a sign at the rear entrance of 121 East 30th Street after a vice raid in Chicago, Illinois. This sign reads: Venereal Disease Keep Out]()
-![Exterior view of Freiberg's Hall, located at East 22nd Street and South Wabash Avenue in the Near South Side community area of Chicago, Illinois. This building, also known as Freiberg's Resort, was the scene of an explosion View of Houses on Federal Street, in the levee district. A particular address, 2117 South Federal Street, is noted on the image.]()
-![Federal Street is located in the Armour Square community area of Chicago]()
-![Image of a portrait of Ike Bloom, the proprietor of Kreiberg's, a notorious dance hall in the Levee district. This image was taken from a portrait that hung in the Police Station located at 210 West 22nd Street, in the 3rd District, 3rd Precinct in the Near South Side community area of Chicago]()
-![Full-length portrait of Vic Shaw, resort keeper associated with the Nat Moore case, sitting in a room in Chicago, Illinois. Resort probably refers to a place of prostitution and vice]()
-![Full-length portrait of Pearl Moore, levee character, associated with the Nat Moore case, sitting in a room in Chicago, Illinois. Moore was probably associated with prostitution or other vice. Levee districts in Chicago were vice areas with resorts or venues for prostitution, gambling, dance halls and other illicit activity]()
-![Image of a portrait of Stanley Birns, a police detective. He is standing in uniform for a formal portrait. Detective Birns was killed on July 7, 1914 in a gun fight in the levee district. Another policeman, Joseph Merrill, was woundedPortrait of resort keeper Vic Shaw, the woman marked with an x, on the stand at an inquest in the Moore case in Chicago, Illinois. Vic Shaw ran a house of prostitution]()
-![Portrait of Police Captain Max Nootbaar. He is sitting in a room, which includes a typewriter in the background. Nootbaar was appointed by Chief Gleason to head the levee district operations]()
-![Informal portrait of Attorney Charles E. Erbstein and gangster James Colosimo, sitting in a room. Colosimo ran brothels and saloons in Chicago. He reputedly was murdered by Al Capone on May 11, 1920]()
+![Prostitution in Chicago](/static/img/legal/prostitution/prostitution.jpg)
+![Exterior view of the Heitler Resort, a house of prostitution at 310 North Peoria Street (formerly 169 Peoria Street), in the Near West Side community area of Chicago](/static/img/legal/prostitution/heitler.jpg)
+![Marching on the Levee District](/static/img/legal/prostitution/levee_district.jpg)
+![Portrait of Frankie Fore sitting in a room during a vice quiz in Calumet City (formerly known as West Hammond) Illinois](/static/img/legal/prostitution/fore.jpg)
+![Image of policeman Andrew Wodarczyk, in uniform, standing at the front door of 121 East 30th Street after a vice raid in Chicago](/static/img/legal/prostitution/wodarczyk.jpg)
+![Exterior view of Vic Shaw's resort, associated with the Moore case, at 2014 Dearborn Street in Chicago, Illinois. A person is standing in a broken window on the first floor. Vic Shaw, who ran a house of prostitution, was associated with the Moore case](/static/img/legal/prostitution/vic_shaw_resort.jpg)
+![Image of policeman Andrew Wodarczyk, in uniform, standing and pointing at a sign at the rear entrance of 121 East 30th Street after a vice raid in Chicago, Illinois. This sign reads: Venereal Disease Keep Out](/static/img/legal/prostitution/woarczyk_sign.jpg)
+![Exterior view of Freiberg's Hall, located at East 22nd Street and South Wabash Avenue in the Near South Side community area of Chicago, Illinois. This building, also known as Freiberg's Resort, was the scene of an explosion View of Houses on Federal Street, in the levee district. A particular address, 2117 South Federal Street, is noted on the image.](/static/img/legal/prostitution/freiberg.jpg)
+![Federal Street is located in the Armour Square community area of Chicago](/static/img/legal/prostitution/south_federal.jpg)
+![Image of a portrait of Ike Bloom, the proprietor of Kreiberg's, a notorious dance hall in the Levee district. This image was taken from a portrait that hung in the Police Station located at 210 West 22nd Street, in the 3rd District, 3rd Precinct in the Near South Side community area of Chicago](/static/img/legal/prostitution/bloom.jpg)
+![Full-length portrait of Vic Shaw, resort keeper associated with the Nat Moore case, sitting in a room in Chicago, Illinois. Resort probably refers to a place of prostitution and vice](/static/img/legal/prostitution/vic_shaw.jpg)
+![Full-length portrait of Pearl Moore, levee character, associated with the Nat Moore case, sitting in a room in Chicago, Illinois. Moore was probably associated with prostitution or other vice. Levee districts in Chicago were vice areas with resorts or venues for prostitution, gambling, dance halls and other illicit activity](/static/img/legal/prostitution/moore.jpg)
+![Image of a portrait of Stanley Birns, a police detective. He is standing in uniform for a formal portrait. Detective Birns was killed on July 7, 1914 in a gun fight in the levee district. Another policeman, Joseph Merrill, was woundedPortrait of resort keeper Vic Shaw, the woman marked with an x, on the stand at an inquest in the Moore case in Chicago, Illinois. Vic Shaw ran a house of prostitution](/static/img/legal/prostitution/birns.jpg)
+![Portrait of Police Captain Max Nootbaar. He is sitting in a room, which includes a typewriter in the background. Nootbaar was appointed by Chief Gleason to head the levee district operations](/static/img/legal/prostitution/vic_shaw_inquest.jpg)
+![Informal portrait of Attorney Charles E. Erbstein and gangster James Colosimo, sitting in a room. Colosimo ran brothels and saloons in Chicago. He reputedly was murdered by Al Capone on May 11, 1920](/static/img/legal/prostitution/colosimo.jpg)
 
 Prostitution was never legal in Chicago. The notorious Levee district, ostensibly closed down in 1911 - 1912, was a place where brothels, gambling houses, and illegal saloons were publicly allowed to exist, tolerated or ignored by the police, the city government and the citizenry. Organized crime controlled large and highly profitable illegal enterprises in this district and elsewhere, paying off police and politicians. Highly publicized, periodic efforts at reform had little impact. The income and employment generated by these businesses, and by organized crime's involvement in other enterprises, was especially important in times of economic hardship and during elections.
 
 See: [All cases involving prostitution](/database/?backToResults=1&voccup=53&page=1)
 
-![Portrait of Vic Shaw - click on image to view larger version]()
+![Portrait of Vic Shaw - click on image to view larger version](/static/img/legal/prostitution/prostitution2.jpg)
 
 Prostitution in contemporaneous records and reports was termed "the social evil" or "vice", and those who ran the illegal enterprises were termed ‘The Vice Lords’ ([JCLC p.500-511](doesnt work)). The Levee district was notorious, in Chicago and around the world, described by many contemporaneous commentators and visitors to the city, including William Stead, [If Christ Came to Chicago (1894)](/pubs/ICCTC/), the most famous journalist of his time.
 
