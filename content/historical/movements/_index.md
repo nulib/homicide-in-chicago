@@ -15,8 +15,8 @@ layout: historical
 
    [Railroad Strike (1877)](/historical/movements/railroadStrike)
 
-![Chicago Race Riot]()
-![Billy Sunday]()
-![Railway Strike 1]()
-![Mrs. Frank Rattray Lillie]()
-![Garment Worker Strike]()
+![Chicago Race Riot](/static/img/historical/movements/_index/Chicago_race_riots.jpg)
+![Billy Sunday](/static/img/historical/movements/_index/Billy_sunday.jpg)
+![Railway Strike 1](/static/img/historical/movements/_index/Railway_strike_1.jpg)
+![Mrs. Frank Rattray Lillie](/static/img/historical/movements/_index/lillie.jpg)
+![Garment Worker Strike](/static/img/historical/movements/_index/Garment_worker_strike.jpg)

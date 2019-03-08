@@ -4,12 +4,12 @@ layout: historical
 aliases: [/historical/railroadStrike/]
 ---
 
-![Railway Strike 1]()
-![Railway Strike 2]()
-![Illinois Central Railroad Strikers on a Railroad]()
-![]()
-![]()
-![Platform in Burnside]()
+![Railway Strike 1](/static/img/historical/movements/railroadStrike/strike_1.jpg)
+![Railway Strike 2](/static/img/historical/movements/railroadStrike/strike_2.jpg)
+![Illinois Central Railroad Strikers on a Railroad](/static/img/historical/movements/railroadStrike/Illinois_Central.jpg)
+![Crowd of men](/static/img/historical/movements/railroadStrike/crowd.jpg)
+![Effigy](/static/img/historical/movements/railroadStrike/effigy.jpg)
+![Platform in Burnside](/static/img/historical/movements/railroadStrike/city.jpg)
 
 Labor unrest, strikes, and the violence associated with demonstrations and picketing, and riots, were phenomena not just in Chicago, but across the country and internationally during this period. In Chicago, a number of killings in the police files were associated with labor demonstrations, and many other killings in situations of civil unrest were not reported.
 

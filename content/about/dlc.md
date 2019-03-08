@@ -1,0 +1,14 @@
+---
+title: "Distributed Learning Center"
+permalink: /about/dlc/
+---
+
+###Distributed Learning Center
+
+Professor Bienen approached us on the basis of our expertise in the design and creation of interactive learning environments and websites such as [The Last Expression](http://lastexpression.northwestern.edu/), [The School of Communication website](page not found), [The Oyez Project: U.S. Supreme Court Multimedia Database](not found), and the [Distributed Learning Initiative](not found).
+
+Our challenge was in how to make this dataset come alive. Two of the approaches we took toward accomplishing this were, first, to develop the scripting that would allow the website's users to interact with the dataset...how could we, for example, let someone do a search for a family member from several generations past who was a victim of a homicide, or to pull up all the cases involving capital punishment? This capability exists within the [Interactive Database](/database/).
+
+Secondly we also wished to provide a rich historical context as a backdrop against which the cases existed. Toward this end we developed a site architecture with topics ranging from Working in Chicago to Prostitution to Prohibition and Temperance; a dynamic photographic timeline to display imagery from the year or range of years relating to the topic being viewed; and a plan to highlight (in Phase I of the project) 25 of the most spectacular cases. We were extremely fortunate to be allowed use of hundreds of photographs digitized by the [Chicago History Museum](https://www.chicagohistory.org/) from their collection of the [1903-1930 Chicago Daily News archives](http://memory.loc.gov/ammem/browse/updatedList.html); and to avail ourselves of the research efforts of a team of students who sought out other archival material to enrichen the site.
+
+The Distributed Learning Center has the primary responsibility for helping faculty and students apply new interactive technologies for teaching and learning. Research in the latest instruction using Distributed Learning environments, video conferencing, video and voice over internet protocol, peer-to-peer interactions are some of major areas of focus. The Center provides a place for students in the School of Communication to work with these new interactive technologies. Additionally, the Center sponsors NU Productions, a student run Production Company that provides Digital Video projects to the University. Students have an opportunity to earn while they learn.
