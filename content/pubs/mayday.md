@@ -5,7 +5,7 @@ permalink: /pubs/mayday/
 
 ###The First Mayday: the Haymarket speeches (1980)
 
-![Bookjacket design - click on image to view full-size version](/static/img/pub/mayday/MaydayCover.jpg)
+![Bookjacket design - click on image to view full-size version](/img/pub/mayday/MaydayCover.jpg)
 Bookjacket design - click on image to view full-size version
 
 ####Contents

@@ -5,7 +5,7 @@ permalink: /pubs/ccreport/
 
 ###Crime Commission Report (1915)
 
-![Crime Commission Report cover page](/static/img/pub/ccreport/CCReport.jpg)	
+![Crime Commission Report cover page](/img/pub/ccreport/CCReport.jpg)	
 
 The 1915 Crime Commission Report. This Report included statistical data, descriptions of judicial and legal institutions, and is a model of data collection. It is included here in its entirety.
  	

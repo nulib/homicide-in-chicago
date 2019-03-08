@@ -4,7 +4,7 @@ permalink: /historical/movements/haymarket
 layout: historical
 ---
 
-[![The Haymarket Affair (1886) Depiction of the explosion](/static/img/historical/movements/haymarket/Anarchy.jpg)](/docs_fk/homicide/544/Anarchy142.jpg)
+[![The Haymarket Affair (1886) Depiction of the explosion](/img/historical/movements/haymarket/Anarchy.jpg)](/docs_fk/homicide/544/Anarchy142.jpg)
 click on image to enlarge
 
 [View case details...](/database/516/)

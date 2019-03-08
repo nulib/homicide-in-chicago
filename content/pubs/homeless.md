@@ -5,7 +5,7 @@ permalink: /pub/homeless/
 
 ###1000 Homeless Men (1914)
 
-![1000 Homeless Men](/static/img/pub/homeless/1000coverpage.jpg)
+![1000 Homeless Men](/img/pub/homeless/1000coverpage.jpg)
 
 ####Contents
   * [Table of Contents, Foreword](/docs_fk/homicide/OTHM/OTHM_toc.pdf)

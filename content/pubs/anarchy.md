@@ -4,7 +4,7 @@ permalink: /pubs/anarchy/
 ---
 
 ###Anarchy and Anarchists (1889)
-![Anarchy and Anarchists. A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators.](/static/img/pub/anarchy/HaymarketAnarchist.jpg)	
+![Anarchy and Anarchists. A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators.](/img/pub/anarchy/HaymarketAnarchist.jpg)	
 
 Michael J. Schaack, __Anarchy and Anarchists. A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators.__ (Chicago, 1889) (F.J. Schulte and Co.). 
 

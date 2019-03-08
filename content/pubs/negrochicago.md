@@ -5,7 +5,7 @@ permalink: /pubs/negrochicago/
 
 ###The Negro in Chicago (1919)
 
-![The Negro in Chicago](/static/img/pub/negrochicago/NegrosChicago.jpg)
+![The Negro in Chicago](/img/pub/negrochicago/NegrosChicago.jpg)
 
 ####Contents
   * [Table of Contents](/docs_fk/homicide/NegrosChicago/Table_of_Contents.pdf)

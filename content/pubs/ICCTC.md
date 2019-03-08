@@ -5,7 +5,7 @@ permalink: /pubs/ICCTC/
 
 ###If Christ Came To Chicago (1894)
 
-![If Christ Came to Chicago illustration](/static/img/pub/ICCTC/ICCTCart.jpg)	
+![If Christ Came to Chicago illustration](/img/pub/ICCTC/ICCTCart.jpg)	
 
 William T. Stead, __If Christ Came to Chicago__ (Chicago, 1894). It is a vividly written, highly perceptive account of life and politics in Chicago based upon the author’s visit to the city in 1893 -during a time of economic depression following the triumph of the [World’s Columbian Exposition](). William T. Stead, an erudite and well known British journalist and minister, interviewed notable public figures, as well as people who were poor, in jail, or involved in criminal activities or political graft. Stead’s account of Chicago and its people remains valuable, unsurpassed in its scope and ability to capture images of what it was to live in the city at that time.
  	

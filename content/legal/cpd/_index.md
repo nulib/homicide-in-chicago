@@ -3,14 +3,14 @@ title: "Chicago Police Department"
 layout: legal
 ---
 
-![William (Wild Billy) Lewis with Patrick Knox](/static/img/legal/cpd/lewis.jpg)
-![Florence Carsello sitting on Policeman Martin Ernest's lap](/static/img/legal/cpd/carsello_sitting.jpg)
-![Joe Loomis injured](/static/img/legal/cpd/loomis-injured.jpg)
-![Image of Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her](/static/img/legal/cpd/sheridan.jpg)
-![Policeman Orthman](/static/img/legal/cpd/orthman.jpg)
-![mcweeny](/static/img/legal/cpd/mcweeny2.jpg)
-![jail cells](/static/img/legal/cpd/Jail_Cells.jpg)
-![Jimmy the Bear](/static/img/legal/cpd/bear.jpg)
+![William (Wild Billy) Lewis with Patrick Knox](/img/legal/cpd/lewis.jpg)
+![Florence Carsello sitting on Policeman Martin Ernest's lap](/img/legal/cpd/carsello_sitting.jpg)
+![Joe Loomis injured](/img/legal/cpd/loomis-injured.jpg)
+![Image of Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her](/img/legal/cpd/sheridan.jpg)
+![Policeman Orthman](/img/legal/cpd/orthman.jpg)
+![mcweeny](/img/legal/cpd/mcweeny2.jpg)
+![jail cells](/img/legal/cpd/Jail_Cells.jpg)
+![Jimmy the Bear](/img/legal/cpd/bear.jpg)
 
 This data set of more than 11,000 homicides from 1870-1930 is based upon a set of [handwritten records](/docs_fk/homicide/handwritten_cases.pdf) kept without interruption by the Chicago Police Department, consistently, and with the same protocol and indexing system, over a sixty year period. The Chicago Police as an institution changed greatly during this period. Allegations of corruption alternated with periods of reform, while the general trend over the period was towards increased professionalization of the police. The institution of the Chicago Police changed greatly over the period, and a series of reports and commentaries record some of those changes. The police in Chicago during this period were oriented to neighborhoods. The education and training of officers became more professional throughout the period. Each neighborhood had its own police station, and the individual records typically report the precinct number. The neighborhoods, in turn, were aligned with the political wards of the city. Aldermen were elected by wards and answered politically to their constituencies in wards. The aldermen and the mayor ruled the city, and the police answered to them.
 
@@ -24,7 +24,7 @@ One of the first acts of a newly appointed mayor was the appointment of the Supe
 
 Uniforms, pay scales, educational requirements for police officers were all modified during the period. The trend was in the general direction of greater professionalization ([A Manual of Criminal Law](/pubs/MCLCPP/)). An important political debate was carried on for decades over whether or not the police were to be treated as civil servants: guaranteed certain kinds of job security and minimum wages, and also not to be capable of being fired when a new mayor was elected. It was also a period when the police had a great deal of discretion and power, with the support of the aldermen and mayor. And each police station and ward had its own character, traditions, and reputation.
 
-[![exterior view](/static/img/legal/cpd/desPlaines2.jpg)](u/docs_fk/homicide/desPlaines2.jpg)
+[![exterior view](/img/legal/cpd/desPlaines2.jpg)](u/docs_fk/homicide/desPlaines2.jpg)
 
 One of the most famous stations was the [Harrison Street Station](/images_fk/timeline/1900/large/200.jpg). The Des Plaines Street [Police Station](/docs_fk/homicide/desPlaines2.jpg), where the more than 170 police officers waited to march on the Haymarket, also played an historic role in many events as well.
 

@@ -3,4 +3,4 @@ title: "Wife Murder"
 layout: legal
 ---
 
-![Table 3](/static/img/legal/wife-murder/wifeMurder.jpg)
+![Table 3](/img/legal/wife-murder/wifeMurder.jpg)

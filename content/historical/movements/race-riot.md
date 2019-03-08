@@ -5,8 +5,8 @@ aliases: [/historical/raceriot]
 ---
 
 ###1919 Race Riot
-[![Chicago Race Riot](/static/img/historical/movements/raceriot/race_riot.jpg)](/historical/timeline/1919/397)
-[![Chicago Race Riot, Walgreen Drugs](/static/img/historical/movements/raceriot/walgreens_drugs.jpg)](/historical/timeline/1919/403)
+[![Chicago Race Riot](/img/historical/movements/raceriot/race_riot.jpg)](/historical/timeline/1919/397)
+[![Chicago Race Riot, Walgreen Drugs](/img/historical/movements/raceriot/walgreens_drugs.jpg)](/historical/timeline/1919/403)
 
 [View case details...](/database/5559)
 

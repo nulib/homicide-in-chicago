@@ -3,14 +3,14 @@ title: "Judges"
 layout: legal
 ---
 
-![Florence Carsello sitting on Policeman Martin Ernest's lap](/static/img/legal/judges/boxing.jpg)
-![Judge George Kersten and Judge Green sitting at the judges' bench in court](/static/img/legal/judges/two_judges_sitting.jpg)
-![Judges Johnston, Baldwin, McGoonty](/static/img/legal/judges/three_judges.jpg)
-![Cook County Circuit Court Judge John R. Caverly sitting behind judge's bench](/static/img/legal/judges/caverly.jpg)
-![Iroquois Theater Fire Investigation](/static/img/legal/judges/iroquois.jpg)
-![Judge Himes on bench at the Harrison Street police court with a group of men gathered in front of the bench](/static/img/legal/judges/himes.jpg)
-![Healey corruption case, crowded municipal court room, presided over by Judge Olson, judge is visible on right side of image](/static/img/legal/judges/healey.jpg)
-![Head and shoulders portrait of Si Mayer on the stand at gambling investigation in a room in Chicago, Illinois](/static/img/legal/judges/Si_Mayer.jpg)
+![Florence Carsello sitting on Policeman Martin Ernest's lap](/img/legal/judges/boxing.jpg)
+![Judge George Kersten and Judge Green sitting at the judges' bench in court](/img/legal/judges/two_judges_sitting.jpg)
+![Judges Johnston, Baldwin, McGoonty](/img/legal/judges/three_judges.jpg)
+![Cook County Circuit Court Judge John R. Caverly sitting behind judge's bench](/img/legal/judges/caverly.jpg)
+![Iroquois Theater Fire Investigation](/img/legal/judges/iroquois.jpg)
+![Judge Himes on bench at the Harrison Street police court with a group of men gathered in front of the bench](/img/legal/judges/himes.jpg)
+![Healey corruption case, crowded municipal court room, presided over by Judge Olson, judge is visible on right side of image](/img/legal/judges/healey.jpg)
+![Head and shoulders portrait of Si Mayer on the stand at gambling investigation in a room in Chicago, Illinois](/img/legal/judges/Si_Mayer.jpg)
 
 Judges ([Judge Lyle](/historical/timeline/1921/151/) and [Judge McKinley](/historical/timeline/1912/147/)) were elected throughout this period, and their election necessarily involved them in the ward politics of the period. Accounts of changes in the judiciary parallel demographic changes, and changes in the distribution of political power.
 

@@ -5,7 +5,7 @@ permalink: /pubs/pia/
 
 ###Police in America (1971)
 
-![PolicsSm](/static/img/pub/pia/PolicsSm.jpg)
+![PolicsSm](/img/pub/pia/PolicsSm.jpg)
 
 ####Contents
 

@@ -3,7 +3,7 @@ title: "Accidents"
 layout: legal
 ---
 
-![1928](/static/img/legal/accidents/automobile.jpg)
+![1928](/img/legal/accidents/automobile.jpg)
 
 Deaths attributed to accidental shooting occur regularly throughout this set of cases. Some cases involve children, some involve quarrels in saloons or bars, or circumstances of domestic violence.
 

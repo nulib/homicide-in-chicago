@@ -23,5 +23,5 @@ permalink: /historical/children/
  
 
 ####Photographs
-	[![child](/static/img/historical/children/child.jpg)](http://florencekelley.northwestern.edu/historical/children/)
+	[![child](/img/historical/children/child.jpg)](http://florencekelley.northwestern.edu/historical/children/)
     Visit [Lives of Children](http://florencekelley.northwestern.edu/historical/children/) on our companion website, Florence Kelley in Chicago 1891-99, for many images of children working, from the turn of the century

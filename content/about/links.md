@@ -7,10 +7,10 @@ permalink: /about/links/
 
 ####Visit Our Companion Websites:
 
-![Florence Kelley in Chicago 1891-1899](/static/img/about/links/fk100.jpg)	
+![Florence Kelley in Chicago 1891-1899](/img/about/links/fk100.jpg)	
 [The Life and Times of Florence Kelley in Chicago, 1891-1899](http://florencekelley.northwestern.edu/)	           	
 
-![Illinois Murder Indictments 2000-2010](/static/img/about/links/imi.jpg)	
+![Illinois Murder Indictments 2000-2010](/img/about/links/imi.jpg)	
 [Illinois Murder Indictments 2000-2010](http://illinoismurderindictments.law.northwestern.edu/)
 
 ####historical archives
