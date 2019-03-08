@@ -1,9 +1,10 @@
 ---
 title: "Leigh Bienen"
+layout: about
 aliases: [/about/LeighBienen/]
 ---
 
-![bienenLeigh](/img/about/LeighBienen/bienenLeigh.jpg)
+![bienenLeigh](/img/about/bienenLeigh.jpg)
 
 Leigh B. Bienen is a senior lecturer at Northwestern University School of Law and a criminal defense attorney whose areas of expertise include capital punishment, sex crimes, and rape reform legislation.  She has taught law at the Woodrow Wilson School of Princeton University, at the University of Pennsylvania School of Law and the University of California (Berkeley) School of Law.  She is licensed to practice law in Illinois, New Jersey, Pennsylvania, New York, and D.C and a member of the Bar of the United States Supreme Court.
 

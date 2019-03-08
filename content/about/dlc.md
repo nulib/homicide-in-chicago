@@ -1,9 +1,7 @@
 ---
 title: "Distributed Learning Center"
-permalink: /about/dlc/
+layout: about
 ---
-
-###Distributed Learning Center
 
 Professor Bienen approached us on the basis of our expertise in the design and creation of interactive learning environments and websites such as [The Last Expression](http://lastexpression.northwestern.edu/), [The School of Communication website](page not found), [The Oyez Project: U.S. Supreme Court Multimedia Database](not found), and the [Distributed Learning Initiative](not found).
 
