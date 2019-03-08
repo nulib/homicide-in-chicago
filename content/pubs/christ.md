@@ -1,22 +1,21 @@
 ---
 title: "If Christ Came To Chicago (1894)"
-permalink: /pubs/ICCTC/
+layout: pubs
+aliases: [/pubs/ICCTC/]
 ---
 
-###If Christ Came To Chicago (1894)
-
-![If Christ Came to Chicago illustration](/img/pub/ICCTC/ICCTCart.jpg)	
+![If Christ Came to Chicago illustration](/img/pub/ICCTC/ICCTCart.jpg)
 
 William T. Stead, __If Christ Came to Chicago__ (Chicago, 1894). It is a vividly written, highly perceptive account of life and politics in Chicago based upon the author’s visit to the city in 1893 -during a time of economic depression following the triumph of the [World’s Columbian Exposition](). William T. Stead, an erudite and well known British journalist and minister, interviewed notable public figures, as well as people who were poor, in jail, or involved in criminal activities or political graft. Stead’s account of Chicago and its people remains valuable, unsurpassed in its scope and ability to capture images of what it was to live in the city at that time.
- 	
-####Contents
+
+### Contents
   * [Table of Contents, Preface](/docs_fk/homicide/ICCTC/ICCTC.TOC.pdf)
     (PDF - 1.58MB)
   * [PART I - The Images Ye Have Made of Me](/docs_fk/homicide/ICCTC/ICCTC.Part1.pdf)
     (PDF - 12.11MB)
         I. - In Harrison Street Police Station
         II. - Maggie Darling
-        III. - Whisky and Politics 
+        III. - Whisky and Politics
         IV. - The Chicagoan Trinity
         V. - "Who Are the Disreputables?"
         VI. - "The Nineteenth Precinct of the First Ward

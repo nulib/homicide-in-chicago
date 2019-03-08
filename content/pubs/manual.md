@@ -1,13 +1,12 @@
 ---
 title: "A Manual of Criminal Law (1930)"
-permalink: /pubs/MCLCPP/
+layout: pubs
+aliases: [/pubs/MCLCPP/]
 ---
-
-###A Manual of Criminal Law (1930)
 
 ![manualPoliceSm](/img/pub/MCLCPP/manualPoliceSm.jpg)
 
-####Contents
+### Contents
   * [Table of Contents, Editor's Preface](/docs_fk/homicide/MCLCPP/MCLCPP.toc.pdf)
     (PDF - .55MB)
   * [Chapter I: Criminal Law](/docs_fk/homicide/MCLCPP/MCLCPP.01.pdf)

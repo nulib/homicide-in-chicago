@@ -1,13 +1,11 @@
 ---
 title: "Police in America (1971)"
-permalink: /pubs/pia/
+layout: pubs
 ---
-
-###Police in America (1971)
 
 ![PolicsSm](/img/pub/pia/PolicsSm.jpg)
 
-####Contents
+### Contents
 
   * [Table of Contents, Editor's Preface](/docs_fk/homicide/vice/vice.toc.pdf)
     (PDF - 0.17MB)

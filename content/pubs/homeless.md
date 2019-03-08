@@ -1,13 +1,11 @@
 ---
 title: "1000 Homeless Men (1914)"
-permalink: /pub/homeless/
+layout: pubs
 ---
-
-###1000 Homeless Men (1914)
 
 ![1000 Homeless Men](/img/pub/homeless/1000coverpage.jpg)
 
-####Contents
+### Contents
   * [Table of Contents, Foreword](/docs_fk/homicide/OTHM/OTHM_toc.pdf)
     (PDF - 1.16MB)
   * [Chapter 01: Introductory](/docs_fk/homicide/OTHM/OTHM_chap01.pdf)

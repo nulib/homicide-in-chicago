@@ -1,15 +1,15 @@
 ---
 title: "Anarchy and Anarchists (1889)"
-permalink: /pubs/anarchy/
+layout: pubs
 ---
 
 ###Anarchy and Anarchists (1889)
-![Anarchy and Anarchists. A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators.](/img/pub/anarchy/HaymarketAnarchist.jpg)	
+![Anarchy and Anarchists. A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators.](/img/pub/anarchy/HaymarketAnarchist.jpg)
 
-Michael J. Schaack, __Anarchy and Anarchists. A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators.__ (Chicago, 1889) (F.J. Schulte and Co.). 
+Michael J. Schaack, __Anarchy and Anarchists. A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators.__ (Chicago, 1889) (F.J. Schulte and Co.).
 
 The author of this long and detailed account of the investigations into the [Haymarket]() case was a member of the police force and a colleague of Inspector Bonfield, the police officer who led the police into the crowd at Haymarket on May 4, 1886. The book, which was widely distributed at the time, included many documents from the case, descriptions of testimony at trial, and many drawings of people and incidents. The author, Michael Schaack, and Inspector Bonfield were subsequently dismissed from the Chicago Police after an investigation for corruption. Subsequent investigations of the trial uncovered perjured testimony by police witnesses and others, and jury rigging by the prosecution.
- 	
+
 #### Contents
   * [Table of Contents, Editor's Preface](/docs_fk/homicide/AAA/Anarchy.toc.pdf)
     (PDF - 1.46MB)
@@ -35,17 +35,17 @@ The author of this long and detailed account of the investigations into the [Hay
     (PDF - 3.33MB)
   * [Chapter XI: My Connection with the Anarchist Cases](/docs_fk/homicide/AAA/Anarchy.11.pdf)
     (PDF - 2.70MB)
-  * [Chapter XII: Tracking the Conspirators](/docs_fk/homicide/AAA/Anarchy.12.pdf) 
+  * [Chapter XII: Tracking the Conspirators](/docs_fk/homicide/AAA/Anarchy.12.pdf)
     (PDF - 3.20MB)
-  * [Chapter XIII: The Difficulties of Detection](/docs_fk/homicide/AAA/Anarchy.13.pdf) 
+  * [Chapter XIII: The Difficulties of Detection](/docs_fk/homicide/AAA/Anarchy.13.pdf)
     (PDF - 3.04MB)
-  * [Chapter XIV: Completing the Case](/docs_fk/homicide/AAA/Anarchy.14.pdf) 
+  * [Chapter XIV: Completing the Case](/docs_fk/homicide/AAA/Anarchy.14.pdf)
     (PDF - 3.13MB)
   * [Chapter XV: Engel in the Toils](/docs_fk/homicide/AAA/Anarchy.15.pdf)
     (PDF - 3.57MB)
-  * [Chapter XVI: Pushing the Anarchists](/docs_fk/homicide/AAA/Anarchy.16.pdf) 
+  * [Chapter XVI: Pushing the Anarchists](/docs_fk/homicide/AAA/Anarchy.16.pdf)
     (PDF - 2.32MB)
-  * [Chapter XVII: Fluttering the Anarchist Dove-cote](/docs_fk/homicide/AAA/Anarchy.17.pdf) 
+  * [Chapter XVII: Fluttering the Anarchist Dove-cote](/docs_fk/homicide/AAA/Anarchy.17.pdf)
     (PDF - 3.63MB)
   * [Chapter XVIII: The Plot against the Police](/docs_fk/homicide/AAA/Anarchy.18.pdf)
     (PDF - 1.61MB)
@@ -67,13 +67,13 @@ The author of this long and detailed account of the investigations into the [Hay
     (PDF - 1.66B)
   * [Chapter XXVII: The Close of the Defense](/docs_fk/homicide/AAA/Anarchy.27.pdf)
     (PDF - 2.63MB)
-  * [Chapter XXIVIII: Opening of the Argument](/docs_fk/homicide/AAA/Anarchy.28.pdf) 
+  * [Chapter XXIVIII: Opening of the Argument](/docs_fk/homicide/AAA/Anarchy.28.pdf)
     (PDF - 1.22MB)
   * [Chapter XXIX: The Argument for the Defendants](/docs_fk/homicide/AAA/Anarchy.29.pdf)
     (PDF - 1.16MB)
   * [Chapter XXX: Foster and Black before the Jury](/docs_fk/homicide/AAA/Anarchy.30.pdf)
     (PDF - 1.84MB)
-  * [Chapter XXXI: Grinell's Closing Argument](/docs_fk/homicide/AAA/Anarchy.31.pdf) 
+  * [Chapter XXXI: Grinell's Closing Argument](/docs_fk/homicide/AAA/Anarchy.31.pdf)
     (PDF - 2.36MB)
   * [Chapter XXXII: The Instructions to the Jury](/docs_fk/homicide/AAA/Anarchy.32.pdf)
     (PDF - 1.24MB)

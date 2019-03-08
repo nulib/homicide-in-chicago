@@ -1,17 +1,15 @@
 ---
 title: "Illinois Crime Survey (1929)"
-permalink: /pubs/icc/
+layout: pubs
 ---
 
-###Illinois Crime Survey (1929)
-
-![Illinois Crime Survey (1929)](/img/pub/icc/ICSsm.jpg)	
+![Illinois Crime Survey (1929)](/img/pub/icc/ICSsm.jpg)
 
 The 1929 Illinois Crime Survey is a monumental study of the operation of the criminal courts, the juvenile courts, and of homicide in Chicago. Consisting of a series of separate reports, it remains a model of scholarship. The Illinois Crime Survey describes a [system](/docs_fk/homicide/11-29.pdf) perceived to be in crisis as a result of the influence of organized crime and the corruption of judicial institutions. The Survey also offered detailed and valuable analyses of important criminal justice institutions, such as the Police, the Felony Courts, and the Juvenile Delinquent. In addition, the 1929 Survey includes a [comprehensive analysis](/docs_fk/homicide/601-640.pdf) of Homicide in Cook County.
 
 The 1929 Illinois Crime Survey [Download entire document as PDF](/docs_fk/homicide/ICS/ICS.pdf) (122.8 MB)
- 
- 	
+
+
 ####Contents
   * [Table of Contents, Editor's Preface, Director's Introduction](/docs_fk/homicide/ICS/ICS.TOC.pdf)
     (PDF - 4.12MB)

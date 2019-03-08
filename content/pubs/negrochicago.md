@@ -1,13 +1,11 @@
 ---
 title: "The Negro in Chicago (1919)"
-permalink: /pubs/negrochicago/
+layout: pubs
 ---
-
-###The Negro in Chicago (1919)
 
 ![The Negro in Chicago](/img/pub/negrochicago/NegrosChicago.jpg)
 
-####Contents
+### Contents
   * [Table of Contents](/docs_fk/homicide/NegrosChicago/Table_of_Contents.pdf)
     (PDF - 1.79MB)
   * [Chapters 1 - 3](/docs_fk/homicide/NegrosChicago/Chapters_1_3.pdf)

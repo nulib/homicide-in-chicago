@@ -1,19 +1,17 @@
 ---
 title: "JCLC Vol. 92 2002"
-permalink: /pubs/journal/
+layout: pubs
 ---
 
-###JCLC Vol. 92 2002
-
-![JCLC Vol. 92 2002](/img/pub/journal/JCLCcoverSm.jpg)	
+![JCLC Vol. 92 2002](/img/pub/journal/JCLCcoverSm.jpg)
 
 The Journal of Criminal Law and Criminology is a professional journal for legal scholars, criminologists, and social scientists published at the Northwestern University School of Law. It was founded in 1910 and has been in continuous publication at the Northwestern University School of Law since that time. Volume 92, Numbers 3 & 4 is a special issue devoted to articles and essays addressed to some aspect of the Chicago Historical Homicide Project. The overview article, [Leigh B. Bienen](/about/LeighBienen/) and Brandon Rottinghaus, [“Learning from the Past, Living in the Present: Understanding Homicide in Chicago, 1870-1930”](/docs_fk/homicide/LawJournal/JCLC01.pdf) describes the scope of the Chicago Historical Homicide Project and the data collection and analysis.
- 
-####Contents
+
+### Contents
 
 **Criminal Law**
   * [Learning From the Past, Living In the Present:   Understanding Homicide in Chicago, 1870-1930](/docs_fk/homicide/LawJournal/JCLC01.pdf)
-    [Leigh B. Bienen](/about/LeighBienen/) *& Brandon Rottinghaus* 
+    [Leigh B. Bienen](/about/LeighBienen/) *& Brandon Rottinghaus*
     (PDF - 14.88MB)
   * [Cook County Criminal Law Practice in 1929: A   Community's Response to Crime and a Notorious Trial](/docs_fk/homicide/LawJournal/JCLC02.pdf)
     *Thomas Geraghty*

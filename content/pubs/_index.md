@@ -1,9 +1,7 @@
 ---
 title: "Publications"
-permalink: /pubs/
+layout: pubs
 ---
-
-###Publications
 
 ![triquarterly](/img/pub/_index/triquarterly.jpg)
 [Triquarterly Journal #124: The Record Keepers by Leigh Bienen](/docs_fk/homicide/triquarterly/Record_Keepers.pdf) (2006)

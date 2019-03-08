@@ -1,14 +1,12 @@
 ---
 title: "The First Mayday: the Haymarket speeches (1980)"
-permalink: /pubs/mayday/
+layout: pubs
 ---
-
-###The First Mayday: the Haymarket speeches (1980)
 
 ![Bookjacket design - click on image to view full-size version](/img/pub/mayday/MaydayCover.jpg)
 Bookjacket design - click on image to view full-size version
 
-####Contents
+### Contents
   * [Table of Contents, Editor's Preface](/docs_fk/homicide/mayday/mayday.toc.pdf)
     (PDF - .77MB)
   * [Chapter I: Introduction](/docs_fk/homicide/mayday/mayday.01.pdf)
