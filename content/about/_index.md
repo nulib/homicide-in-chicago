@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-![handwritten](/img/about/_index/handwritten.jpg)
+![handwritten](/img/about/handwritten.jpg)
 
 The Chicago Historical Homicide Project began with the discovery of the availability of a rich log of more than 11,000 homicides maintained consistently and without interruption by the Chicago Police Department over the course of 60 years, from 1870 to 1930. The fact that these records were kept without interruption by a single institutional record keeper makes these files an important new resource for the study of homicide, crime, urban development, and the police themselves. The records are a lens through which to view the history of the city of Chicago during a period of extraordinary social, economic and political development. Because these crimes became cases, these records are also the foundation for a study of courts and legal institutions. The police and their operations were inextricable from those they answered to, the mayor and alderman, ward politicians, and the citizens of Chicago. Thus the records offer an opportunity to study the rule of law, or its absence, and this theme is echoed throughout the various facets of the research conducted to date under the auspices of this Project.
 
