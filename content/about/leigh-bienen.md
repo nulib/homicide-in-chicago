@@ -1,9 +1,7 @@
 ---
 title: "Leigh Bienen"
-permalink: /about/LeighBienen/
+aliases: [/about/LeighBienen/]
 ---
-
-###Leigh Bienen
 
 ![bienenLeigh](/static/img/about/LeighBienen/bienenLeigh.jpg)
 
