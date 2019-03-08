@@ -1,0 +1,53 @@
+{{ define "title" -}}
+  {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+
+{{ define "header"}} {{ partial "menu" . }} {{ end }}
+
+{{ define "main" }}
+
+<section class="section">
+
+<div class="container">
+
+    <div class="columns">
+
+      <div class="column is-one-quarter">
+        <aside class="menu">
+          <p class="menu-label">
+            Crimes
+          </p>
+          <ul class="menu-list">
+            <li><a href="/about/leigh-bienen/">Leigh Bienen</a></li>
+            <li><a href="/about/dlc/">Distributed Learning Center</a></li>
+            <li><a href="/about/links/">Links to Related Sites</a></li>
+            <li><a href="/about/bibliography/">Bibliography</a></li>
+            <li><a href="/about/terms/">Terms of Use</a></li>
+            <li><a href="/about/faq/">FAQs</a></li>
+            <li><a href="/about/contact/">Contact Us</a></li>
+            <li><a href="/about/copyright/">Copyright</a></li>
+            <li><a href="/about/credits/">Credits</a></li>
+          </ul>
+        </aside>
+      </div>
+
+
+      <div class="column">
+        <div class="content">
+          <h2>{{ .Params.Title }}</h2>
+
+            {{ .Content }}
+        </div>
+      </div>
+
+    </div><!-- columns -->
+
+</div>
+
+</section>
+
+{{ end }}
+
+{{ define "footer" }}
+  {{ partial "footer" . }}
+{{ end }}
