@@ -39,7 +39,7 @@ SectionPagesMenu = "main"
   name = "Legal Context"
   weight = 3
     identifier = "legal"
-  url = "/legal/"
+  url = "/legal/cpd/"
 
 [[menu.main]]
   name = "Crimes of the Century"

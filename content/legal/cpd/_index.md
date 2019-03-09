@@ -1,6 +1,7 @@
 ---
 title: "Chicago Police Department"
 layout: legal
+aliases: [/legal/]
 ---
 
 ![William (Wild Billy) Lewis with Patrick Knox](/img/legal/cpd/lewis.jpg)
