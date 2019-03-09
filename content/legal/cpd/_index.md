@@ -4,6 +4,73 @@ layout: legal
 aliases: [/legal/]
 ---
 
+<div class="columns">
+  <div class="column">
+    <a title="William (Wild Billy) Lewis with Patrick Knox">
+      <figure class="image is-256x256">
+        <img src="/img/legal/cpd/lewis.jpg" id="thumbnail" onclick="openModal()">
+      </figure>
+    </a>
+    <div class="modal" id="fullsize">
+      <div class="modal-background"></div>
+      <div class="modal-content">
+        <p class="image is-4by3">
+          <img src="/img/legal/cpd/lewis.jpg" alt="William (Wild Billy) Lewis with Patrick Knox">
+        </p>
+      </div>
+      <button class="modal-close is-large" aria-label="close" onclick="closeModal()"></button>
+    </div>
+  </div>
+  <div class="column">
+    <a title="Florence Carsello sitting on Policeman Martin Ernest's lap">
+      <figure class="image is-256x256">
+        <img src="/img/legal/cpd/carsello_sitting.jpg" id="thumbnail" onclick="openModal()">
+      </figure>
+    </a>
+    <div class="modal" id="fullsize">
+      <div class="modal-background"></div>
+      <div class="modal-content">
+        <p class="image is-4by3">
+          <img src="/img/legal/cpd/carsello_sitting.jpg" alt="Florence Carsello sitting on Policeman Martin Ernest's lap">
+        </p>
+      </div>
+      <button class="modal-close is-large" aria-label="close" onclick="closeModal"></button>
+    </div>
+  </div>
+  <div class="column">
+    <a title="Joe Loomis injured">
+      <figure class="image is-256x256">
+        <img src="/img/legal/cpd/loomis-injured.jpg" alt="Joe Loomis injured" id="thumbnail" onclick="openModal()">
+      </figure>
+    </a>
+    <div class="modal" id="fullsize">
+      <div class="modal-background"></div>
+      <div class="modal-content">
+        <p class="image is-4by3">
+          <img src="/img/legal/cpd/loomis-injured.jpg" alt="Joe Loomis injured" id="thumbnail" onclick="openModal()">
+        </p>
+      </div>
+      <button class="modal-close is-large" aria-label="close" onclick="closeModal"></button>
+    </div>
+  </div>
+  <div class="column">
+    <a title="Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her" onclick="openModal">
+      <figure class="image is-256x256">
+        <img src="/img/legal/cpd/sheridan.jpg" alt="Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her">
+      </figure>
+    </a>
+    <div class="modal" id="fullsize">
+      <div class="modal-background"></div>
+      <div class="modal-content">
+        <p class="image is-4by3">
+          <img src="/img/legal/cpd/sheridan.jpg" alt="Florence Carsello sitting on Policeman Martin Ernest's lap" id="thumbnail" onclick="openModal()">
+        </p>
+      </div>
+      <button class="modal-close is-large" aria-label="close" onclick="closeModal"></button>
+    </div>
+  </div>
+</div>
+
 ![William (Wild Billy) Lewis with Patrick Knox](/img/legal/cpd/lewis.jpg)
 ![Florence Carsello sitting on Policeman Martin Ernest's lap](/img/legal/cpd/carsello_sitting.jpg)
 ![Joe Loomis injured](/img/legal/cpd/loomis-injured.jpg)
@@ -15,11 +82,9 @@ aliases: [/legal/]
 
 This data set of more than 11,000 homicides from 1870-1930 is based upon a set of [handwritten records](/docs_fk/homicide/handwritten_cases.pdf) kept without interruption by the Chicago Police Department, consistently, and with the same protocol and indexing system, over a sixty year period. The Chicago Police as an institution changed greatly during this period. Allegations of corruption alternated with periods of reform, while the general trend over the period was towards increased professionalization of the police. The institution of the Chicago Police changed greatly over the period, and a series of reports and commentaries record some of those changes. The police in Chicago during this period were oriented to neighborhoods. The education and training of officers became more professional throughout the period. Each neighborhood had its own police station, and the individual records typically report the precinct number. The neighborhoods, in turn, were aligned with the political wards of the city. Aldermen were elected by wards and answered politically to their constituencies in wards. The aldermen and the mayor ruled the city, and the police answered to them.
 
-[Cases involving police officers as victims](/database/?backToResults=1&police_vict=1&page=1)
-
-[Cases involving police officers as defendants](/database/?backToResults=1&police_def=2&page=1)
-
-[Police in America (1971): Chicago Police System](/docs_fk/homicide/vice/vice.02.pdf)
+- [Cases involving police officers as victims](/database/?backToResults=1&police_vict=1&page=1)
+- [Cases involving police officers as defendants](/database/?backToResults=1&police_def=2&page=1)
+- [Police in America (1971): Chicago Police System](/docs_fk/homicide/vice/vice.02.pdf)
 
 One of the first acts of a newly appointed mayor was the appointment of the Superintendent of Police, a powerful and often controversial figure in Chicago. Periodically there were scandals involving: superintendents; individual officers; the conduct of police in certain wards; or the behavior of a group of policemen during particular incidents, such as strikes or riots. There was an uneasy relationship between the progressive reformers and the police as the official reports of the period reflect.
 
