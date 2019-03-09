@@ -37,7 +37,7 @@
   100% { transform: rotate(360deg); }
 }
 
-img {
+.content img {
   height: auto;
   max-width: 100%;
   float: left;
