@@ -33,7 +33,7 @@ SectionPagesMenu = "main"
   name = "History"
   weight = 2
     identifier = "historical"
-  url = "/historical/"
+  url = "/historical/timeline/"
 
 [[menu.main]]
   name = "Legal Context"

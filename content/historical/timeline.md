@@ -1,6 +1,7 @@
 ---
 title: "Timeline of the City's History"
 layout: historical
+aliases: [/historical/]
 ---
 
 <table class="table is-hoverable">
