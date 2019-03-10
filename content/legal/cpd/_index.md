@@ -6,32 +6,16 @@ aliases: [/legal/]
 
 <div class="columns">
   <div class="column">
-    <a title="William (Wild Billy) Lewis with Patrick Knox">
-      <figure class="image is-256x256">
-        <img src="/img/legal/cpd/lewis.jpg" data-jslghtbx="">
-      </figure>
-    </a>
+    {{< image title="William (Wild Billy) Lewis with Patrick Knox" src="/img/legal/cpd/lewis.jpg" >}}
   </div>
   <div class="column">
-    <a title="Florence Carsello sitting on Policeman Martin Ernest's lap">
-      <figure class="image is-256x256">
-        <img src="/img/legal/cpd/carsello_sitting.jpg" data-jslghtbx="">
-      </figure>
-    </a>
+    {{< image  title="Florence Carsello sitting on Policeman Martin Ernest's lap" src="/img/legal/cpd/carsello_sitting.jpg" >}}
   </div>
   <div class="column">
-    <a title="Joe Loomis injured">
-      <figure class="image is-256x256">
-        <img src="/img/legal/cpd/loomis-injured.jpg" alt="Joe Loomis injured" data-jslghtbx="">
-      </figure>
-    </a>
+    {{< image title="Joe Loomis injured" src="/img/legal/cpd/loomis-injured.jpg" >}}
   </div>
   <div class="column">
-    <a title="Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her">
-      <figure class="image is-256x256">
-        <img src="/img/legal/cpd/sheridan.jpg" alt="Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her" data-jslghtbx="">
-      </figure>
-    </a>
+    {{< image title="Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her" src="/img/legal/cpd/sheridan.jpg" >}}
   </div>
 </div>
 
@@ -39,32 +23,16 @@ This data set of more than 11,000 homicides from 1870-1930 is based upon a set o
 
 <div class="columns">
   <div class="column">
-    <a title="Policeman Orthman">
-      <figure class="image is-256x256">
-        <img src="/img/legal/cpd/orthman.jpg" alt="Policeman Orthman" data-jslghtbx="">
-      </figure>
-    </a>
+    {{< image title="Policeman Orthman" src="/img/legal/cpd/orthman.jpg" >}}
   </div>
   <div class="column">
-    <a title="McWeeny">
-      <figure class="image is-256x256">
-        <img src="/img/legal/cpd/mcweeny2.jpg" alt="McWeeny" data-jslghtbx="">
-      </figure>
-    </a>
+    {{< image title="McWeeny" src="/img/legal/cpd/mcweeny2.jpg" >}}
   </div>
   <div class="column">
-    <a title="Jail Cells">
-      <figure class="image is-256x256">
-        <img src="/img/legal/cpd/Jail_Cells.jpg" alt="Jail Cells" data-jslghtbx="">
-      </figure>
-    </a>
+    {{< image title="Jail Cells" src="/img/legal/cpd/Jail_Cells.jpg" >}}
   </div>
   <div class="column">
-    <a title="Jimmy the Bear">
-      <figure class="image is-256x256">
-        <img src="/img/legal/cpd/bear.jpg" alt="Jimmy the Bear" data-jslghtbx="">
-      </figure>
-    </a>
+    {{< image title="Jimmy the Bear" src="/img/legal/cpd/bear.jpg" >}}
   </div>
 </div>
 
@@ -76,11 +44,7 @@ One of the first acts of a newly appointed mayor was the appointment of the Supe
 
 Uniforms, pay scales, educational requirements for police officers were all modified during the period. The trend was in the general direction of greater professionalization ([A Manual of Criminal Law](/pubs/MCLCPP/)). An important political debate was carried on for decades over whether or not the police were to be treated as civil servants: guaranteed certain kinds of job security and minimum wages, and also not to be capable of being fired when a new mayor was elected. It was also a period when the police had a great deal of discretion and power, with the support of the aldermen and mayor. And each police station and ward had its own character, traditions, and reputation.
 
-<a title="Exterior View">
-  <figure class="image">
-    <img src="/img/legal/cpd/desPlaines2.jpg" alt="Exterior View" data-jslghtbx="">
-  </figure>
-</a>
+{{< image title="Exterior View" src="/img/legal/cpd/desPlaines2.jpg" >}}
 
 One of the most famous stations was the [Harrison Street Station](/images_fk/timeline/1900/large/200.jpg). The Des Plaines Street [Police Station](/docs_fk/homicide/desPlaines2.jpg), where the more than 170 police officers waited to march on the Haymarket, also played an historic role in many events as well.
 
