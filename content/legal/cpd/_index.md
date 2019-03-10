@@ -8,66 +8,30 @@ aliases: [/legal/]
   <div class="column">
     <a title="William (Wild Billy) Lewis with Patrick Knox">
       <figure class="image is-256x256">
-        <img src="/img/legal/cpd/lewis.jpg" id="thumbnail" onclick="openModal()">
+        <img src="/img/legal/cpd/lewis.jpg" data-jslghtbx="">
       </figure>
     </a>
-    <div class="modal" id="fullsize">
-      <div class="modal-background"></div>
-      <div class="modal-content">
-        <p class="image is-4by3">
-          <img src="/img/legal/cpd/lewis.jpg" alt="William (Wild Billy) Lewis with Patrick Knox">
-        </p>
-      </div>
-      <button class="modal-close is-large" aria-label="close" onclick="closeModal()"></button>
-    </div>
   </div>
   <div class="column">
     <a title="Florence Carsello sitting on Policeman Martin Ernest's lap">
       <figure class="image is-256x256">
-        <img src="/img/legal/cpd/carsello_sitting.jpg" id="thumbnail" onclick="openModal()">
+        <img src="/img/legal/cpd/carsello_sitting.jpg" data-jslghtbx="">
       </figure>
     </a>
-    <div class="modal" id="fullsize">
-      <div class="modal-background"></div>
-      <div class="modal-content">
-        <p class="image is-4by3">
-          <img src="/img/legal/cpd/carsello_sitting.jpg" alt="Florence Carsello sitting on Policeman Martin Ernest's lap">
-        </p>
-      </div>
-      <button class="modal-close is-large" aria-label="close" onclick="closeModal"></button>
-    </div>
   </div>
   <div class="column">
     <a title="Joe Loomis injured">
       <figure class="image is-256x256">
-        <img src="/img/legal/cpd/loomis-injured.jpg" alt="Joe Loomis injured" id="thumbnail" onclick="openModal()">
+        <img src="/img/legal/cpd/loomis-injured.jpg" alt="Joe Loomis injured" data-jslghtbx="">
       </figure>
     </a>
-    <div class="modal" id="fullsize">
-      <div class="modal-background"></div>
-      <div class="modal-content">
-        <p class="image is-4by3">
-          <img src="/img/legal/cpd/loomis-injured.jpg" alt="Joe Loomis injured" id="thumbnail" onclick="openModal()">
-        </p>
-      </div>
-      <button class="modal-close is-large" aria-label="close" onclick="closeModal"></button>
-    </div>
   </div>
   <div class="column">
-    <a title="Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her" onclick="openModal">
+    <a title="Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her">
       <figure class="image is-256x256">
-        <img src="/img/legal/cpd/sheridan.jpg" alt="Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her">
+        <img src="/img/legal/cpd/sheridan.jpg" alt="Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her" data-jslghtbx="">
       </figure>
     </a>
-    <div class="modal" id="fullsize">
-      <div class="modal-background"></div>
-      <div class="modal-content">
-        <p class="image is-4by3">
-          <img src="/img/legal/cpd/sheridan.jpg" alt="Florence Carsello sitting on Policeman Martin Ernest's lap" id="thumbnail" onclick="openModal()">
-        </p>
-      </div>
-      <button class="modal-close is-large" aria-label="close" onclick="closeModal"></button>
-    </div>
   </div>
 </div>
 
