@@ -3,7 +3,19 @@ title: "Timeline of the City's History"
 layout: historical
 ---
 
-![1871 Image](/img/historical/timeline/1871.jpg) **1871 Great Chicago Fire** (City Population is at 298,977; 90,000 left homeless, 300 dead; Center City devastated.  Chicago Public Library founded with books donated after the fire) **Montgomery Ward Founded** (First mass market catalog company). Selected case(s) from this year:  [2403](/database/2472)
+<table class="table">
+  <tr>
+    <th>{{< image title="1871" src="/img/historical/timeline/1871.jpg" >}}</th>
+    <td>**1871 Great Chicago Fire** (City Population is at 298,977; 90,000 left homeless, 300 dead; Center City devastated.  Chicago Public Library founded with books donated after the fire) **Montgomery Ward Founded** (First mass market catalog company). Selected case(s) from this year:  [2403](/database/2472)</td>
+  </tr>
+  <tr>
+    <th>{{< image title="1872" src="/img/historical/timeline/1872.jpg" >}}</th>
+    <td>**1872 First Black Police Officer** (Mayor Carter Harrison appoints 4 Black police officers) Selected case(s) from this year: [505](/database/533)</td>
+  </tr>
+</table>
+
+![1871 Image](/img/historical/timeline/1871.jpg)
+**1871 Great Chicago Fire** (City Population is at 298,977; 90,000 left homeless, 300 dead; Center City devastated.  Chicago Public Library founded with books donated after the fire) **Montgomery Ward Founded** (First mass market catalog company). Selected case(s) from this year:  [2403](/database/2472)
 
 ![1872 image](/img/historical/timeline/1872.jpg) **1872 First Black Police Officer** (Mayor Carter Harrison appoints 4 Black police officers) Selected case(s) from this year: [505](/database/533)
 
