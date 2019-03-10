@@ -1,0 +1,8 @@
+<!--
+  This shortcode is called image. It accepts named paramters.
+  -->
+  <a title="{{.Get "title" }}">
+    <figure class="image">
+      <img src="{{.Get "src" }}" data-jslghtbx="" data-jslghtbx-caption="{{ .Get "title" }}">
+    </figure>
+  </a>
