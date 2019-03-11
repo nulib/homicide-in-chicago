@@ -96,7 +96,7 @@ aliases: [/historical/]
       <td><strong>1891</strong> City Population doubles (Total population reaches 1,215,000). Chicago Symphony founded (Art Institutions grow; Construction begins for World Columbian Exposition). Provident Hospital founded (Chicago's First Black Civic Institution). Selected case(s) from this year:  <a href="/database/2411">2411</a>, <a href="/database/11">11</a></td>
     </tr>
     <tr>
-      <th>{{< image src="/img/historical/timeline/1892.jpg" title="1892 image" >}}</th>
+      <th>{{< image src="/img/timeline/1892.jpg" title="1892 image" >}}</th>
       <td><strong>1892</strong> Selected case(s) from this year:  <a href="/database/527">527</a>, <a href="/database/2168">2168</a>, <a href="/database/123">123</a></td>
     </tr>
     <tr>
