@@ -3,7 +3,7 @@ title: "Crimes of the Century (1998)"
 layout: pubs
 ---
 
-![Crimes of the Century cover illustration - click on image to view full-size version](/img/pub/crimes/COTC_cover.jpg)
+{{< image title="Crimes of the Century" src="/img/pub/crimes/COTC_cover.jpg" >}}
 
 Gilbert Geis and [Leigh B. Bienen](/about/LeighBienen/), __Crimes of the Century__ (Boston, 1998).  It analyzes five cases which seized the public imagination, and came to stand for more than the guilt or punishment of a single individual for a particular crime. The cases analyzed are: [Leopold and Loeb](/crimes/leopold); The Lindbergh Kidnapping; the Alger Hiss case; The Scottsboro cases; and the O.J. Simpson case.
 
