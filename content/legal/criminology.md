@@ -3,9 +3,17 @@ title: "Criminology"
 layout: legal
 ---
 
-![Northwestern University Law School facilities, Loop location-click on photo to enlarge](/img/legal/criminology/criminology01.jpg)
-![Northwestern University Law School facilities, Loop location-click on photo to enlarge](/img/legal/criminology/criminology02.jpg)
-![Northwestern University Law School facilities, Loop location-click on photo to enlarge](/img/legal/criminology/criminology03.jpg)
+<div class="columns">
+  <div class="column">
+    {{< image title="Northwestern University Law School facilities" src="/img/legal/criminology/criminology01.jpg" >}}
+  </div>
+  <div class="column">
+    {{< image title="Northwestern University Law School facilities" src="/img/legal/criminology/criminology02.jpg" >}}
+  </div>
+  <div class="column">
+    {{< image title="Northwestern University Law School facilities" src="/img/legal/criminology/criminology03.jpg" >}}
+  </div>
+</div>
 
 Photos of Northwestern University Law School facilities, Loop location, circa 1900. Click on images to view full-sized versions.
 
