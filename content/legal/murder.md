@@ -5,7 +5,7 @@ layout: legal
 
 In a number of these cases the defendant killed his wife, or wife and children, and then killed himself, or attempted to kill himself. And there are some cases where a woman killed her husband or her children, and then killed herself or attempted to kill herself.
 
-[View all homicides in which circumstances included suicide](/database/?backToResults=1&typhom=7&page=1)
+[View all homicides in which circumstances included suicide](/search/?s=suicide)
 
 View [video](#) of Cynthia Grant Bowman, author of [Wife Murder in Chicago: 1910-1930](/docs_fk/homicide/LawJournal/JCLC06.pdf)
 
