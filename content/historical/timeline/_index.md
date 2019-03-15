@@ -31,7 +31,7 @@ aliases: [/historical/]
       <td><strong>1876</strong> Selected case(s) from this year:  <a href="/database/862">862</a></td>
     </tr>
     <tr>
-      <th>{{< image title="1877" src="img/historical/timeline/1877.jpg" >}}</td>
+      <th>{{< image title="1877" src="/img/historical/timeline/1877.jpg" >}}</td>
       <td><strong>1877 National Railroad Strikes</strong> (The 'Great Uprising' in Chicago, thousands armed, 30 dead, 300 wounded)
       Selected case(s) from this year:  <a href="/database/1992">1992</a>, <a href="/database/1712">1712</a></td>
     </tr>
