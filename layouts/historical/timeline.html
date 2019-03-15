@@ -505,7 +505,11 @@
 
       <div class="column">
         <div class="content">
+          {{ if .Params.year }}
           <h2>{{ .Params.year }}: {{ .Title }}</h2>
+          {{ else }}
+          <h2>{{ .Title }}</h2>
+          {{ end }}
             {{ .Content }}
         </div>
       </div>

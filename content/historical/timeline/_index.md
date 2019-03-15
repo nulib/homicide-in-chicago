@@ -1,6 +1,6 @@
 ---
 title: "Timeline of the City's History"
-layout: historical
+layout: timeline
 aliases: [/historical/]
 ---
 
