@@ -24,11 +24,6 @@ permalink: /historical/children/
   </a>
 </div>
 
-
-
-
-
-
 ### Newspaper Articles
   * [Florence Kelley](/historical/children/kelleybio/)
   * [1894 - Factory Cases in the Supreme Court](/historical/children/factory/)
@@ -45,4 +40,3 @@ permalink: /historical/children/
   * [Florence Kelley](/historical/children/kelleyobit/)
   * [Levy Mayer](/historical/children/mayerobit/)
  
-<img class="image" src="" title="child">
