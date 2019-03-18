@@ -3,7 +3,7 @@ title: "Accidents"
 layout: legal
 ---
 
-![1928](/img/legal/accidents/automobile.jpg)
+{{< image title="1928" src="/img/legal/accidents/automobile.jpg" >}}
 
 Deaths attributed to accidental shooting occur regularly throughout this set of cases. Some cases involve children, some involve quarrels in saloons or bars, or circumstances of domestic violence.
 
@@ -13,11 +13,9 @@ In the 19th century many people are killed in horse-related accidents, but as th
 
 See also:
 
-[All cases of unintentional manslaughter with a gun](/database/?backToResults=1&kindman=2&page=1)
-
-[All cases of unintentional manslaughter with an automobile](/database/?backToResults=1&kindman=1&page=1)
-
-[All other cases of unintentional manslaughter](/database/?backToResults=1&kindman=3&page=1)
+- [All cases of unintentional manslaughter with a gun](/database/?backToResults=1&kindman=2&page=1)
+- [All cases of unintentional manslaughter with an automobile](/database/?backToResults=1&kindman=1&page=1)
+- [All other cases of unintentional manslaughter](/database/?backToResults=1&kindman=3&page=1)
 
 [Learning From the Past, Living In the Present: Understanding Homicide in Chicago, 1870-1930 (pages 551-552)](doesnt work) by Leigh B. Bienen & Brandon Rottinghaus
 
