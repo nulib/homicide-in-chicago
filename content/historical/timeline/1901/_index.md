@@ -1,6 +1,6 @@
 ---
-title: "Timeline of the City's History: 1896"
+title: "Timeline of the City's History: 1901"
 ---
-Images from 1896:
+Images from 1901:
 
-{{< image title="A View Across the Main Basin" src="/img/timeline/1896/large/235.jpg" >}}
+{{< image title="99th Street Beach" src="/img/timeline/1901/small/35.jpg" >}}
