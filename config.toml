@@ -63,7 +63,7 @@ SectionPagesMenu = "main"
   name = "Videos"
   weight = 7
     identifier = "gallery"
-  url = "/gallery/"
+  url = "/gallery/bienen/"
 
 [[menu.main]]
   name = "About"
