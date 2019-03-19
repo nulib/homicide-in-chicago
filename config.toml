@@ -30,10 +30,10 @@ SectionPagesMenu = "main"
   url = "/search/"
 
 [[menu.main]]
-  name = "People & Events"
+  name = "Historical Context"
   weight = 2
     identifier = "historical"
-  url = "/historical/people/"
+  url = "/historical/movements/working/"
 
 [[menu.main]]
   name = "Timeline"
