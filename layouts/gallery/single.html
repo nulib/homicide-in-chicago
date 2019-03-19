@@ -6,24 +6,60 @@
 
 {{ define "main" }}
 
-<div class="columns is-fullheight">
-    <div class="column">
-        <section class="hero is-default is-bold">
-            <div class="hero-body">
-                <div class="content container">
-                  <h2 class="title">{{ .Title }}</h2>
-                  <!-- Arch is not currently configured to allow iframe embeds
-                  <iframe src="http://arch.library.northwestern.edu/concern/parent/vx021f31v/file_sets/s7526c62c" style="height:440px;width:100%"></iframe>
-                  -->
-                  {{ .Content}}
-
-                  <a class="button" href="{{ .Params.doi }}">Download</a>
-                </div>
-                <br>
-            </div>
-        </section>
+<section class="hero is-primary">
+    <div class="hero-body">
+      <div class="container">
+        <h2 class="title">
+          {{ .Title }}
+        </h2>
+        <h3 class="subtitle">
+          {{ .Content }}
+        </h3>
+      </div>
     </div>
-</div>
+  </section>
+
+<section class="section">
+  <div class="container">
+      <div class="columns">
+
+        <div class="column is-one-quarter">
+          <aside class="menu">
+            <ul class="menu-list">
+              <p class="menu-label">Interviews</p>
+              <li><a href="/gallery/1915/343/">Clarence Darrow</a></li>
+              <li><a href="/gallery/1915/343/">Cynthia Bowman</a></li>
+              <li><a href="/gallery/1915/343/">David Tanenhaus</a></li>
+              <li><a href="/gallery/1915/343/">David Van Zandt</a></li>
+              <li><a href="/gallery/1915/343/">Dawn Clark-Netsch</a></li>
+              <li><a href="/gallery/1915/343/">Dominic Pacyga</a></li>
+              <li><a href="/gallery/1915/343/">Harold Shapiro</a></li>
+              <li><a href="/gallery/1915/343/">Howard Trienens</a></li>
+              <li><a href="/gallery/1915/343/">Judges R. Eugene Pincham and Earl E. Strayhorn</a></li>
+              <li><a href="/gallery/1915/343/">Lawrence Marshall</a></li>
+              <li><a href="/gallery/1915/343/">Michael Lesy</a></li>
+              <li><a href="/gallery/1915/343/">Michelle Oberman</a></li>
+              <li><a href="/gallery/1915/343/">Richard Brooks</a></li>
+              <li><a href="/gallery/1915/343/">Scott Turow</a></li>
+              <li><a href="/gallery/1915/343/">Steven A. Drizin</a></li>
+              <li><a href="/gallery/1915/343/">Thomas Geraghty</a></li>
+              <li><a href="/gallery/1915/343/">Victor Rosenblum</a></li>
+          </aside>
+        </div>
+
+        <div class="column">
+            <div class="video-container">
+              <iframe title="{{ .Params.title }}" src="https://media.northwestern.edu:443/master_files/{{ .Params.id }}/embed" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+            <a class="button" href="{{ .Params.repo }}" target="_blank">More Information</a>   
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 {{ end }}
 {{ define "footer" }}
   {{ partial "footer" . }}
