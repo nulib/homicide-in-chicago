@@ -51,6 +51,11 @@
             <div class="video-container">
               <iframe title="{{ .Params.title }}" src="https://media.northwestern.edu:443/master_files/{{ .Params.id }}/embed" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
+            {{ if .Params.id_2 }}
+            <div class="video-container">
+                <iframe title="{{ .Params.title }}" src="https://media.northwestern.edu:443/master_files/{{ .Params.id_2 }}/embed" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+            {{ end }}
             <a class="button" href="{{ .Params.repo }}" target="_blank">More Information</a>   
           </div>
 
