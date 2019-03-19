@@ -4,41 +4,56 @@ layout: legal
 aliases: [/legal/]
 ---
 
-<div class="columns">
-  <div class="column">
-    {{< image title="William (Wild Billy) Lewis with Patrick Knox" src="/img/legal/cpd/lewis.jpg" >}}
+<section class="section">
+  <div class="tiles">
+    <div class="tile is-ancestor has-text-centered">
+      <div class="tile">
+        {{< image title="William (Wild Billy) Lewis with Patrick Knox" src="/img/legal/cpd/lewis.jpg" >}}
+      </div>
+      <div class="tile">
+        {{< image  title="Florence Carsello sitting on Policeman Martin Ernest's lap" src="/img/legal/cpd/carsello_sitting.jpg" >}}      
+      </div>
+      <div class="tile">
+        {{< image title="Joe Loomis injured" src="/img/legal/cpd/loomis-injured.jpg" >}}      
+      </div>
+    </div>
   </div>
-  <div class="column">
-    {{< image  title="Florence Carsello sitting on Policeman Martin Ernest's lap" src="/img/legal/cpd/carsello_sitting.jpg" >}}
-  </div>
-  <div class="column">
-    {{< image title="Joe Loomis injured" src="/img/legal/cpd/loomis-injured.jpg" >}}
-  </div>
-  <div class="column">
-    {{< image title="Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her" src="/img/legal/cpd/sheridan.jpg" >}}
-  </div>
-</div>
+</section>
 
 This data set of more than 11,000 homicides from 1870-1930 is based upon a set of [handwritten records](/docs_fk/homicide/handwritten_cases.pdf) kept without interruption by the Chicago Police Department, consistently, and with the same protocol and indexing system, over a sixty year period. The Chicago Police as an institution changed greatly during this period. Allegations of corruption alternated with periods of reform, while the general trend over the period was towards increased professionalization of the police. The institution of the Chicago Police changed greatly over the period, and a series of reports and commentaries record some of those changes. The police in Chicago during this period were oriented to neighborhoods. The education and training of officers became more professional throughout the period. Each neighborhood had its own police station, and the individual records typically report the precinct number. The neighborhoods, in turn, were aligned with the political wards of the city. Aldermen were elected by wards and answered politically to their constituencies in wards. The aldermen and the mayor ruled the city, and the police answered to them.
 
-<div class="columns">
-  <div class="column">
-    {{< image title="Policeman Orthman" src="/img/legal/cpd/orthman.jpg" >}}
+<section class="section">
+  <div class="tiles">
+    <div class="tile is-ancestor has-text-centered">
+      <div class="tile">
+        {{< image title="Anna Sheridan, a policewoman, standing on a sidewalk and holding a handgun up in front of her" src="/img/legal/cpd/sheridan.jpg" >}}
+      </div>
+      <div class="tile">
+        {{< image title="Policeman Orthman" src="/img/legal/cpd/orthman.jpg" >}}      
+      </div>
+      <div class="tile">
+        {{< image title="McWeeny" src="/img/legal/cpd/mcweeny2.jpg" >}}      
+      </div>
+    </div>
   </div>
-  <div class="column">
-    {{< image title="McWeeny" src="/img/legal/cpd/mcweeny2.jpg" >}}
-  </div>
-  <div class="column">
-    {{< image title="Jail Cells" src="/img/legal/cpd/Jail_Cells.jpg" >}}
-  </div>
-  <div class="column">
-    {{< image title="Jimmy the Bear" src="/img/legal/cpd/bear.jpg" >}}
-  </div>
-</div>
+</section>
 
 - [Cases involving police officers as victims](/database/?backToResults=1&police_vict=1&page=1)
 - [Cases involving police officers as defendants](/database/?backToResults=1&police_def=2&page=1)
 - [Police in America (1971): Chicago Police System](/docs_fk/homicide/vice/vice.02.pdf)
+
+<section class="section">
+  <div class="tiles">
+    <div class="tile is-ancestor has-text-centered">
+      <div class="tile">
+        {{< image title="Jail Cells" src="/img/legal/cpd/Jail_Cells.jpg" >}}
+      </div>
+      <div class="tile">
+        {{< image title="Jimmy the Bear" src="/img/legal/cpd/bear.jpg" >}}      
+      </div>
+    </div>
+  </div>
+</section>
 
 One of the first acts of a newly appointed mayor was the appointment of the Superintendent of Police, a powerful and often controversial figure in Chicago. Periodically there were scandals involving: superintendents; individual officers; the conduct of police in certain wards; or the behavior of a group of policemen during particular incidents, such as strikes or riots. There was an uneasy relationship between the progressive reformers and the police as the official reports of the period reflect.
 
