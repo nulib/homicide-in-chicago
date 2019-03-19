@@ -65,14 +65,13 @@ Included in the [Commission Report of 1911](doesnt work) and in contemporaneous 
   <div class="column">
     {{< image title="Portrait of Police Captain Max Nootbaar. He is sitting in a room, which includes a typewriter in the background. Nootbaar was appointed by Chief Gleason to head the levee district operations" src="/img/legal/prostitution/vic_shaw_inquest.jpg" >}}
   </div>
-    <div class="column">
-    {{< image title="Informal portrait of Attorney Charles E. Erbstein and gangster James Colosimo, sitting in a room. Colosimo ran brothels and saloons in Chicago. He reputedly was murdered by Al Capone on May 11, 1920" src="/img/legal/prostitution/colosimo.jpg" >}}
-  </div>
 </div>
 
 The social reform movements, advocates for and against prohibition, and religious proselytizers produced a variety of hortatory literature often including statements attributed to public figures of the day. For their language, diction, and allegations of unverifiable facts, these books and pamphlets offer, if nothing else, a vernacular time capsule of public speech, and occasional glimpses into the life and conditions of the day.
 
 See, Grant Eugene Stevens, __Wicked City__ (Chicago, 1906), published by G.E. Stevens. This is an odd combination of novel, puzzle, mystery story, and commentary upon the "Wicked City Redeemed", including some contemporary illustrations and photographs. The structure of the book is to collect and solicit opinions and pronouncements from a variety of public figures and fictional persons as to whether Chicago is a "wicked city". Much attention paid to drinking, gambling and the white slave trade.
+
+{{< image title="Informal portrait of Attorney Charles E. Erbstein and gangster James Colosimo, sitting in a room. Colosimo ran brothels and saloons in Chicago. He reputedly was murdered by Al Capone on May 11, 1920" src="/img/legal/prostitution/colosimo.jpg" >}}
 
 Additional sources include:
 
