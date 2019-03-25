@@ -7,7 +7,7 @@ layout: legal
   <div class="tile is-4 is-vertical is-parent">
     <div class="tile is-child">
       {{< image title="Lieutenant Augustus White" src="/img/legal/corruption/white.jpg" >}}
-      <strong><a href="historical/timeline/1917/446/">Lieutenant Augustus White</a></strong>
+      <strong><a href="/historical/timeline/1917/446/">Lieutenant Augustus White</a></strong>
     </div>
     <div class="tile is-child">
       {{< image title="Captain Nicholas Hunt" src="/img/legal/corruption/hunt.jpg" >}}
