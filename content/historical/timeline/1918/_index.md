@@ -3,10 +3,10 @@ title: "Timeline of the City's History: 1918"
 layout: timeline
 ---
 
-{{< image title="Billy Sunday" src="/img/timeline/1918/small/351.jpg" >}}
+{{< image title="Billy Sunday" src="/img/timeline/1918/large/351.jpg" >}}
 
-{{< image title="Ethel Hogan, Broadway Murder Witness" src="/img/timeline/1918/small/96.jpg" >}}
+{{< image title="Ethel Hogan, Broadway Murder Witness" src="/img/timeline/1918/large/96.jpg" >}}
 
-{{< image title="Group portrait of Women Packers in the Canning Department of Libby, McNeil, and Libby" src="/img/timeline/1918/small/11.jpg" >}}
+{{< image title="Group portrait of Women Packers in the Canning Department of Libby, McNeil, and Libby" src="/img/timeline/1918/large/11.jpg" >}}
 
-{{< image title="Jap Rose Soap" src="/img/timeline/1918/small/284.jpg" >}}
+{{< image title="Jap Rose Soap" src="/img/timeline/1918/large/284.jpg" >}}
