@@ -4,22 +4,30 @@ permalink: /historical/movements/hullhouse
 layout: historical
 ---
 
-[![Jane Addams, speaking to a crowd upon her arrival at Union Depot](/img/historical/movements/hullhouse/addams_speaking.jpg)](/historical/timeline/1915/281)
-Jane Addams, speaking to a crowd upon her arrival at Union Depot. Click on image to view detail
+<table class="table is-hoverable">
+  <tbody>
+    <tr>
+      <th>{{< image title="Jane Addams, speaking to a crowd upon her arrival at Union Depot" src="/img/historical/movements/hullhouse/addams_speaking.jpg" >}}</th>
+      <td>Jane Addams, speaking to a crowd upon her arrival at Union Depot. <a href="/historical/timeline/1915/281">More information</a>.</td>
+    </tr>
+    <tr>
+      <th>{{< image title="Lucy Parsons" src="/img/historical/movements/hullhouse/parsons.jpg" >}}</th>
+      <td>Mrs. Lucy E. Parsons, arrested during protest at Hull House. <a href="/historical/timeline/1915/280">More information</a>.</td>
+    </tr>
+    <tr>
+      <th>{{< image title="Hull House Maps" src="/img/historical/movements/hullhouse/HHouseMaps.jpg" >}}</th>
+      <td>View Hull House Maps. <a href="/pubs/hullhouse/Maps">More information</a>.</td>
+    </tr>
+    <tr>
+      <th>{{< image title="Jane Addams" src="/img/historical/movements/hullhouse/addams_car.jpg" >}}</th>
+      <td>Jane Addams. <a href="/historical/timeline/1915/388">More information</a>.</td>
+    </tr>
+  </tbody>
+</table>
 
-[![Lucy Parsons](/img/historical/movements/hullhouse/parsons.jpg)](/historical/timeline/1915/280)
-Mrs. Lucy E. Parsons, arrested during protest at Hull House. Click on image to view detail
+For more information:
 
-[![Maps"](/img/historical/movements/hullhouse/HHouseMaps.jpg)](/pubs/hullhouse/Maps)
-View Hull House Maps
-
-[![Jane Addams](/img/historical/movements/hullhouse/addams_car.jpg)](/historical/timeline/1915/388)
-Jane Addams
-
-**For more information:**
-   *Hull House Maps and Papers* (1895):
-    **Chapter X: The Settlement as a factor in the labor movement**
-
-    **Editor's Preface**
-
-    **Urban Experience in Chicago: Hull-House and Its Neighborhoods, 1889-1963.**
+- Hull House Maps and Papers (1895):
+- Chapter X: The Settlement as a factor in the labor movement
+- Editor's Preface
+- Urban Experience in Chicago: Hull-House and Its Neighborhoods, 1889-1963.

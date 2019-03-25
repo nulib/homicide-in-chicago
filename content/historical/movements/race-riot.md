@@ -4,11 +4,20 @@ layout: historical
 aliases: [/historical/raceriot]
 ---
 
-###1919 Race Riot
-[![Chicago Race Riot](/img/historical/movements/raceriot/race_riot.jpg)](/historical/timeline/1919/397)
-[![Chicago Race Riot, Walgreen Drugs](/img/historical/movements/raceriot/walgreens_drugs.jpg)](/historical/timeline/1919/403)
+<div class="columns">
+  <div class="column">
+    <a href="/historical/timeline/1919/397">
+      <img title="Chicago Race Riot" src="/img/historical/movements/raceriot/race_riot.jpg">
+    </a>
+  </div>
+  <div class="column">
+  <a href="/historical/timeline/1919/403">
+    <img title="Chicago Race Riot, Walgreen Drugs" src="/img/historical/movements/raceriot/walgreens_drugs.jpg">
+  </a>
+  </div>
+</div>
 
-[View case details...](/database/5559)
+### [View case details...](/database/5559)
 
 [Learning From the Past, Living In the Present: Understanding Homicide in Chicago, 1870-1930 (pages 520-521)](/docs_fk/homicide/JCLC520-521.pdf) by Leigh B. Bienen & Brandon Rottinghaus
 
@@ -23,15 +32,16 @@ The trigger for the riot was the drowning of Eugene Williams at the 298th street
 The armed confrontations may have been over, but aftereffects smoldered longer than the charred remains of the burned buildings. Ironically, the beach where the black boys had gone to swim was not a segregated beach. It was called the ‘hot and cold’ beach because the effluence from the brewery and ice company nearby poured into the lake and could turn the water hot or cold. The effluent discharged was so potent in chemicals that it temporarily bleached a black person, white.
 
 **For further reading:**
-   William M. Tuttle, Jr., [Race Riot – Chicago in the Red Summer of 1919](https://www.amazon.com/exec/obidos/tg/detail/-/0252065867/qid=1086272530/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), (Chicago, 1996) and see the valuable, “Essay on Sources,” pp. 269 - 289.
-   Dominic A. Pacyga, “Chicago’s 1919 Race Riot: Ethnicity, Class and Urban Violence,” in Raymond Mohl, ed. [The Making of Urban America](https://www.amazon.com/exec/obidos/tg/detail/-/0842026398/ref=lpr_g_1/104-5698753-1575148?v=glance&s=books), (2d. Ed. 1997).
-   Glen E. Holt and Dominic A. Pacyga, [Chicago: A Historical Guide to the Neighborhoods – The Loop and South Side](https://www.amazon.com/exec/obidos/tg/detail/-/0226104133/qid=1086272624/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), (with historical photographs) Chicago Historical Society, 1979.
-   Grossman, James R. Land of Hope: Chicago, Black Southerners, and the Great Migration (Chicago, 1989) This readable, scholarly account provides an extensive analysis of both the southern roots of the Great Migration and the making (and remaking) of Chicago’s black community during the early twentieth century.
-   U.S. Census, “Negro Population in the United States, 1790-1915,” Washington, Gov’t Printing Office, 1918. A special report of the U.S. Census.
-   Harold F. Gosnell, [Negro Politicians](https://www.amazon.com/exec/obidos/tg/detail/-/0226304930/qid=1086272829/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), U. Chicago Press, originally published 1935, reprinted with a new Introduction by James Q. Wilson, 1967. Chronicles the activities of Negroes in politics and the society in Chicago, where Negroes first entered northern politics in significant numbers. See especially, Ch. XII, “Negro Police Officers,” p.244-279.
-   Spear, Allan H. [Black Chicago: The Making of a Negro Ghetto](https://www.amazon.com/exec/obidos/tg/detail/-/0226768570/qid=1086272868/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), 1890-1920, (Chicago, 1967). This study emphasizes economic, demographic, and institutional conditions and chronicles the development of the city’s black community.
-   St. Clair Drake and Horace Clayton, [Black Metropolis](https://www.amazon.com/exec/obidos/tg/detail/-/0226162346/qid=1086272897/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), (New York, 1945). Considered by many to be the most authoritative and exhaustive study of the Negro community in Chicago.
-   [The Negro in Chicago](https://www.chipublib.org/browse/chicago-history/) (Chicago, 1922). Compiled in the aftermath of the 1919 race riot, this Report includes a detailed description of demographics, a history of race relations in the city, and an analysis of the conditions of blacks in Chicago.
-   [The Race Riots: Biennial Report 1918-1919 and Official Record of Inquests on the Victims of the Race Riots of July and August, 1919, Whereby Fifteen White Men and Twenty-three Colored Men Lost Their Lives and Several Hundred Were Injured.](https://www.chipublib.org/browse/chicago-history/) One of a number of annual reports of the Cook County Coroner's Office.
-   Elizabeth Dale, [The Rule of Justice – the People of Chicago versus Zephyr Davis](https://www.amazon.com/exec/obidos/tg/detail/-/0814250688/qid=1086273068/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), (Columbia, 2001).
-   Louise De Koven Bowen, __The Colored Population of Chicago__ (Chicago: Juvenile Protective Association, 1913).
+
+- William M. Tuttle, Jr., [Race Riot – Chicago in the Red Summer of 1919](https://www.amazon.com/exec/obidos/tg/detail/-/0252065867/qid=1086272530/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), (Chicago, 1996) and see the valuable, “Essay on Sources,” pp. 269 - 289.
+- Dominic A. Pacyga, “Chicago’s 1919 Race Riot: Ethnicity, Class and Urban Violence,” in Raymond Mohl, ed. [The Making of Urban America](https://www.amazon.com/exec/obidos/tg/detail/-/0842026398/ref=lpr_g_1/104-5698753-1575148?v=glance&s=books), (2d. Ed. 1997).
+- Glen E. Holt and Dominic A. Pacyga, [Chicago: A Historical Guide to the Neighborhoods – The Loop and South Side](https://www.amazon.com/exec/obidos/tg/detail/-/0226104133/qid=1086272624/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), (with historical photographs) Chicago Historical Society, 1979.
+- Grossman, James R. Land of Hope: Chicago, Black Southerners, and the Great Migration (Chicago, 1989) This readable, scholarly account provides an extensive analysis of both the southern roots of the Great Migration and the making (and remaking) of Chicago’s black community during the early twentieth century.
+- U.S. Census, “Negro Population in the United States, 1790-1915,” Washington, Gov’t Printing Office, 1918. A special report of the U.S. Census.
+- Harold F. Gosnell, [Negro Politicians](https://www.amazon.com/exec/obidos/tg/detail/-/0226304930/qid=1086272829/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), U. Chicago Press, originally published 1935, reprinted with a new Introduction by James Q. Wilson, 1967. Chronicles the activities of Negroes in politics and the society in Chicago, where Negroes first entered northern politics in significant numbers. See especially, Ch. XII, “Negro Police Officers,” p.244-279.
+- Spear, Allan H. [Black Chicago: The Making of a Negro Ghetto](https://www.amazon.com/exec/obidos/tg/detail/-/0226768570/qid=1086272868/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), 1890-1920, (Chicago, 1967). This study emphasizes economic, demographic, and institutional conditions and chronicles the development of the city’s black community.
+- St. Clair Drake and Horace Clayton, [Black Metropolis](https://www.amazon.com/exec/obidos/tg/detail/-/0226162346/qid=1086272897/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), (New York, 1945). Considered by many to be the most authoritative and exhaustive study of the Negro community in Chicago.
+- [The Negro in Chicago](https://www.chipublib.org/browse/chicago-history/) (Chicago, 1922). Compiled in the aftermath of the 1919 race riot, this Report includes a detailed description of demographics, a history of race relations in the city, and an analysis of the conditions of blacks in Chicago.
+- [The Race Riots: Biennial Report 1918-1919 and Official Record of Inquests on the Victims of the Race Riots of July and August, 1919, Whereby Fifteen White Men and Twenty-three Colored Men Lost Their Lives and Several Hundred Were Injured.](https://www.chipublib.org/browse/chicago-history/) One of a number of annual reports of the Cook County Coroner's Office.
+- Elizabeth Dale, [The Rule of Justice – the People of Chicago versus Zephyr Davis](https://www.amazon.com/exec/obidos/tg/detail/-/0814250688/qid=1086273068/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), (Columbia, 2001).
+- Louise De Koven Bowen, __The Colored Population of Chicago__ (Chicago: Juvenile Protective Association, 1913).

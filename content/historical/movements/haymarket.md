@@ -4,12 +4,14 @@ permalink: /historical/movements/haymarket
 layout: historical
 ---
 
-[![The Haymarket Affair (1886) Depiction of the explosion](/img/historical/movements/haymarket/Anarchy.jpg)](/docs_fk/homicide/544/Anarchy142.jpg)
-click on image to enlarge
-
-[View case details...](/database/516/)
-
-The name refers to a designated meeting place, a square where an open market was formerly held near Des Plaines and bordered on Randolph Street. There, on May 4, 1886, an historic armed confrontation took place between a group of Anarchists and labor activists and more than 170 armed police officers, who had been assembled at the Des Plaines Police Station a half block away in anticipation of a riot.
+<div class="columns">
+  <div class="column">
+    {{< image title="The Haymarket Affair (1886) Depiction of the explosion" src="/img/historical/movements/haymarket/Anarchy.jpg" >}}
+  </div>
+  <div class="column">
+    <p>The name refers to a designated meeting place, a square where an open market was formerly held near Des Plaines and bordered on Randolph Street. There, on May 4, 1886, an historic armed confrontation took place between a group of Anarchists and labor activists and more than 170 armed police officers, who had been assembled at the Des Plaines Police Station a half block away in anticipation of a riot. <a href="/database/516/">View case details.</a></p>
+  </div>
+</div>
 
 Although Haymarket was a watershed, it was not an isolated or unprecedented confrontation between labor agitators and law enforcement. Since 1877, shows of strength by labor activists and anarchists took place in Chicago, as well as in other parts of the United States, and in Europe and Russia. The labor activists were advocating for greater power and economic security to be given to working people, and in some instances calling for the violent overthrow of the capitalists and the governing authorities. After the railroad strikes of 1877, there had been nearly a decade of escalating strikes, political demonstrations and armed confrontations between workers and police and private militia, hired by management.
 
@@ -38,10 +40,8 @@ On November 11, 1887 the four remaining anarchists whose sentences had not been 
 In June of 1893 Governor John Peter Altgeld pardoned the two remaining living defendants, Fielden and Schwab, and issued a long statement of reasons for the pardons, criticizing the due process procedures at trial in general and the prejudicial conduct of Judge Gary at trial in particular. The act of pardoning the anarchists, and the criticism of the judge and the manner of trial, were both highly unpopular. The ruling destroyed Governor Altgeld’s prospects for holding elected office in the future. Those who were hanged became martyrs to generations of labor activists.  Those who believed the defendants were a threat to public security congratulated one another that public order had been restored with an exemplary punishment.
 
 **See also:**
-   The First Mayday: the Haymarket Speeches [(1980)](/pubs/mayday)
 
-   Michael J. Schaack, [Anarchy and Anarchists](/pubs/anarchy). A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators. (Chicago, 1889) (F.J. Schulte and Co.)
-
-   The Library of Congress Collection:  [Chicago Anarchists on Trial: Evidence from the Haymarket Affair.](http://memory.loc.gov/ammem/browse/updatedList.html)
-
-   [The Chicago Historical Society.](http://www.chicagohistory.org/chshome.html)
+- The First Mayday: the Haymarket Speeches [(1980)](/pubs/mayday)
+- Michael J. Schaack, [Anarchy and Anarchists](/pubs/anarchy). A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators. (Chicago, 1889) (F.J. Schulte and Co.)
+- The Library of Congress Collection:  [Chicago Anarchists on Trial: Evidence from the Haymarket Affair.](http://memory.loc.gov/ammem/browse/updatedList.html)
+- [The Chicago Historical Society.](http://www.chicagohistory.org/chshome.html)
