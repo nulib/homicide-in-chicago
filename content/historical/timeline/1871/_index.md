@@ -1,7 +1,7 @@
 ---
 title: "Timeline of the City's History: 1871"
+layout: timeline
 ---
-Images from 1871:  
 
 - [![Kerfoot's ](/img/timeline/1871/large/216.jpg)](216/)  
 - [![Map of Burnt District](/img/timeline/1871/large/215.jpg)](215/)  

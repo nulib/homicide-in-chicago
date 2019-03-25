@@ -1,7 +1,7 @@
 ---
 title: "Timeline of the City's History: 1873"
+layout: timeline
 ---
-Images from 1873:  
 
 {{< image-timeline title="The Chicago Interstate Industrial Exposition" src="/img/timeline/1873/large/218.jpg" >}}
 

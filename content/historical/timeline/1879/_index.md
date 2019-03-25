@@ -1,6 +1,6 @@
 ---
 title: "Timeline of the City's History: 1879"
+layout: timeline
 ---
-Images from 1879:
 
 {{< image-timeline title="The Ariel Bicycle Club" src="/img/timeline/1879/large/277.jpg" >}}

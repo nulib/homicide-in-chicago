@@ -1,10 +1,10 @@
 ---
 title: "Timeline of the City's History: 1921"
+layout: timeline
 ---
-Images from 1921:
 
-{{< image-timeline title="Associates in a Murder Mystery" src="/img/timeline/1921/small/161.jpg" >}}
+{{< image title="Associates in a Murder Mystery" src="/img/timeline/1921/small/161.jpg" >}}
 
-{{< image-timeline title="Judges Touhy and Cermak Boxing" src="/img/timeline/1921/small/151.jpg" >}}
+{{< image title="Judges Touhy and Cermak Boxing" src="/img/timeline/1921/small/151.jpg" >}}
 
-{{< image-timeline title="Mrs. Ruth Townsend" src="/img/timeline/1921/small/12.jpg" >}}
+{{< image title="Mrs. Ruth Townsend" src="/img/timeline/1921/small/12.jpg" >}}
