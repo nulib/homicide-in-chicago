@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chicago Police Department on Homicide in Chicago 1870-1930</title>
+    <link>/legal/cpd/</link>
+    <description>Recent content in Chicago Police Department on Homicide in Chicago 1870-1930</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/legal/cpd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Commanding Officers</title>
+      <link>/legal/cpd/commanding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/legal/cpd/commanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Officers and Detectives</title>
+      <link>/legal/cpd/officers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/legal/cpd/officers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Police Stations</title>
+      <link>/legal/cpd/policestations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/legal/cpd/policestations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

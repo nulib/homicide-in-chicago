@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Historicals on Homicide in Chicago 1870-1930</title>
+    <link>/historical/</link>
+    <description>Recent content in Historicals on Homicide in Chicago 1870-1930</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/historical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
