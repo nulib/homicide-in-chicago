@@ -61,7 +61,7 @@ Uniforms, pay scales, educational requirements for police officers were all modi
 
 {{< image title="Exterior View" src="/img/legal/cpd/desPlaines2.jpg" >}}
 
-One of the most famous stations was the [Harrison Street Station](/images_fk/timeline/1900/large/200.jpg). The Des Plaines Street [Police Station](/docs_fk/homicide/desPlaines2.jpg), where the more than 170 police officers waited to march on the Haymarket, also played an historic role in many events as well.
+One of the most famous stations was the [Harrison Street Station](/img/timeline/1900/large/200.jpg). The Des Plaines Street [Police Station](/docs_fk/homicide/desPlaines2.jpg), where the more than 170 police officers waited to march on the Haymarket, also played an historic role in many events as well.
 
 In the nineteenth and early twentieth century the police both took care of and monitored the urban poor - the workers or those without work who in periods of economic depression lived on the street. In a role which is unfamiliar at the present time, the police stations served as one night homeless shelters, some more hospitable than others, for those who had nowhere else to go; ([If Christ came to Chicago](/pubs/ICCTC/) and [1000 Homeless Men](/pubs/homeless/)). The police as they became more professionalized gradually weaned themselves from the role of social service providers. This was accelerated by the [rise of other social service providers](doesnt work) such as [Jane Addams](https://hullhouse.uic.edu/hull/urbanexp/contents.htm), [Hull House](/historical/movements/hullhouse/), and other similar institutions.
 

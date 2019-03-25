@@ -10,7 +10,7 @@ Children were present on the street, especially children of the poor and the wor
 
 [View case details...](/database/70/)
 
-Children not only lived on the streets, and played on the streets, but many [children worked](/docs_fk/homicide/HullHouse/HH.03.pdf) in factories, in [sweatshops](/images_fk/timeline/1903/large/47.jpg), and in illegal enterprises.
+Children not only lived on the streets, and played on the streets, but many [children worked](/docs_fk/homicide/HullHouse/HH.03.pdf) in factories, in [sweatshops](/img/timeline/1903/large/47.jpg), and in illegal enterprises.
 
 **For further reading:**
    [Lives of Children (Florence Kelley website](http://florencekelley.northwestern.edu/historical/children/) (*including 32 photographs*))
