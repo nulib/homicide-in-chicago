@@ -63,6 +63,10 @@
   margin:auto;
 }
 
+.menu {
+  font-size: 1.25rem;
+}
+
 .video-container {
   position: relative;
   padding-bottom: 56.25%; /*16:9*/
