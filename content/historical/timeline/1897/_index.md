@@ -3,4 +3,4 @@ title: "Timeline of the City's History: 1897"
 ---
 Images from 1897:
 
-{{< image title="La Salle and South Water Street" src="/img/timeline/1897/large/238.jpg" >}}
+{{< image-timeline title="La Salle and South Water Street" src="/img/timeline/1897/large/238.jpg" >}}
