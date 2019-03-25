@@ -1,5 +1,6 @@
 .table td {
   text-align: left;
+  font-size: 1.25rem;
 }
 
 .loading-overlay {
@@ -42,6 +43,19 @@
   max-width: 100%;
   float: left;
   padding-right: 1rem;
+}
+
+.content p {
+  font-size: 1.25rem;
+  color: #000;
+}
+
+.content a {
+  font-weight: bold;
+}
+
+.content a:hover {
+  background-color: yellow;
 }
 
 .video-container {
