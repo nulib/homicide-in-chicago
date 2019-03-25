@@ -6,6 +6,16 @@
 
 {{ define "main" }}
 
+<section class="hero is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title">
+        {{ .Title }}
+      </h2>
+    </div>
+  </div>
+</section>
+
 <section class="section">
 
 <div class="container">
@@ -34,8 +44,6 @@
 
       <div class="column">
         <div class="content">
-          <h2>{{ .Params.Title }}</h2>
-
             {{ .Content }}
         </div>
       </div>

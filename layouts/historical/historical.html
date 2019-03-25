@@ -6,6 +6,21 @@
 
 {{ define "main" }}
 
+<section class="hero is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title">
+        {{ .Title }}
+      </h2>
+      {{ if .Params.subtitle }}
+      <h3 class="subtitle">
+        {{ .Params.subtitle }}
+      </h3>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
 <section class="section">
 
 <div class="container">
@@ -30,25 +45,8 @@
               <p class="menu-label">People and Events</p>
               <ul>
                 <li><a href="/historical/timeline/1915/343/">Henry R. Pontorno's bank</a></li>
-                <li>
-                  <a href="/historical/people/eastland/">The Eastland Disaster</a>
-                  <ul>
-                      <li><a href="/historical/timeline/1915/394/">Crowd</a></li>
-                      <li><a href="/historical/timeline/1915/442/">Crowd 2</a></li>
-                      <li><a href="/historical/timeline/1915/393/">Girls Body</a></li>
-                      <li><a href="/historical/timeline/1915/402/">Captain Harry Pederson</a></li>
-                      <li><a href="/historical/timeline/1915/395/">Stretcher</a></li>
-                      <li><a href="/historical/timeline/1915/396/">Line</a></li>
-                    </ul>
-                </li>
-                <li>
-                  <a href="/historical/people/duc/">Julius Duc</a>
-                  <ul>
-                    <li><a href="/historical/timeline/1911/356/">Sitting with wig</a></li>
-                    <li><a href="/historical/timeline/1911/357/">Standing</a></li>
-                    <li><a href="/historical/timeline/1911/358/">Sitting without wig</a></li>
-                  </ul>
-                </li>
+                <li><a href="/historical/people/eastland/">The Eastland Disaster</a></li>
+                <li><a href="/historical/people/duc/">Julius Duc</a></li>
                 <li><a href="/historical/movements/hullhouse/">James Ryan</a></li>
                 <li><a href="/historical/timeline/1907/441/">Yellow Kid Weil</a></li>
                 <li><a href="/historical/timeline/1907/359/">Iroquios Theater Fire Investigation</a></li>
@@ -68,7 +66,6 @@
       </div>
       <div class="column">
         <div class="content">
-          <h2>{{ .Params.Title }}</h2>
 
             {{ .Content }}
         </div>
