@@ -1,9 +1,8 @@
 ---
 title: "Working in Chicago (1870-1930)"
+subtitle: "These images offer glimpses of how people lived and worked in Chicago."
 layout: historical
 ---
-
-These images offer glimpses of how people lived and worked in Chicago during the period of this data set.
 
 <table class="table is-hoverable">
   <tbody>
