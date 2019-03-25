@@ -30,7 +30,7 @@ SectionPagesMenu = "main"
   url = "/search/"
 
 [[menu.main]]
-  name = "Historical Context"
+  name = "History"
   weight = 2
     identifier = "historical"
   url = "/historical/movements/working/"
@@ -42,13 +42,13 @@ SectionPagesMenu = "main"
   url = "/historical/timeline"
 
 [[menu.main]]
-  name = "Legal Context"
+  name = "Law"
   weight = 4
     identifier = "legal"
   url = "/legal/cpd/"
 
 [[menu.main]]
-  name = "Crimes of the Century"
+  name = "Crime"
   weight = 5
     identifier = "crimes"
   url = "/crimes/"
@@ -60,7 +60,7 @@ SectionPagesMenu = "main"
   url = "/pubs/"
 
 [[menu.main]]
-  name = "Videos"
+  name = "Interviews"
   weight = 7
     identifier = "gallery"
   url = "/gallery/bienen/"
