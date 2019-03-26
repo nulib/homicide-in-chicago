@@ -10,10 +10,14 @@ layout: historical
         {{< image title="Prohibition" src="/img/historical/movements/prohibition/prohibition.jpg" >}}
       </div>
       <div class="tile">
-        {{< image  title="Saloon" src="/img/historical/movements/prohibition/Saloon.jpg" >}}      
+        <a href="/historical/timeline/1905/29/" title="Saloon Interior">
+          <img src="/img/timeline/1905/large/29.jpg" alt="saloon">
+        </a>
       </div>
       <div class="tile">
-        {{< image title="Beer runner" src="/img/historical/movements/prohibition/Beer_runner.jpg" >}}      
+        <a href="/historical/timeline/1924/302/" title="Beer runner">
+          <img src="/img/historical/movements/prohibition/Beer_runner.jpg" alt="Beer runner">
+        </a>
       </div>
     </div>
   </div>
