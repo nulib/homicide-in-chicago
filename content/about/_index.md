@@ -13,5 +13,3 @@ The next step was the coding and data processing of important variables for crim
 After the publication of the first round of academic research articles in the Journal of Criminal Law and Criminology, the next step was the design and creation of the web site which would make available to any interested party all of the data, all of the analysis of that data up to the present time, along with a wealth of contextual material. The purpose of creating the web site was to make available to a wide audience, of teachers and students at the undergraduate and graduate level, to professionals and to amateurs, all of the cases and the rich contextual materials available on this period in Chicago.
 
 We thought this wonderful archive of materials should be available to everyone, not just teachers and students, but to any one interested in this subject. And the technology is such that any person with a home computer and the standard office software can download the cases and perform additional analyses.
-
-[BACK TO TOP](/about/#TOP/)

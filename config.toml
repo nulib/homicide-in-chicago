@@ -58,7 +58,7 @@ SectionPagesMenu = "main"
   name = "Publications"
   weight = 6
     identifier = "pubs"
-  url = "/pubs/"
+  url = "/pubs/journal/"
 
 [[menu.main]]
   name = "Interviews"
