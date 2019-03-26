@@ -3,29 +3,35 @@ title: "The First Mayday: the Haymarket speeches (1980)"
 layout: pubs
 ---
 
-![Bookjacket design - click on image to view full-size version](/img/pub/mayday/MaydayCover.jpg)
-Bookjacket design - click on image to view full-size version
-
-### Contents
-  * [Table of Contents, Editor's Preface](/docs_fk/homicide/mayday/mayday.toc.pdf)
-    (PDF - .77MB)
-  * [Chapter I: Introduction](/docs_fk/homicide/mayday/mayday.01.pdf)
-    (PDF - .21MB)
-  * [Chapter II: The Fruit of the Sacrifice](/docs_fk/homicide/mayday/mayday.02.pdf)
-    (PDF - .54MB)
-  * [Chapter III: November 11th](/docs_fk/homicide/mayday/mayday.03.pdf)
-    (PDF - .34MB)
-  * [Chapter IV: November Eleventh](notfound)
-    (PDF - .79MB)
-  * [Chapter V: Our Martyred Comrades](/docs_fk/homicide/mayday/mayday.05.pdf)
-    (PDF - 2.97MB)
-  * [Chapter VI: The Eleventh of November 1887](/docs_fk/homicide/mayday/mayday.06.pdf)
-    (PDF - .82MB)
-  * [Chapter VII: Memorial Address](/docs_fk/homicide/mayday/mayday.07.pdf)
-    (PDF - .54MB)
-  * [Chapter VIII: November eleventh, twenty years ago](/docs_fk/homicide/mayday/mayday.08.pdf)
-    (PDF - 1.02MB)
-  * [Chapter IX: The Defiance of August Spies](not found)
-    (PDF - .84MB)
-  * [Further Reading](/docs_fk/homicide/mayday/mayday.ref.pdf)
-    (PDF - .18MB).
+<div class="columns">
+  <div class="column is-one-quarter">
+    <img src="/img/pub/mayday/MaydayCover.jpg" alt="Bookjacket design" style="width:300px;height:auto;" />
+  </div>
+  <div class="column">
+    <strong>Contents</strong>
+    <ul>
+      <li><a href="/docs_fk/homicide/mayday/mayday.toc.pdf">Table of Contents, Editor's Preface</a>
+      (PDF - .77MB)</li>
+      <li><a href="/docs_fk/homicide/mayday/mayday.01.pdf">Chapter I: Introduction</a>
+      (PDF - .21MB)</li>
+      <li><a href="/docs_fk/homicide/mayday/mayday.02.pdf">Chapter II: The Fruit of the Sacrifice</a>
+      (PDF - .54MB)</li>
+      <li><a href="/docs_fk/homicide/mayday/mayday.03.pdf">Chapter III: November 11th</a>
+      (PDF - .34MB)</li>
+      <li><a href="notfound">Chapter IV: November Eleventh</a>
+      (PDF - .79MB)</li>
+      <li><a href="/docs_fk/homicide/mayday/mayday.05.pdf">Chapter V: Our Martyred Comrades</a>
+      (PDF - 2.97MB)</li>
+      <li><a href="/docs_fk/homicide/mayday/mayday.06.pdf">Chapter VI: The Eleventh of November 1887</a>
+      (PDF - .82MB)</li>
+      <li><a href="/docs_fk/homicide/mayday/mayday.07.pdf">Chapter VII: Memorial Address</a>
+      (PDF - .54MB)</li>
+      <li><a href="/docs_fk/homicide/mayday/mayday.08.pdf">Chapter VIII: November eleventh, twenty years ago</a>
+      (PDF - 1.02MB)</li>
+      <li><a href="not found">Chapter IX: The Defiance of August Spies</a>
+      (PDF - .84MB)</li>
+      <li><a href="/docs_fk/homicide/mayday/mayday.ref.pdf">Further Reading</a>
+      (PDF - .18MB).</li>
+    </ul>
+  </div>
+</div>

@@ -1,6 +1,9 @@
 # Hugo default output directory
 /public
 
+# PDF Publications
+/static/docs_fk
+
 ## OS Files
 # Windows
 Thumbs.db
