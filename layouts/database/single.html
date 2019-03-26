@@ -1,10 +1,22 @@
 {{ define "header"}} {{ partial "menu" . }} {{ end }}
 
 {{ define "main" }}
+
+<section class="hero is-primary">
+    <div class="hero-body">
+      <div class="container">
+        <h2 class="title">
+            Case Number: {{ .Params.CaseDescriptionCaseNumber }}
+        </h2>
+        <h3 class="subtitle">
+            {{ .Params.CaseDescription }}
+        </h3>
+      </div>
+    </div>
+  </section>
+
 <div class="section">
   <div class="container">
-    <h2 class="is-size-2">Case Number: {{ .Params.CaseDescriptionCaseNumber }}</h2>
-      <p>{{ .Params.CaseDescription }}</p>
       <h3 class="is-size-3">Circumstances</h3>
       <table class="table is-hoverable is-fullwidth">
         {{ if .Params.CircumstancesDateOfOffense }}
