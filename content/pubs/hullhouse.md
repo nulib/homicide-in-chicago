@@ -7,7 +7,7 @@ layout: pubs
 
 The book Hull House Maps and Papers, published in 1895, is a series of essays and statistical information collected by Florence Kelley and her colleagues at Hull House, the settlement house at 335 South Halsted Street. The spectacular maps are modeled upon similar research on poverty and living conditions in London done by Charles Booth. The arresting beauty of these maps, and their economy of presentation of detailed information, have made them classics. To collect this information the schedule men and Florence Kelley, the director of the Chicago portion of the research, and their assistants knocked on doors, went into homes and sweatshops, and asked the residents in the designated geographical area questions about their ethnic origins, the number of people in the household, the wages earned by the principal wage earner, and how many weeks the principal wage earner had been employed. Please visit [Hull House Maps and Papers](http://florencekelley.northwestern.edu/historical/hullhouse/) on our companion website, The Life and Times of Florence Kelley in Chicago, 1891-1899, for more information.
 
-####Contents
+#### Contents
   * [View the Maps](/pubs/hullhouse/Maps/)
   * [Table of Contents, Editor's Preface](/docs_fk/homicide/HullHouse/HH.toc.pdf)
     (PDF - .435MB)

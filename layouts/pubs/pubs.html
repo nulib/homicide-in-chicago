@@ -12,6 +12,11 @@
       <h2 class="title">
         {{ .Title }}
       </h2>
+      {{ if .Params.subtitle }}
+      <h3 class="subtitle">
+        {{ .Params.subtitle }}
+      </h3>
+      {{ end }}
     </div>
   </div>
 </section>

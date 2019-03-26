@@ -3,12 +3,11 @@ title: "Anarchy and Anarchists (1889)"
 layout: pubs
 ---
 
-###Anarchy and Anarchists (1889)
 ![Anarchy and Anarchists. A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators.](/img/pub/anarchy/HaymarketAnarchist.jpg)
 
-Michael J. Schaack, __Anarchy and Anarchists. A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators.__ (Chicago, 1889) (F.J. Schulte and Co.).
+Michael J. Schaack, _Anarchy and Anarchists. A History of the Red Terror, and the Social Revolution in America and Europe. Communism, Socialism, and Nihilism in Doctrine and Deed. The Chicago Haymarket Conspiracy, and the Detection and Trial of the Conspirators._ (Chicago, 1889) (F.J. Schulte and Co.).
 
-The author of this long and detailed account of the investigations into the [Haymarket]() case was a member of the police force and a colleague of Inspector Bonfield, the police officer who led the police into the crowd at Haymarket on May 4, 1886. The book, which was widely distributed at the time, included many documents from the case, descriptions of testimony at trial, and many drawings of people and incidents. The author, Michael Schaack, and Inspector Bonfield were subsequently dismissed from the Chicago Police after an investigation for corruption. Subsequent investigations of the trial uncovered perjured testimony by police witnesses and others, and jury rigging by the prosecution.
+The author of this long and detailed account of the investigations into the [Haymarket](/historical/movements/haymarket/) case was a member of the police force and a colleague of Inspector Bonfield, the police officer who led the police into the crowd at Haymarket on May 4, 1886. The book, which was widely distributed at the time, included many documents from the case, descriptions of testimony at trial, and many drawings of people and incidents. The author, Michael Schaack, and Inspector Bonfield were subsequently dismissed from the Chicago Police after an investigation for corruption. Subsequent investigations of the trial uncovered perjured testimony by police witnesses and others, and jury rigging by the prosecution.
 
 #### Contents
   * [Table of Contents, Editor's Preface](/docs_fk/homicide/AAA/Anarchy.toc.pdf)

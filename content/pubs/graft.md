@@ -7,7 +7,7 @@ layout: pubs
 
 Judge Michael L. McKinley standing with a baseball bat on a street	Judge M. L. McKinley, a former Chief Justice of the Criminal Court of Cook County, wrote __Crime and the Civic Cancer__ – Graft, an expose of graft and corruption in the courts in 1923. As a former Chief Judge of the Criminal Court he could describe in detail just how the process of corrupting judges and prosecutors worked. The expose was published as a series of articles in the Chicago Daily News in 1923. Periodically during this period newspapers would expose public corruption and the fallibility of government, a role which continues into the present day. The series of articles in the Chicago Daily News was subsequently issued as a pamphlet and is reproduced here in its entirety. It is one of the most detailed accounts of judicial and police corruption ever published.
 
-####Contents
+#### Contents
   * [Introduction](/docs_fk/homicide/crimecivic/intro.pdf)
     (PDF - 0.2MB)
   * [Lifters of the Lid and What Happens to Them](/docs_fk/homicide/crimecivic/01.pdf)
