@@ -8,7 +8,6 @@ enableRobotsTXT = true # Suggested, it generates a robots.txt
 googleAnalytics = "" # Optional, add tracking Id for analytics
 disqusShortname = "" # Optional, add Disqus shortname for comments
 SectionPagesMenu = "main" # Enable menu system for lazy bloggers
-publishDir = "docs"
 
 [params]
   theme_variant = "lux" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
