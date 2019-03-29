@@ -3,12 +3,68 @@ title: "Timeline of the City's History: 1890"
 layout: timeline
 ---
 
-{{< image title="A Knight's Templar Parade" src="/img/timeline/1890/large/252.jpg" >}}
+<div class="tile is-ancestor">
+  <div class="tile is-parent">
+    <article class="tile is-child box">
+        <a href="/historical/timeline/1890/252" title="Rush Street Bridge in 1890">
+            <figure class="image is-128x128">
+                <img src="/img/timeline/1890/small/252.jpg">
+            </figure>
+            <div class="content">
+                <p>Rush Street Bridge in 1890</p>
+            </div>
+        </a>
+    </article>
+  </div>
+  <div class="tile is-parent">
+    <article class="tile is-child box">
+        <a href="/historical/timeline/1890/211" title="The Anarchists">
+            <figure class="image is-128x128">
+                <img src="/img/timeline/1890/small/211.jpg">
+            </figure>
+            <div class="content">
+                <p>The Anarchists</p>
+            </div>    
+        </a>
+    </article>
+  </div>
+  <div class="tile is-parent">
+    <article class="tile is-child box">
+        <a href="/historical/timeline/1890/251" title="Michigan Avenue Looking North from Congress Street">
+            <figure class="image is-128x128">
+                <img src="/img/timeline/1890/small/251.jpg">
+            </figure>
+            <div class="content">
+                <p>Michigan Avenue Looking North from Congress Street</p>
+            </div>  
+        </a>  
+    </article>
+  </div>
+</div>
 
-{{< image title="A View of the Auditorium in 1890" src="/img/timeline/1890/large/211.jpg" >}}
-
-{{< image title="Michigan Avenue Looking North from Congress Street" src="/img/timeline/1890/large/251.jpg" >}}
-
-{{< image title="Rush Street Bridge in 1890" src="/img/timeline/1890/large/253.jpg" >}}
-
-{{< image title="The Anarchists" src="/img/timeline/1890/large/204.jpg" >}}
+<div class="tile is-ancestor">
+  <div class="tile is-parent">
+    <article class="tile is-child box">
+        <a href="/historical/timeline/1890/253" title="Rush Street Bridge in 1890">
+            <figure class="image is-128x128">
+                <img src="/img/timeline/1890/small/253.jpg">
+            </figure>
+            <div class="content">
+                <p>Rush Street Bridge in 1890</p>
+            </div>
+        </a>
+    </article>
+  </div>
+  <div class="tile is-parent">
+    <article class="tile is-child box">
+        <a href="/historical/timeline/1890/204" title="The Anarchists">
+            <figure class="image is-128x128">
+                <img src="/img/timeline/1890/small/204.jpg">
+            </figure>
+            <div class="content">
+                <p>The Anarchists</p>
+            </div>    
+        </a>
+    </article>
+  </div>
+</div>
