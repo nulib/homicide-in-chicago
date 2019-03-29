@@ -20,7 +20,7 @@ layout: timeline
     <article class="tile is-child box">
         <a href="/historical/timeline/1902/48" title="Christmas Eve at the Salvation Army">
             <figure class="image is-128x128">
-                <img src="/img/timeline/1902/small/48.jpg">
+                <img src="/img/timeline/1902/large/48.jpg">
             </figure>
             <div class="content">
                 <p>Christmas Eve at the Salvation Army</p>

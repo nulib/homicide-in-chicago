@@ -3,19 +3,6 @@ title: "Timeline of the City's History: 1893"
 layout: timeline
 ---
 
-{{< image title="" src="" >}}
-
-{{< image title="" src="" >}}
-
-{{< image title="" src="" >}}
-
-{{< image title="Fall of the Doorway and Collapse of Columbus" src="" >}}
-
-{{< image title="Members of the Jury which Tried the Haymarket Anarchists" src="/img/timeline/1893/small/279.jpg" >}}
-
-{{< image title="Nineteen Engines Throw Streams on the Ruins" src="/img/timeline/1893/small/292.jpg" >}}
-
-{{< image title="President Grover Cleveland" src="/img/timeline/1893/small/236.jpg" >}}
 <div class="tile is-ancestor">
   <div class="tile is-parent">
     <article class="tile is-child box">
