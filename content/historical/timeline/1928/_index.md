@@ -3,15 +3,6 @@ title: "Timeline of the City's History: 1928"
 layout: timeline
 ---
 
-{{< image title="'The Yards'" src="/img/timeline/1928/small/225.jpg" >}}
-
-{{< image title="" src="/img/timeline/1928/small/169.jpg" >}}
-
-{{< image title="Anna Sheridan, a Policewoman" src="/img/timeline/1928/small/166.jpg" >}}
-
-{{< image title="Clown with Children" src="/img/timeline/1928/small/59.jpg" >}}
-
-{{< image title="Member of the American Women's Field Hockey Team" src="/img/timeline/1928/small/174.jpg" >}}
 <div class="tile is-ancestor">
   <div class="tile is-parent">
     <article class="tile is-child box">
@@ -27,9 +18,9 @@ layout: timeline
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1928/100" title="1928 Automobile Accident">
+        <a href="/historical/timeline/1928/169" title="1928 Automobile Accident">
             <figure class="image is-128x128">
-                <img src="/img/timeline/1928/small/100.jpg">
+                <img src="/img/timeline/1928/small/169.jpg">
             </figure>
             <div class="content">
                 <p>1928 Automobile Accident</p>
@@ -39,12 +30,12 @@ layout: timeline
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1928/170" title="">
+        <a href="/historical/timeline/1928/166" title="Anna Sheridan, a Policewoman">
             <figure class="image is-128x128">
-                <img src="/img/timeline/1928/small/170.jpg">
+                <img src="/img/timeline/1928/small/166.jpg">
             </figure>
             <div class="content">
-                <p>Children of Charles H. Johnston, Secretary of the United Brick and Clay Workers' Union</p>
+                <p>Anna Sheridan, a Policewoman</p>
             </div>  
         </a>  
     </article>
@@ -54,36 +45,24 @@ layout: timeline
 <div class="tile is-ancestor">
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1928/371" title="Chris Muller">
+        <a href="/historical/timeline/1928/59" title="Clown with Children">
             <figure class="image is-128x128">
-                <img src="/img/timeline/1928/small/371.jpg">
+                <img src="/img/timeline/1928/small/59.jpg">
             </figure>
             <div class="content">
-                    <p>Chris Muller</p>
+                    <p>Clown with Children</p>
             </div>
         </a>
     </article>
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1928/70" title="Clothing Workers Conclude Strike">
+        <a href="/historical/timeline/1928/174" title="Member of the American Women's Field Hockey Team">
             <figure class="image is-128x128">
-                <img src="/img/timeline/1928/small/70.jpg">
+                <img src="/img/timeline/1928/small/174.jpg">
             </figure>
             <div class="content">
-                <p>Clothing Workers Conclude Strike</p>
-            </div>    
-        </a>
-    </article>
-  </div>
-  <div class="tile is-parent">
-    <article class="tile is-child box">
-        <a href="/historical/timeline/1928/65" title="Clothing Workers Strike at City Hall">
-            <figure class="image is-128x128">
-                <img src="/img/timeline/1928/small/65.jpg">
-            </figure>
-            <div class="content">
-                <p>Clothing Workers Strike at City Hall</p>
+                <p>Member of the American Women's Field Hockey Team</p>
             </div>    
         </a>
     </article>
