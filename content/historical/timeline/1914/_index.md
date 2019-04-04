@@ -3,11 +3,6 @@ title: "Timeline of the City's History: 1914"
 layout: timeline
 ---
 
-{{< image title="Boswell C.F. Smith" src="/img/timeline/1914/small/406.jpg" >}}
-
-{{< image title="Cleofonte Campanini" src="/img/timeline/1914/small/389.jpg" >}}
-
-{{< image title="Detective Stanley Birns" src="/img/timeline/1914/small/438.jpg" >}}
 <div class="tile is-ancestor">
   <div class="tile is-parent">
     <article class="tile is-child box">
