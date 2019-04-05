@@ -176,7 +176,7 @@ layout: timeline
     <article class="tile is-child box">
         <a href="/historical/timeline/1914/417" title="South Federal St.">
             <figure class="image is-128x128">
-                <img src="/img/timeline/1914/small/417.jpg">
+                <img src="/img/timeline/1914/large/417.jpg">
             </figure>
             <div class="content">
                 <p>South Federal St.</p>

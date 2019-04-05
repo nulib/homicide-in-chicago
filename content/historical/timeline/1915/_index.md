@@ -605,7 +605,7 @@ layout: timeline
     <article class="tile is-child box">
         <a href="/historical/timeline/1915/132" title="William Weil, Murder Victim">
             <figure class="image is-128x128">
-                <img src="/img/timeline/1915/small/132.jpg">
+                <img src="/img/timeline/1915/large/132.jpg">
             </figure>
             <div class="content">
                 <p>SWilliam Weil, Murder Victim</p>

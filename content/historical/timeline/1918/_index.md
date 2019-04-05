@@ -47,7 +47,7 @@ layout: timeline
     <article class="tile is-child box">
         <a href="/historical/timeline/1918/284" title="Jap Rose Soap">
             <figure class="image is-128x128">
-                <img src="/img/timeline/1918/small/284.jpg">
+                <img src="/img/timeline/1918/large/284.jpg">
             </figure>
             <div class="content">
                 <p>Jap Rose Soap</p>
