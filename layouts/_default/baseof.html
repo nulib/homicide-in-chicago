@@ -8,6 +8,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MW6MSWP');</script>
+        <!-- End Google Tag Manager -->
+
     {{ with .Description }}
     <meta name="description" content="{{ . }}"> {{ end }}
       {{ $default_noindex_kinds := slice "section" "taxonomy" "taxonomyTerm" }}
@@ -41,11 +48,15 @@
     <link rel="stylesheet" href="/css/lightbox.min.css">
     <!--[if lt IE 9]> lightbox support for older versions of IE
 	    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js" type="text/javascript"></script>
-	<![endif]-->
+  <![endif]-->
 </head>
 <!--theme variation-->
 
 <body>
+        <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MW6MSWP"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
     <header>
       {{ block "header" . }}{{ end }}
     </header>
