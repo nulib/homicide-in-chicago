@@ -16,7 +16,7 @@ layout: historical
     </tr>
     <tr>
       <th>{{< image title="Hull House Maps" src="/img/historical/movements/hullhouse/HHouseMaps.jpg" >}}</th>
-      <td>View Hull House Maps. <a href="/pubs/hullhouse/Maps">More information</a>.</td>
+      <td>View Hull House Maps. <a href="/pubs/hullhouse/maps">More information</a>.</td>
     </tr>
     <tr>
       <th>{{< image title="Jane Addams" src="/img/historical/movements/hullhouse/addams_car.jpg" >}}</th>
