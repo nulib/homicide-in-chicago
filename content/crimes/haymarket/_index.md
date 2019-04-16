@@ -3,8 +3,8 @@ title: "1886: Haymarket Affair"
 layout: crimes
 ---
 
-![Chicago Daily Tribune cover story]()
-![The Anarchists]()
+![Chicago Daily Tribune cover story](/img/crimes/haymarket/304.jpg)
+![The Anarchists](/img/crimes/haymarket/204.jpg)
 click on image to view photo details
 
 The name refers to a designated meeting place, a square where an open market used to be held near Des Plaines and bordered on Randolf Street, where on May 4, 1886, an historic armed confrontation took place between a group of anarchists and labor activists and more than 170 armed police officers, who had been assembled at the [Des Plaines Police Station](not found) a half block away in anticipation of a riot.

@@ -7,11 +7,20 @@ In a number of these cases the defendant killed his wife, or wife and children, 
 
 <a class="button" href="/search/?s=suicide">View all homicides in which circumstances included suicide</a>
 
-View [video](/gallery/bowman/) of Cynthia Grant Bowman, author of [Wife Murder in Chicago: 1910-1930](/docs_fk/homicide/LawJournal/JCLC06.pdf)
+<table class="table is-hoverable">
+  <tbody>
+    <tr>
+      <th>{{< image title="preview_bowman" src="/img/legal/murdersuicide/preview_bowman.jpg" >}}</th>
+      <td>View <a href="/gallery/bowman/">video</a> of Cynthia Grant Bowman, author of <a href="/img/legal/murdersuicide/JCLC06.pdf">Wife Murder in Chicago: 1910-1930</a>.</td>
+    </tr>
+    <tr>
+      <th>{{< image title="preview_oberman" src="/img/legal/murdersuicide/preview_oberman.jpg" >}}</th>
+      <td>View <a href="/gallery/oberman/">video</a> of Michelle Oberman, author of <a href="/img/legal/murdersuicide/JCLC05.pdf">Understanding Infanticide in Context: Mothers Who Kill, 1870-1930 and Today</a>.</td>
+    </tr>
+  </tbody>
+</table>
 
-View [video](/gallery/oberman/) of Michelle Oberman, author of [Understanding Infanticide in Context: Mothers Who Kill, 1870-1930 and Today](/docs_fk/homicide/LawJournal/JCLC05.pdf)
-
-["I Loved Joe, but I Had to Shoot Him": Homicide by Women in Turn-of-the-Century Chicago](/docs_fk/homicide/LawJournal/JCLC12.pdf) by Jeffrey S. Adler
+["I Loved Joe, but I Had to Shoot Him": Homicide by Women in Turn-of-the-Century Chicago](/img/legal/murdersuicide/JCLC12.pdf) by Jeffrey S. Adler
 
 This set of records kept by the police does not include all suicides of the period, only those associated with homicides and a few other suicides. The records for all suicides during the period would be kept by the [Cook County Coroner](http://www.sos.state.il.us/departments/archives/cookinqt.html).
 
