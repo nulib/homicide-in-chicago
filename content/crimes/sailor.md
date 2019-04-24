@@ -3,7 +3,7 @@ title: "1876: The Stabbed Sailor"
 layout: crimes
 ---
 
-![Chicago Daily Tribune cover story]()
+[![Chicago Daily Tribune cover story](/img/crimes/sailor/77.jpg)](/img/timeline/1903/large/77.jpg)
 click on image to view photo details
 
 Random killings of people who found themselves in an unpredictable place at an unpredictable time occur throughout this data base. Chicago's centrality as a transportation hub attracted people from all over the country and the world.

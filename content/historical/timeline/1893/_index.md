@@ -133,4 +133,16 @@ layout: timeline
         </a>
     </article>
   </div>
+  <div class="tile is-parent">
+    <article class="tile is-child box">
+        <a href="/historical/timeline/1893/204" title="President Grover Cleveland">
+            <figure class="image is-128x128">
+                <img src="/img/timeline/1893/small/204.jpg">
+            </figure>
+            <div class="content">
+                <p>The Anarchists</p>
+            </div>
+        </a>
+    </article>
+  </div>
 </div>

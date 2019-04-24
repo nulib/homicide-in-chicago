@@ -3,7 +3,7 @@ title: "1912: Husband Set On Fire"
 layout: crimes
 ---
 
-![]()
+[![mussao](/img/crimes/mussao/102.jpg)](/historical/timeline/1912/102/)
 click on image to view photo details
 
 Killings in circumstances of domestic violence are a substantial fraction of this set of homicide records. The specific situations may be bizarre, or unusual, as in this case, but the patterns are similar to cases reported today.
@@ -11,7 +11,7 @@ Killings in circumstances of domestic violence are a substantial fraction of thi
 [View case details...](/database/4273/)
 
 **For further reading:**
-   ["I Loved Joe, but I Had to Shoot Him"](/docs_fk/homicide/LawJournal/JCLC12.pdf)
+   ["I Loved Joe, but I Had to Shoot Him"](/pdf/crimes/mussao/JCLC12.pdf)
 
    [Homicides Among Chicago Families: 1870-1930](doesnt work)
 

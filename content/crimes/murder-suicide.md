@@ -4,7 +4,7 @@ layout: crimes
 aliases: [/crimes/murderSuicide/]
 ---
 
-[Elizabeth Mize, Murder Victim]()
+[![Elizabeth Mize, Murder Victim](/img/crimes/murderSuicide/133.jpg)](/historical/timeline/1905/133/)
 click on image to view photo details
 
 In a number of these cases the defendant killed his wife, or wife and children, and then killed himself, or attempted to kill himself. And there are some cases where a woman killed her husband or her children and then killed herself or attempted to kill herself.

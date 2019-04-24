@@ -1,10 +1,10 @@
 ---
 title: "1903: Police Chief Cut to Death"
 layout: crimes
-aliases: [/crimes/harrisonStreet/]
+aliases: [/crimes/policeChief/]
 ---
 
-![]()
+[![railway strike](/img/crimes/policeChief/341.jpg)](/historical/timeline/1903/341/)
 click on image to view photo details
 
 Extraordinary and dramatic circumstances of homicide, such as these, offer an opportunity for investigation into original source materials. Did the newspapers of the day offer an explanation for these events? Was the homicide sparked by police corruption, or related to another incident of interracial conflict?

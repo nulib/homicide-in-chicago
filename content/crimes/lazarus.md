@@ -3,9 +3,9 @@ title: "1908: An Accidental Anarchist"
 layout: crimes
 ---
 
-![]()
-![]()
-![]()
+[![dead body](/img/crimes/lazarus/averbuch12.jpg)](/historical/timeline/1908/13/)
+[![front](/img/crimes/lazarus/averbuch22.jpg)](/historical/timeline/1908/349/)
+[![shippy](/img/crimes/lazarus/shippy2.jpg)](/historical/timeline/1908/348/)
 click on image to view photo details
 
 The killing of Lazarus Averbuch by Chief of Police George Shippy in 1908 brought together as victim and defendant a poor Russian Jewish immigrant, suspected of being an anarchist, and a Chief of Police with little patience for any radical political agitation, of the kind associated with anarchists. Mysteries remain as to the identity and allegiances of the victim, why he had come to the residence of the Chief of Police, and the motivation of the Police Chief and the credibility of his explanations for the killing of Averbuch.

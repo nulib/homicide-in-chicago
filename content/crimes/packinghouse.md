@@ -3,7 +3,7 @@ title: "1921: Strike In A Packing House"
 layout: crimes
 ---
 
-![]()
+[![boy with a cigarette](/img/crimes/packinghouse/4.jpg)](/historical/timeline/1904/4/)
 click on image to view photo details
 
 The stockyards and the meat packing industry played a prominent role in the history and economic development of Chicago during this period. The battles between labor and management were sporadic, continuing, hard fought and often bitter, as vast numbers of workers from abroad and from the American South and rural areas flocked to Chicago seeking work in the industry.
