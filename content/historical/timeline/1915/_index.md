@@ -369,7 +369,7 @@ layout: timeline
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1915/407" title="Man on Bike with Umbrella">
+        <a href="/historical/timeline/1915/78" title="Man on Bike with Umbrella">
             <figure class="image is-128x128">
                 <img src="/img/timeline/1915/small/78.jpg">
             </figure>
@@ -381,7 +381,7 @@ layout: timeline
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1915/118" title="Marshall Hostetler - Associated with the Anna Johnson Murder">
+        <a href="/historical/timeline/1915/110" title="Marshall Hostetler - Associated with the Anna Johnson Murder">
             <figure class="image is-128x128">
                 <img src="/img/timeline/1915/small/110.jpg">
             </figure>
@@ -486,7 +486,7 @@ layout: timeline
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1915/123" title="Murder of William Weil">
+        <a href="/historical/timeline/1915/355" title="Murder of William Weil">
             <figure class="image is-128x128">
                 <img src="/img/timeline/1915/small/355.jpg">
             </figure>
@@ -498,7 +498,7 @@ layout: timeline
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1915/387" title="Olive Waldeck">
+        <a href="/historical/timeline/1915/376" title="Olive Waldeck">
             <figure class="image is-128x128">
                 <img src="/img/timeline/1915/small/376.jpg">
             </figure>
@@ -537,7 +537,7 @@ layout: timeline
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1915/387" title="Russell Pethrick (side)">
+        <a href="/historical/timeline/1915/353" title="Russell Pethrick (side)">
             <figure class="image is-128x128">
                 <img src="/img/timeline/1915/small/353.jpg">
             </figure>
@@ -552,7 +552,7 @@ layout: timeline
 <div class="tile is-ancestor">
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1915/432" title="Russell Pethrick (sitting)">
+        <a href="/historical/timeline/1915/373" title="Russell Pethrick (sitting)">
             <figure class="image is-128x128">
                 <img src="/img/timeline/1915/small/373.jpg">
             </figure>
@@ -576,7 +576,7 @@ layout: timeline
   </div>
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1915/387" title="Suicide Victim, Charles H. Johnston's (Secretary of United Brick and Clay Worker's Union) Home">
+        <a href="/historical/timeline/1915/120" title="Suicide Victim, Charles H. Johnston's (Secretary of United Brick and Clay Worker's Union) Home">
             <figure class="image is-128x128">
                 <img src="/img/timeline/1915/small/120.jpg">
             </figure>
@@ -608,7 +608,7 @@ layout: timeline
                 <img src="/img/timeline/1915/large/132.jpg">
             </figure>
             <div class="content">
-                <p>SWilliam Weil, Murder Victim</p>
+                <p>William Weil, Murder Victim</p>
             </div>    
         </a>
     </article>
