@@ -39,4 +39,4 @@ layout: legal
   </div>
 </div>
 
-[Police in America (1971) pages 9-12](/docs_fk/homicide/vice/vice.01.2.pdf)
+[Police in America (1971) pages 9-12](/img/legal/gambling/vice.01.2.pdf)
