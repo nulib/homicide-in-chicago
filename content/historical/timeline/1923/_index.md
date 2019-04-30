@@ -59,7 +59,7 @@ layout: timeline
     <article class="tile is-child box">
         <a href="/historical/timeline/1923/268" title="State Street">
             <figure class="image is-128x128">
-                <img src="/img/timeline/1923/small/268.jp">
+                <img src="/img/timeline/1923/small/268.jpg">
             </figure>
             <div class="content">
                 <p>State Street</p>
