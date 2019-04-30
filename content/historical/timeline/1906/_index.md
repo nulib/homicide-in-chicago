@@ -2,7 +2,6 @@
 title: "Timeline of the City's History: 1906"
 layout: timeline
 ---
-Images from 1906:
 
 <div class="tile is-ancestor">
   <div class="tile is-parent">

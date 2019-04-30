@@ -6,9 +6,9 @@ layout: timeline
 <div class="tile is-ancestor">
   <div class="tile is-parent">
     <article class="tile is-child box">
-        <a href="/historical/timeline/1928/109" title="'The Yards'">
+        <a href="/historical/timeline/1928/225/" title="'The Yards'">
             <figure class="image is-128x128">
-                <img src="/img/timeline/1928/small/109.jpg">
+                <img src="/img/timeline/1928/small/225.jpg">
             </figure>
             <div class="content">
                     <p>'The Yards'</p>

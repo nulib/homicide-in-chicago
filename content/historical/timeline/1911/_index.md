@@ -80,11 +80,7 @@ layout: timeline
     </article>
   </div>
 </div>
-{{< image title="Jimmy the Bear" src="/img/timeline/1911/small/375.jpg" >}}
 
-{{< image title="Joseph Vacek, Jr." src="/img/timeline/1911/small/372.jpg" >}}
-
-{{< image title="Judge Himes" src="/img/timeline/1911/small/436.jpg" >}}
 <div class="tile is-ancestor">
   <div class="tile is-parent">
     <article class="tile is-child box">
@@ -201,7 +197,7 @@ layout: timeline
     </article>
   </div>
 </div>
-{{< image title="State and Monroe Streets" src="/img/timeline/1911/small/262.jpg" >}}
+
 <div class="tile is-ancestor">
   <div class="tile is-parent">
     <article class="tile is-child box">

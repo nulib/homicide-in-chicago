@@ -5,7 +5,7 @@ layout: crimes
 
 <div class="columns">
   <div class="column">
-    <a href="/historical/timeline/1893/304/">
+    <a href="/historical/timeline/1893/304/"> 
         <img title="Chicago Daily Tribune cover story" src="/img/crimes/haymarket/Anarchists-Freed.jpg">
     </a>
   </div>

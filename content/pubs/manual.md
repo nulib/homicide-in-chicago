@@ -11,11 +11,11 @@ aliases: [/pubs/MCLCPP/]
   <div class="column">
     <strong>Contents</strong>
     <ul>
-      <li><a href="/docs_fk/MCLCPP.toc.pdf">Table of Contents, Editor's Preface</a>
+      <li><a href="/img/pub/MCLCPP/MCLCPP.toc.pdf">Table of Contents, Editor's Preface</a>
       (PDF - .55MB)</li>
-      <li><a href="/docs_fk/MCLCPP.01.pdf">Chapter I: Criminal Law</a>
+      <li><a href="/img/pub/MCLCPP/MCLCPP.01.pdf">Chapter I: Criminal Law</a>
       (PDF - 4.47MB)</li>
-      <li><a href="/docs_fk/MCLCPP.02.pdf">Chapter II: Procedural Law</a>
+      <li><a href="/img/pub/MCLCPP/MCLCPP.02.pdf">Chapter II: Procedural Law</a>
       (PDF - 3.56MB)</li>
       <li><a href="not found">Index</a>
       (PDF - .43MB)</li>
