@@ -3,8 +3,8 @@ title: "1919: The Race Riot"
 layout: crimes
 ---
 
-![]()
-![]()
+![chicago race riot](/img/crimes/raceriot/397.jpg)
+![walgreen drugs](/img/crimes/raceriot/403.jpg)
 click on image to view photo details
 
 The Race Riot in Chicago in the summer of 1919 left 38 dead, including twenty three black men and boys; and 537 injured, of whom 342 were black, and hundreds homeless. Race riots in other Midwestern and northern cities took place about the same time, as social tensions were aggravated by economic and labor problems after the World War I armistice.

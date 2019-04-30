@@ -3,7 +3,7 @@ title: "1923: Revenge"
 layout: crimes
 ---
 
-![Alice Davis Sing, Accused Murderess]()
+[![Alice Davis Sing, Accused Murderess](/img/crimes/revenge/alicedavissing-sm.jpg)](/historical/timeline/1913/95/)
 click on image to view case details
 
 Killings in revenge or from passion occur throughout this set of cases. Each is the remnant of a feud or complicated story, whose circumstances are only hinted at in the records here. Additional research in contemporaneous sources might begin to untangle some of the history which preceded the homicide.

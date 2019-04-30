@@ -3,14 +3,14 @@ title: "1910: Child Murderess: The Mary Radek Case"
 layout: crimes
 ---
 
-![]()
+[![boy with jug](/img/crimes/radek/30.jpg)](/historical/timeline/1910/30/)
 click on image to view photo details
 
 Cases involving children as victims and defendants are found at all periods in the records. Some cases are accidental deaths; some are intentional. All raise special issues for legal determination.
 
 [View case details...](/database/2093/)
 
-The period saw the founding of the world’s first juvenile court in 1899 ([JCLC p.641-705](doesnt work)).  The Mary Radek case is [discussed in detail](/docs_fk/homicide/jclc654-656.pdf) in an article included here.
+The period saw the founding of the world’s first juvenile court in 1899 ([JCLC p.641-705](doesnt work)).  The Mary Radek case is [discussed in detail](/pdf/crimes/radek/jclc654-656.pdf) in an article included here.
 
 The Progressives and the social movements associated with the settlement houses and civic reform generally paid a great deal of attention to children and the conditions in which they lived and worked. Child labor was an important political issue at both the national and state level.
 
