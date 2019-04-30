@@ -20,7 +20,7 @@ aliases: [/legal/]
   </div>
 </section>
 
-This data set of more than 11,000 homicides from 1870-1930 is based upon a set of [handwritten records](/img/legal/cpd/handwritten_cases.pdf) kept without interruption by the Chicago Police Department, consistently, and with the same protocol and indexing system, over a sixty year period. The Chicago Police as an institution changed greatly during this period. Allegations of corruption alternated with periods of reform, while the general trend over the period was towards increased professionalization of the police. The institution of the Chicago Police changed greatly over the period, and a series of reports and commentaries record some of those changes. The police in Chicago during this period were oriented to neighborhoods. The education and training of officers became more professional throughout the period. Each neighborhood had its own police station, and the individual records typically report the precinct number. The neighborhoods, in turn, were aligned with the political wards of the city. Aldermen were elected by wards and answered politically to their constituencies in wards. The aldermen and the mayor ruled the city, and the police answered to them.
+This data set of more than 11,000 homicides from 1870-1930 is based upon a set of [handwritten records](/docs_fk/homicide/handwritten_cases.pdf) kept without interruption by the Chicago Police Department, consistently, and with the same protocol and indexing system, over a sixty year period. The Chicago Police as an institution changed greatly during this period. Allegations of corruption alternated with periods of reform, while the general trend over the period was towards increased professionalization of the police. The institution of the Chicago Police changed greatly over the period, and a series of reports and commentaries record some of those changes. The police in Chicago during this period were oriented to neighborhoods. The education and training of officers became more professional throughout the period. Each neighborhood had its own police station, and the individual records typically report the precinct number. The neighborhoods, in turn, were aligned with the political wards of the city. Aldermen were elected by wards and answered politically to their constituencies in wards. The aldermen and the mayor ruled the city, and the police answered to them.
 
 <section class="section">
   <div class="tiles">
@@ -38,9 +38,7 @@ This data set of more than 11,000 homicides from 1870-1930 is based upon a set o
   </div>
 </section>
 
-- [Cases involving police officers as victims](/database/?backToResults=1&police_vict=1&page=1)
-- [Cases involving police officers as defendants](/database/?backToResults=1&police_def=2&page=1)
-- [Police in America (1971): Chicago Police System](/img/legal/cpd/vice.02.pdf)
+- [Police in America (1971): Chicago Police System](/docs_fk/vice.02.pdf)
 
 <section class="section">
   <div class="tiles">
