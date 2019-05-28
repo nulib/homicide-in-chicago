@@ -14,7 +14,7 @@ The practice was to bring the accused person back to the police station to make 
 
 [View case details...](/database/1/)
 
-This is the only case recorded where the crime occurred in 1870 ([JCLC p. 538-543](/pdf/crimes/harrisonStreet/538-543.pdf)). The Chicago fire in 1871 undoubtedly disturbed regular record keeping. There is a paucity of cases for the 1870’s generally. Quantitative analyses and time series are more reliable for data beginning in 1889 ([JCLC p. 542-547](/pdf/crimes/harrisonStreet/542-547.pdf)). Nonetheless having some cases from the 1870’s gives a perspective on that period. Analysis of these data continues, and will be facilitated by the on line availability of the case summaries and the coded data in SPSS and other formats ([JCLC p. 535-537](/pdf/crimes/harrisonStreet/535-537.pdf)). Subsequent researchers have analyzed subsets of the data set and reformatted the data for their own purposes. See, e.g. [JCLC p. 609-639]().
+This is the only case recorded where the crime occurred in 1870 ([JCLC p. 538-543](/docs_fk/homicide/538-543.pdf)). The Chicago fire in 1871 undoubtedly disturbed regular record keeping. There is a paucity of cases for the 1870’s generally. Quantitative analyses and time series are more reliable for data beginning in 1889 ([JCLC p. 542-547](/docs_fk/homicide/542-547.pdf)). Nonetheless having some cases from the 1870’s gives a perspective on that period. Analysis of these data continues, and will be facilitated by the on line availability of the case summaries and the coded data in SPSS and other formats ([JCLC p. 535-537](/docs_fk/homicide/535-537.pdf)). Subsequent researchers have analyzed subsets of the data set and reformatted the data for their own purposes. See, e.g. [JCLC p. 609-639]().
 
 **For further reading:**
 Thomas F. Geraghty's [Article](not found) and Video [Interview](/gallery/).
@@ -23,4 +23,4 @@ Richard Brook's [Article](not found) and Video [Interview](/gallery/).
 
 Michelle Oberman's [Article](not found) and Video [Interview](/gallery/).
 
-Cynthia Grant Bowman's [Article](not found) and Video [Interview](/gallery/)
+Cynthia Grant Bowman's [Article](/docs_fk/homicide/jclc739-790.pdf) and Video [Interview](/gallery/)

@@ -11,10 +11,10 @@ Killings in circumstances of domestic violence are a substantial fraction of thi
 [View case details...](/database/4273/)
 
 **For further reading:**
-   ["I Loved Joe, but I Had to Shoot Him"](/pdf/crimes/mussao/JCLC12.pdf)
+   ["I Loved Joe, but I Had to Shoot Him"](/docs_fk/homicide/LawJournal/JCLC12.pdf)
 
-   [Homicides Among Chicago Families: 1870-1930](doesnt work)
+   [Homicides Among Chicago Families: 1870-1930](/docs_fk/homicide/jclc899-916.pdf)
 
-   [Wife Murder in Chicago: 1910-1930](doesnt work)
+   [Wife Murder in Chicago: 1910-1930](/docs_fk/homicide/jclc739-790.pdf)
 
 View an interview with [Cynthia Grant Bowman](/gallery/) comparing patterns in domestic violence in the historical cases with patterns in domestic violence cases in contemporary settings.

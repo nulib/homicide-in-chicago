@@ -10,9 +10,9 @@ Killings by persons who were insane, deranged or temporarily incapacitated menta
 
 [View case details...](/database/899/)
 
-Medical treatment in public hospitals for the insane and mentally deranged was plagued by the same corruption and inefficiency which characterized other [public health facilities](not found) in Chicago.
+Medical treatment in public hospitals for the insane and mentally deranged was plagued by the same corruption and inefficiency which characterized other [public health facilities](/docs_fk/homicide/jclc447-449.pdf) in Chicago.
 
-The first public mental hospital was part of the [County Hospital](not found).
+The first public mental hospital was part of the [County Hospital](/docs_fk/homicide/jclc474.pdf).
 
 **For further reading:**
    Thomas Neville Bonner, [Medicine in Chicago, 1850-1950](https://www.amazon.com/exec/obidos/tg/detail/-/0252017609/qid=1086273604/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books), U. Illinois Press, Chicago,1991.
