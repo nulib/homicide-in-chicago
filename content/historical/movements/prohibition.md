@@ -27,12 +27,12 @@ For more information:
 
 [_Journal of Criminal Law and Criminology_](https://scholarlycommons.law.northwestern.edu/jclc/):
 
-- Volstead Act in 1919 (Pages 449-452).
-- The 1929 Illinois Crime Survey Report (Pages 493-496).
+- [Volstead Act in 1919 (Pages 449-452)](/docs_fk/homicide/jclc449-452.pdf).
+- [The 1929 Illinois Crime Survey Report (Pages 493-496)](/docs_fk/homicide/jclc493-496.pdf).
 - The 1929 Illinois Crime Survey.  Part III - Organized Crime in Chicago:
-- Chapter XX: The Rule of the Underworld: Torrio as Overlord.
-- Chapter XXI: The Beer Wars.
-- Chapter XXXII: Terrorization by Bombs.
+- [Chapter XX: The Rule of the Underworld: Torrio as Overlord](/docs_fk/homicide/ICS/ICS.20.pdf).
+- [Chapter XXI: The Beer Wars](/docs_fk/homicide/ICS/ICS.21.pdf).
+- [Chapter XXII: Terrorization by Bombs](/docs_fk/homicide/ICS/ICS.22.pdf).
 
 See also...
 
