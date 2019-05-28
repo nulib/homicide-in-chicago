@@ -6,7 +6,7 @@ subtitle: by Leigh Buchanan Bienen (2006)
 
 Is the death penalty dying? This autobiographical essay offers observations on the application of capital punishment in three very different legal jurisdictions at three different time periods when, partially by happenstance and partially by design, she was a homicide researcher, a participant and an observer of- profound changes in the jurisdiction's application of the death penalty.
 
-[Download entire document as PDF](/docs_fk/SSRN-id1024548.pdf)
+[Download entire document as PDF](/docs_fk/homicide/SSRN-id1024548.pdf)
 
 ### Contents
 
