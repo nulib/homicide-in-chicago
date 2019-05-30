@@ -15,7 +15,7 @@ Murders by police and of police officers constitute a significant percentage of 
 
 [Other cases involving police officers as defendants](/database/?backToResults=1&police_def=2&page=1)
 
-[The police](/legal/cpd/), as the record keepers of this data set, are a topic of great interest. The police should be the most accurate record keepers of statistics and information concerning deaths caused by police and the killings of police ([JCLC p.527-529](doesnt work), [JCLC p.549-550](doesnt work)).
+[The police](/legal/cpd/), as the record keepers of this data set, are a topic of great interest. The police should be the most accurate record keepers of statistics and information concerning deaths caused by police and the killings of police ([JCLC p.527-529](/docs_fk/homicide/jclc527-529.pdf), [JCLC p.549-550](/docs_fk/homicide/jclc549-550.pdf)).
 
 **For further reading:**
 Flinn, John S., [History of the Chicago Police](https://www.amazon.com/exec/obidos/tg/detail/-/0875851649/qid=1086272415/sr=8-2/ref=sr_8_xs_ap_i2_xgl14/104-5698753-1575148?v=glance&s=books&n=507846).  Montclair NJ:  Patterson Smith, 1887/1973.  Beginning with events prior to the founding of Chicago, this book is as much a history of the city as it is of the police department.  The author provides extensive detail in describing the role of law enforcement during key nineteenth century events (until 1887) in Chicago history, particularly the various instances of civil unrest.

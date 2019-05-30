@@ -19,7 +19,7 @@ aliases: [/historical/raceriot]
 
 ### [View case details...](/database/5559)
 
-[Learning From the Past, Living In the Present: Understanding Homicide in Chicago, 1870-1930 (pages 520-521)](/docs_fk/homicide/JCLC520-521.pdf) by Leigh B. Bienen & Brandon Rottinghaus
+[Learning From the Past, Living In the Present: Understanding Homicide in Chicago, 1870-1930 (pages 520-521)](/docs_fk/homicide/jclc520-521.pdf) by Leigh B. Bienen & Brandon Rottinghaus
 
 The Race riot in Chicago in the summer of 1919 left 38 dead, including twenty three black men and boys; and 537 injured, of whom 342 were black, and hundreds homeless. Race riots in other Midwestern and northern cities took place about the same time, as social tensions were aggravated by economic and labor problems after the World War I armistice.
 

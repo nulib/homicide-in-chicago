@@ -16,7 +16,7 @@ The ongoing struggles between labor organizers, business owners, and the attempt
 
 [View case details...](/database/6687/)
 
-[The Haymarket Affair](/crimes/haymarket/) is the symbol and galvanizing event for both labor and management.  Before and after the Haymarket Affair labor issues and political issues regarding employment and labor conditions are omnipresent ([JCLC p.460-461](doesnt work)).  A number of contemporaneous accounts address working conditions and describe with great specificity the working conditions and living conditions for workers and their families in this period.
+[The Haymarket Affair](/crimes/haymarket/) is the symbol and galvanizing event for both labor and management.  Before and after the Haymarket Affair labor issues and political issues regarding employment and labor conditions are omnipresent ([JCLC p.460-461](/docs_fk/homicide/jclc460-461.pdf)).  A number of contemporaneous accounts address working conditions and describe with great specificity the working conditions and living conditions for workers and their families in this period.
 
 For further reading:
    [1000 Homeless Men](/pubs/homeless/), (1914)

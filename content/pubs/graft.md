@@ -24,7 +24,9 @@ Judge Michael L. McKinley standing with a baseball bat on a street	Judge M. L. M
     (PDF - 0.6MB)
   * [The Fight That Failed](/docs_fk/homicide/crimecivic/07.pdf)
     (PDF - 0.6MB)
-  * [The Fine Art of the Fixer](/docs_fk/homicide/crimecivic/09.pdf)
+  * [The Fine Art of the Fixer](/docs_fk/homicide/crimecivic/08.pdf)
+    (PDF - 0.6MB)
+  * [The Crime Against the School Children](/docs_fk/homicide/crimecivic/09.pdf)]
     (PDF - 0.6MB)
   * [The Silver Teapot and Those Who Filled It](/docs_fk/homicide/crimecivic/10.pdf)
     (PDF - 0.5MB)
