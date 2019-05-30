@@ -1,6 +1,19 @@
 ---
 title: "1926: Capone vs. McSwiggin"
 layout: crimes
+news_clips:
+  - title: "2 Others of Auto Party Slain in Cicero Killing"
+    url: /docs_fk/homicide/7349/McSwiggin05.jpg
+  - title: "Assassinate Aid of Crowe"
+    url: /docs_fk/homicide/7349/McSwiggin04.jpg
+  - title: "Bare M'Swiggin Death Tale"
+    url: /docs_fk/homicide/7349/McSwiggin00.jpg
+  - title: "Making Plea For Hanging of Scalisi and Anselmi"
+    url: /docs_fk/homicide/7349/McSwiggin01.jpg
+  - title: "Scene of the killing"
+    url: /docs_fk/homicide/7349/McSwiggin02.jpg
+  - title: "Type of Weapon Used By M'Swiggin's Slayers"
+    url: /docs_fk/homicide/7349/MSwiggin03.jpg
 ---
 
 ![McSwiggin](/img/crimes/mcswiggin/mcSwigginSm.jpg)
@@ -14,7 +27,7 @@ The Beers Wars were a particularly violent series of killings in connection with
 
 Part III of the [1929 Illinois Crime Survey](/pubs/icc/), is a detailed account of the history of organized crime in Chicago and an analysis of several aspects of the industry and its economic hold on the city ([JCLC p.493-496](/docs_fk/homicide/493-496.pdf)).
 
-Al Capone was not the first, or even the most powerful, organized crime boss in Chicago. Mont Tennes established his enormously profitable empire of gambling rings after the turn of the century. Tennes and some of his cohorts were prosecuted but not convicted. Tennes was followed by other organized crime figures, including Al Capone a relative latecomer ([Illinois Crime Survey p.907-919](/docs_fk/homicide/ICS/ICS.20.pdf) and [Illinois Crime Survey p.977-997](/docs_fk/homicide/ICS/ICS.23.pdf)).       
+Al Capone was not the first, or even the most powerful, organized crime boss in Chicago. Mont Tennes established his enormously profitable empire of gambling rings after the turn of the century. Tennes and some of his cohorts were prosecuted but not convicted. Tennes was followed by other organized crime figures, including Al Capone a relative latecomer ([Illinois Crime Survey p.907-919](/docs_fk/homicide/ICS/ICS.20.pdf) and [Illinois Crime Survey p.977-997](/docs_fk/homicide/ICS/ICS.23.pdf)).
 
 The association between organized crime and the police, the state prosecutors, and the courts was a frequent source of investigation, with some periods being characterized by more corruption than others ([Illinois Crime Survey p.999-1021](/docs_fk/homicide/ICS/ICS.24.pdf)).
 
