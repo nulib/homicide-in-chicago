@@ -9,4 +9,4 @@ This was one of the first cases tried in the new Cook County criminal court buil
 
 ![Video Gallery](/img/crimes/fisher/geraghtyVideo.jpg)
 
-View [video](/gallery/) of Professor Thomas Geraghty, author of [**Cook County Criminal Law Practice in 1929: A Community's Response to Crime and a Notorious Trial**](/docs_fk/homicide/LawJournal/JCLC02.pdf).
+View [video](/gallery/geraghty/) of Professor Thomas Geraghty, author of [**Cook County Criminal Law Practice in 1929: A Community's Response to Crime and a Notorious Trial**](/docs_fk/homicide/LawJournal/JCLC02.pdf).
