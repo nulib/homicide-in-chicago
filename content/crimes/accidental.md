@@ -1,6 +1,13 @@
 ---
 title: "1921: Accidental Shooting"
 layout: crimes
+publications:
+  - title: "Accidental Shooting"
+    url: /docs_fk/homicide/6549/JCLC825.pdf
+  - title: "Gun and Homicide Rates"
+    url: /docs_fk/homicide/6549/JCLC833.pdf
+  - title: "Homicides, Gun Deaths and Accidentals"
+    url: /docs_fk/homicide/6549/JCLC516.pdf
 ---
 
 Deaths attributed to accidental shootings occur regularly throughout this set of cases. Some cases involve children, some involve quarrels in saloons or bars, or circumstances of domestic violence.

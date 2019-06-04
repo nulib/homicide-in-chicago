@@ -1,6 +1,11 @@
 ---
 title: "1912: Husband Set On Fire"
 layout: crimes
+historical_photographs:
+  - title: "Lena 'Antonia' Mussao and daughter Catherine"
+    url: /docs_fk/homicide/4273/LenaAntoniaMussao2.jpg
+  - title: "Lena 'Antonia' Mussao photograph"
+    url: /docs_fk/homicide/4273/LenaAntoniaMussao1.jpg
 ---
 
 [![mussao](/img/crimes/mussao/102.jpg)](/historical/timeline/1912/102/)
