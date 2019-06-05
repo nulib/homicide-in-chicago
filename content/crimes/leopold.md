@@ -98,7 +98,7 @@ historical_photographs:
     url: /docs_fk/homicide/5866/DarrowLeopoldLoeb.jpg
   - title: "Four People"
     url: /docs_fk/homicide/5866/LeopoldAndLoeb11.jpg
-  - title: "Nine Men":
+  - title: "Nine Men"
     url: /docs_fk/homicide/5866/LeopoldAndLoeb03.jpg
   - title: "Police Barricade"
     url: /docs_fk/homicide/5866/LeopoldAndLoeb04.jpg
