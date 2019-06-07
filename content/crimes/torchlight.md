@@ -1,6 +1,9 @@
 ---
 title: "1876: Boy Kicked to Death"
 layout: crimes
+publications:
+  - title: "Comment on the Urban Poor"
+    url: /docs_fk/homicide/70/Bienen482.pdf
 ---
 
 [![Girls Sewing in Chicago Sweatshop](/img/crimes/torchlight/47.jpg)](/historical/timeline/1903/47/)

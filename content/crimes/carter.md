@@ -1,6 +1,21 @@
 ---
 title: "1893: Mayor Carter Harrison"
 layout: crimes
+court_records:
+  - title: "Affidavit of A.J. Baxter"
+    url: /docs_fk/homicide/916/affidavit_A._J._Baxter.pdf
+  - title: "Certification of Execution"
+    url: /docs_fk/homicide/916/Certification.pdf
+  - title: "Dr. Brower's Memorandum"
+    url: /docs_fk/homicide/916/Brower.pdf
+  - title: "Execution Order"
+    url: /docs_fk/homicide/916/order.pdf
+  - title: "Jury Instructions"
+    url: /docs_fk/homicide/916/Jury.pdf
+  - title: "Jury Verdict"
+    url: /docs_fk/homicide/916/Verdict.pdf
+  - title: "Public Laws of the State of Illinois"
+    url: /docs_fk/homicide/916/laws.pdf
 ---
 
 ![Mayor Carter Harrison, photo courtesy the Chicago Historical Society](/img/crimes/carter/Carter.Harrison.jpg)

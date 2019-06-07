@@ -1,6 +1,55 @@
 ---
 title: "1908: An Accidental Anarchist"
 layout: crimes
+news_clips:
+  - title: "Riotous Scenes"
+    url: /docs_fk/homicide/55/tribune5586b.5.gif
+  - title: "That Deadly Bomb"
+    url: /docs_fk/homicide/55/tribune5986.9.gif
+  - title: "The Trial of the Anarchists"
+    url: /docs_fk/homicide/55/tribune62186.21.gif
+historical_photographs:
+  - title: "Fred C. Wahlenmeyer, bomb thrower"
+    url: /docs_fk/homicide/55/bombthrower.jpg
+  - title: "Harry Shippy, associated with the death of Lazarus Averbuch"
+    url: /docs_fk/homicide/55/LeoHarryShippy1.jpg
+  - title: "Health Commissioner Dr. John Dill Robertson examining phials of poisons in anarchist Jean Crones' room"
+    url: /docs_fk/homicide/55/CroneAnarchist.jpg
+  - title: "Image of the dead body of Lazarus Averbuch"
+    url: /docs_fk/homicide/55/LazarusAverbuch.jpg
+  - title: "Isadore Maron, an alleged anarchist"
+    url: /docs_fk/homicide/55/IsadoreMaron.jpg
+  - title: "Lazarus Averbuch coroner's inquest"
+    url: /docs_fk/homicide/55/AverbuchInquest.jpg
+  - title: "Lazarus Averbuch, deceased (front)"
+    url: /docs_fk/homicide/55/averbuchfront.jpg
+  - title: "Lazarus Averbuch, deceased (side)"
+    url: /docs_fk/homicide/55/averbuchside.jpg
+  - title: "Police Chief George M. Shippy�s Home"
+    url: /docs_fk/homicide/55/shippy.jpg
+publications:
+  - title: "'An Anarchist 'Sunday-School' - Teaching Unbelief and Lawlessness'"
+    url: /docs_fk/homicide/55/Anarchy669.jpg
+  - title: "'Spies Addressing the Strikers at McCormick's'"
+    url: /docs_fk/homicide/55/Anarchy511.jpg
+  - title: "'The Conspiracy Meeting at 54 West Lake Street - Waller Reading Engel's 'Plan''"
+    url: /docs_fk/homicide/55/Anarchy336.jpg
+  - title: "'The Great Strike in Baltimore - The Militia Fighting their Way through the Streets'"
+    url: /docs_fk/homicide/55/Anarchy57.jpg
+  - title: "'The Great Trial - Scene in the Courtoom'"
+    url: /docs_fk/homicide/55/Anarchy410.jpg
+  - title: "'The Haymarket Monumet'"
+    url: /docs_fk/homicide/55/Anarchy659.jpg
+  - title: "'The Haymarket Riot - The Explosion and the Conflict'"
+    url: /docs_fk/homicide/55/Anarchy142.jpg
+  - title: "'The Haymarkey Martyrs'"
+    url: /docs_fk/homicide/55/Anarchy154.jpg
+  - title: "'The Labor Troubles of 1877 - Riots at the Halsted Street Viaduct, Chicago'"
+    url: /docs_fk/homicide/55/Anarchy63.jpg
+  - title: "The Execution"
+    url: /docs_fk/homicide/55/Anarchy645.jpg
+  - title: "The Haymarket Meeting - 'In the Name of the People, I Command You to Disperse�"
+    url: /docs_fk/homicide/55/Anarchy140.jpg
 ---
 
 [![dead body](/img/crimes/lazarus/averbuch12.jpg)](/historical/timeline/1908/13/)

@@ -2,6 +2,11 @@
 title: "1903: Police Chief Cut to Death"
 layout: crimes
 aliases: [/crimes/policeChief/]
+publications:
+  - title: "Chief of Police Morgan Park Cut to Death"
+    url: /docs_fk/homicide/39/JCLC520.pdf
+  - title: "Data on Legal Dispositions, and Dates as Cross References"
+    url: /docs_fk/homicide/39/JCLC523.pdf
 ---
 
 [![railway strike](/img/crimes/policeChief/341.jpg)](/historical/timeline/1903/341/)

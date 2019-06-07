@@ -1,6 +1,11 @@
 ---
 title: "1921: Strike In A Packing House"
 layout: crimes
+publications:
+  - title: "Comments on Labor Issues, Civil and Political Unrest in Chicago"
+    url: /docs_fk/homicide/6550/Bienen460.pdf
+  - title: "Findings on Firearm Homicides"
+    url: /docs_fk/homicide/6550/Weaver836.pdf
 ---
 
 [![boy with a cigarette](/img/crimes/packinghouse/4.jpg)](/historical/timeline/1904/4/)

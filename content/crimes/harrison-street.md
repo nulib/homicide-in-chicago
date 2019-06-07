@@ -2,6 +2,11 @@
 title: "1870: Harrison Street Police Station"
 layout: crimes
 aliases: [/crimes/harrisonStreet/]
+publications:
+  - title: "Harrison Street Police Station"
+    url: /docs_fk/homicide/1/JCLC535.pdf
+  - title: "Harrison Street Police Station"
+    url: /docs_fk/homicide/1/JCLC538.pdf
 ---
 
 [![Harrison Street Police Station circa 1900](/img/crimes/harrisonStreet/200.jpg)](/historical/timeline/1900/200/)

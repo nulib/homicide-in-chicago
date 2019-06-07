@@ -1,6 +1,11 @@
 ---
 title: "1887: Lunatic at Large"
 layout: crimes
+publications:
+  - title: "Afterword on 'Lunatics and Anarchists: Political Homicide in Chicago'"
+    url: /docs_fk/homicide/899/Bienen805.pdf
+  - title: "Comment from Burke on Pendergast Case"
+    url: /docs_fk/homicide/899/Bienen794.pdf
 ---
 
 ![Eugene Patrick Prendergast, photographed in the Cook County Jail](/img/crimes/lunatic/Prendergast-sm.jpg)
