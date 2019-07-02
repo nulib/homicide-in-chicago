@@ -25,19 +25,23 @@
 
 <section class="section">
   <div class="content container">
-    <p>Disclaimer: The database is constructed verbatum from the source material. Hence all errors of spelling, naming, dates, etc have intentionally not been corrected.</p>
+
+    {{ .Content }}
 
     <div class="loading-overlay">
       <div class="spin-loader"></div>
     </div>
 
-    <form action="{{ "search/" | absURL }}">
-      <input id="search-query" name="s" class="input is-large" type="text" placeholder="Search for names, addresses, or case number..."/>
-    </form>
+    <div class="field has-addons">
+      <div class="control is-expanded">
+        <form action="{{ "search/" | absURL }}">
+          <input id="search-query" name="s" class="input is-large" type="text" placeholder="Search for names, addresses, or dates..."/>
+        </form>
+      </div>
+    </div>
 
     <div id="search-results">
       <br>
-      {{ .Content }}
       <hr>
     </div>
 </section>
@@ -47,13 +51,18 @@
 
 <script id="search-result-template" type="text/x-js-template">
   <section class="section is-paddingless">
+    <h3 class="title is-3">Search results...</h3>
     <div id="summary-${key}">
-      <h3 class="title is-3"><a href="${link}">Case Number: ${CaseNumber}</a></h3>
-        ${ isset DateOfOffense }<p><span class="has-text-weight-bold">Date of Offense:</span> ${DateOfOffense}</p>${end}
-        ${ isset VictimName }<p><span class="has-text-weight-bold">Victim Name:</span> ${VictimName}</p>${ end }
-        ${ isset DefendantName }<p><span class="has-text-weight-bold">DefendantName:</span> ${DefendantName}</p>${ end }
-        ${ isset Address }<p><span class="has-text-weight-bold">Address:</span> ${Address}</p>${ end }
-        ${ isset CaseDescription }<p><span class="has-text-weight-bold">Case Description:</span> ${CaseDescription}</p>${ end }
+      <div class="box">
+        <h4><a class="title is-3" href="${link}">Date of Offense: ${DateOfOffense}</a></h4>
+        <ul>
+          ${ isset VictimName }<li><span class="has-text-weight-bold">Victim Name:</span> ${VictimName}</li>${ end }
+          ${ isset DefendantName }<li><span class="has-text-weight-bold">DefendantName:</span> ${DefendantName}</li>${ end }
+          ${ isset Address }<li><span class="has-text-weight-bold">Address:</span> ${Address}</li>${ end }
+          ${ isset CaseNumber }<li><span class="has-text-weight-bold">Case Number:</span> ${CaseNumber}</li>${end}
+          ${ isset CaseDescription }<li><span class="has-text-weight-bold">Case Description:</span> ${CaseDescription}</li>${ end }
+        </ul>
+      </div>
       <hr>
     </div>
   </section>
