@@ -2,8 +2,8 @@
 
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="{{.Site.BaseURL | relURL}}">
-      <h1>Homicide in Chicago 1870-1930</h1>
+    <a class="navbar-item is-hoverable" href="{{.Site.BaseURL | relURL}}">
+      <h1 class="title is-4 has-text-white">Homicide in Chicago 1870-1930</h1>
     </a>
     <a role="button" class="navbar-burger " data-target="navMenu"  aria-label="menu" aria-expanded="false">
       <span></span>
@@ -19,7 +19,7 @@
       {{- $currentPage := . }}
       {{- range .Site.Menus.main }}
       	{{- if .HasChildren }}
-      	<div class="navbar-item has-dropdown is-hoverable">
+      	<div class="navbar-item is-hoverable">
       		{{ template "navbar-link" . -}}
       		<div class="navbar-dropdown">
       			{{- range .Children -}}
