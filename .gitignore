@@ -4,8 +4,8 @@
 # Static Assets (PDFs, Images, Data)
 /static/docs_fk
 /static/img
-/data/homicide-data.csv
-/data/homicide-data.json
+/data/homicidedata.csv
+/data/homicidedata.json
 
 ## OS Files
 # Windows

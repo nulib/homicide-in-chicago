@@ -1,0 +1,10 @@
+{{ range .Site.Data.homicidedata }}
+  {{ if eq .LegalLengthOfSentence "Death penalty" }}
+  <section class="section is-paddingless">
+    <div class="box">
+      <h4><a class="title is-3" href="/database/{{ .IndexId }}">Date of Offense: {{ .CircumstancesDateOfOffense }}</a></h4>
+    </div>
+  <section>
+  {{ end }}
+  <hr>
+{{ end }}
