@@ -1,10 +1,9 @@
 # Hugo default output directory
 /public
 
-# Static Assets (PDFs, Images, data)
+# Static Assets (PDFs, Images)
 /static/docs_fk
 /static/img
-/data
 
 ## OS Files
 # Windows
