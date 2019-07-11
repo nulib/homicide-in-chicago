@@ -11,8 +11,6 @@ In a number of these cases the defendant killed his wife, or wife and children, 
 
 [View case details...](/database/904/)
 
-[View all cases where domestic violence was the cause of death](/database/?backToResults=1&circum=6&page=1)
-
 This set of records kept by the police does not include all suicides of the period, only those associated with homicides. The records for suicides would be kept by the Cook County Coroner.
 
 Patterns of murder followed by suicide in circumstances of domestic violence persists in the present.
