@@ -1,0 +1,102 @@
+{{ define "title" -}}
+  {{ .Title }} | {{ .Site.Title }}
+{{- end }}
+
+{{ define "header"}} {{ partial "menu" . }} {{ end }}
+
+{{ define "main" }}
+
+<section class="hero is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title">
+        {{ .Title }}
+      </h2>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+
+<div class="container">
+
+    <div class="columns">
+
+      <div class="column is-one-quarter">
+        <aside class="menu">
+          <p class="menu-label">
+            Crimes
+          </p>
+          <ul class="menu-list">
+            <li><a href="/crimes/mcswiggin/"><b>1926:</b> Capone vs. McSwiggin</a></li>
+            <li><a href="/crimes/fisher/"><b>1925:</b> People vs. Fisher</a></li>
+            <li><a href="/crimes/leopold/"><b>1924:</b> Leopold and Loeb</a></li>
+            <li><a href="/crimes/moonshine/"><b>1923:</b> Death By Moonshine</a></li>
+            <li><a href="/crimes/revenge/"><b>1923:</b> Revenge!</a></li>
+            <li><a href="/crimes/intraracial/"><b>1923:</b> Intra-Racial Murder</a></li>
+            <li><a href="/crimes/squabble/"><b>1922:</b> Union Squabble</a></li>
+            <li><a href="/crimes/officer/"><b>1921:</b> Killing By An Officer</a></li>
+            <li><a href="/crimes/accidental/"><b>1921:</b> Accidental Shooting</a></li>
+            <li><a href="/crimes/packinghouse/"><b>1921:</b> Strike In A Packing House</a></li>
+            <li><a href="/crimes/raceriot/"><b>1919:</b> The Race Riot</a></li>
+            <li><a href="/crimes/mussao/"><b>1912:</b> Husband Set On Fire</a></li>
+            <li><a href="/crimes/wife-murder/"><b>1910:</b> Wife Murder In Chicago</a></li>
+            <li><a href="/crimes/radek/"><b>1910:</b> Child Murderess: The Mary Radek Case</a></li>
+            <li><a href="/crimes/lazarus/"><b>1908:</b> An Accidental Anarchist</a></li>
+            <li><a href="/crimes/police-chief"><b>1903:</b> Police Chief Cut to Death</a></li>
+            <li><a href="/crimes/carter/"><b>1893:</b> Mayor Carter Harrison</a></li>
+            <li><a href="/crimes/murder-suicide/"><b>1889:</b> Murder-Suicide</a></li>
+            <li><a href="/crimes/lunatic/"><b>1887:</b> Lunatic at Large</a></li>
+            <li><a href="/crimes/haymarket/"><b>1886:</b> Haymarket Affair</a></li>
+            <li><a href="/crimes/sailor/"><b>1876:</b> The Stabbed Sailor</a></li>
+            <li><a href="/crimes/torchlight/"><b>1876:</b> Boy Kicked to Death</a></li>
+            <li><a href="/crimes/harrison-street/"><b>1870:</b> Harrison Street Police Station</a></li>
+          </ul>
+        </aside>
+      </div>
+
+
+      <div class="column">
+        <div class="content">
+            {{ .Content }}
+        </div>
+      </div>
+
+      <div class="column is-one-quarter">
+          {{ with .Params.court_records }}
+          <aside class="menu">
+            <p class="menu-label">
+              Court Records
+            </p>
+            <ul class="menu-list">
+              {{ range .}}
+              <li><a href="{{ .url}} ">{{ .title }}</a></li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+
+          {{ with .Params.news_clips }}
+          <aside class="menu">
+            <p class="menu-label">
+              Newspaper Clippings 
+            </p>
+            <ul class="menu-list">
+              {{ range .}}
+              <li><a href="{{ .url}} ">{{ .title }}</a></li>
+              {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+
+    </div><!-- columns -->
+
+</div>
+
+</section>
+
+{{ end }}
+
+{{ define "footer" }}
+  {{ partial "footer" . }}
+{{ end }}
