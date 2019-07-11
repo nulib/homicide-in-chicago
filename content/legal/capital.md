@@ -28,6 +28,6 @@ Richard R.W. Brooks and Stephen Raphael, “[Life Terms or Death Sentences: The 
 
 Edward M. Burke’s “[Lunatics and Anarchists: Political Homicide in Chicago](/docs_fk/homicide/jclc791-808.pdf),” describes the [assassination](/crimes/carter/) of Mayor Carter Harrison in 1893 by a defendant, Eugene Patrick Prendergast, whose sanity at the time and sunsequent of the crime was questioned. Under the direction of Clarence Darrow at a special post conviction hearing before a jury on the question of his [competency] (/docs_fk/homicide/916/Brower.pdf) to be executed, medical experts examined the defendant and reported on his mental condition and fitness to be executed. The issue of competency to be executed is important is present day capital punishment jurisprudence. In spite of divided medical opinion and the efforts of Clarence Darrow, the jury found the defendant competent to be be executed. An appeal for clemency to Governor John Peter Altgeld was not successful, and the defendant was eventually [executed](/docs_fk/homicide/916/Certification.pdf) in 1894 after two continuances.
 
-   [See all cases in homicide record involving capital punishment](/database/?backToResults=1&lsentnc=300&page=1)
+   [See all cases in homicide record involving capital punishment](/searches/capital-punishment/)
 
 [BACK TO TOP](/legal/capital/#top)

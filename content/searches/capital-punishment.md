@@ -1,6 +1,6 @@
 ---
 title: "Cases Involving Capital Punishment"
-layout: searches
+layout: legal
 ---
 
-{{< canned-search >}}
+{{< capital-punishment >}}

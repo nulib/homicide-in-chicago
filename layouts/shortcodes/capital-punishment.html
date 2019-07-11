@@ -1,0 +1,18 @@
+{{/* This shortcode uses the homicidedata.json file to create a canned search results list for all cases involing capital punishment. */}}
+<section class="section is-paddingless">
+{{ range .Site.Data.homicidedata }}
+  {{ if eq .LegalLengthOfSentence "Death penalty" }}
+    <div class="box">
+      <h4><a class="title is-3" href="/database/{{ .IndexId }}">Date of Offense: {{ .CircumstancesDateOfOffense }}</a></h4>
+      <ul>
+        <li><span class="has-text-weight-bold">Victim Name:</span> {{ .VictimName }}</li>
+        <li><span class="has-text-weight-bold">DefendantName:</span> {{ .DefendantName }}</li>
+        <li><span class="has-text-weight-bold">Address:</span> {{ .CircumstancesAddress }}</li>
+        <li><span class="has-text-weight-bold">Case Number:</span> {{ .CircumstancesAddress }}</li>
+        <li><span class="has-text-weight-bold">Case Description:</span> {{ .CaseDescription }}</li>
+      </ul>
+    </div>
+    <hr>
+    {{ end }}
+{{ end }}
+<section>
