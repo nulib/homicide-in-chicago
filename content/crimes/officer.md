@@ -13,8 +13,6 @@ Murders by police and of police officers constitute a significant percentage of 
 
 [View case details...](/database/6543/)
 
-[Other cases involving police officers as defendants](/database/?backToResults=1&police_def=2&page=1)
-
 [The police](/legal/cpd/), as the record keepers of this data set, are a topic of great interest. The police should be the most accurate record keepers of statistics and information concerning deaths caused by police and the killings of police ([JCLC p.527-529](/docs_fk/homicide/jclc527-529.pdf), [JCLC p.549-550](/docs_fk/homicide/jclc549-550.pdf)).
 
 **For further reading:**
