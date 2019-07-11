@@ -29,9 +29,7 @@ Prostitution was never legal in Chicago. The notorious Levee district, ostensibl
   </div>
 </div>
 
-[comment]: <> (![Marching on the Levee District](/img/legal/prostitution/levee_district.jpg))
-
-See: [All cases involving prostitution](/search/?s=prostitution)
+See: [All cases involving prostitution](/searches/prostitution/)
 
 Prostitution in contemporaneous records and reports was termed "the social evil" or "vice", and those who ran the illegal enterprises were termed ‘The Vice Lords’ ([JCLC p.500-511](/docs_fk/homicide/jclc500-511.pdf)). The Levee district was notorious, in Chicago and around the world, described by many contemporaneous commentators and visitors to the city, including William Stead, [If Christ Came to Chicago (1894)](/pubs/ICCTC/), the most famous journalist of his time.
 
@@ -53,7 +51,7 @@ The closing of the Levee in 1912 did not mean that there was no more commerciali
 
 Prior to 1912, the Levee was an area the police did not enter, and the new regime did document that and attempt to change it.
 
-Included in the [Commission Report of 1911](doesnt work) and in contemporaneous academic studies are details and statistics on vice, and a history of the development of the industry in Chicago. In addition to the 1911 Chicago Vice Commission Report, the most comprehensive and scholarly treatment of the subject is: Walter C. Reckless, __Vice in Chicago__ ( Chicago , 1933). This is a well written, sociological study, with extensive demographic, public health and economic data on aspects of the industry in the notorious vice districts of Chicago . Topics include: the changing demographics of the business of prostitution; organized crime involvement and control of vice; exposes of government graft allowing and supporting organized crime involvement; fraudulent voting practices which perpetuated organized crime control of government offices; police protection of and involvement in the business; and the periodic enforcement by city and state officials in response to pressure from citizen’s groups. __Vice__ is principally prostitution, but also includes the distribution of alcohol, especially during Prohibition, and other illegal activities in the segregated districts of Chicago . This is a comprehensive, serious study with a wealth of demographic and court data, including: an exhaustive review of prior reports and commissions, official data primarily on the post World War I period, and in some categories data going back to the early part of the century.
+Included in the [Commission Report of 1911](/pubs/vice/) and in contemporaneous academic studies are details and statistics on vice, and a history of the development of the industry in Chicago. In addition to the 1911 Chicago Vice Commission Report, the most comprehensive and scholarly treatment of the subject is: Walter C. Reckless, __Vice in Chicago__ ( Chicago , 1933). This is a well written, sociological study, with extensive demographic, public health and economic data on aspects of the industry in the notorious vice districts of Chicago . Topics include: the changing demographics of the business of prostitution; organized crime involvement and control of vice; exposes of government graft allowing and supporting organized crime involvement; fraudulent voting practices which perpetuated organized crime control of government offices; police protection of and involvement in the business; and the periodic enforcement by city and state officials in response to pressure from citizen’s groups. __Vice__ is principally prostitution, but also includes the distribution of alcohol, especially during Prohibition, and other illegal activities in the segregated districts of Chicago . This is a comprehensive, serious study with a wealth of demographic and court data, including: an exhaustive review of prior reports and commissions, official data primarily on the post World War I period, and in some categories data going back to the early part of the century.
 
 <div class="columns">
   <div class="column">
@@ -82,3 +80,5 @@ Additional sources include:
 - Lloyd Wendt and Herman Kogan, __Big Bill of Chicago__, (Bobbs Merrill, NY 1953). A detailed political history of the tumultuous politics surrounding the elections and reelections of Mayor "Big Bill the Builder" Thompson. Thompson was Mayor from 1915-1920, and reelected in 1927-1930.
 
 - Richard Lindberg, [Chicago by Gaslight – A History of Chicago’s Netherworld, 1880-1920](https://www.amazon.com/exec/obidos/tg/detail/-/0897334213/qid=1086274256/sr=1-1/ref=sr_1_1/104-5698753-1575148?v=glance&s=books) (Academy Chicago Publishers, 1996). A lively, anecdotal account of historic events, political scandals and the notorious underworld. A valuable table lists all mayors, police chiefs, state’s attorneys, and sheriffs from 1871-1920 (p.214). Photographs and illustrations are included.
+
+![Marching on the Levee District](/img/legal/prostitution/levee_district.jpg)

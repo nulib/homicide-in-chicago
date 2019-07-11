@@ -16,4 +16,4 @@ Gun accidents and gun deaths are typically recorded by the police as part of the
 
 [View case details...](/database/6549/)
 
-[View all cases of accidental shooting](/database/?backToResults=1&mckindac=3&page=1)
+[View all cases of accidental shooting](/searches/accidental-shootings/)
