@@ -28,9 +28,9 @@ The association of death and alcohol includes accidental deaths from illegally b
 
 - [victim was drinking/drunk](/searches/victim-drunk/)
 - [one or more of defendants was drinking/drunk](/searches/defendent-drunk/)
-- [both victim and defendant(s) were drinking/drunk](/database/?backToResults=1&alcohol=3&page=1)
-- [that occurred in a drinking establishment](/database/?backToResults=1&alcohol=5&page=1)
-- [involving illegal liquor or prohibition](/database/?backToResults=1&alcohol=6&page=1)
+- [both victim and defendant(s) were drinking/drunk](/searches/both-drunk/)
+- [that occurred in a drinking establishment](/searches/drinking-establishment/)
+- [involving illegal liquor or prohibition](/searches/illegal-liquor/)
 
 The reform movements of the progressive period targeted legal and illegal drinking, as well as prostitution and other social behaviors ([JCLC p.502-504](/docs_fk/homicide/jclc502-504.pdf)).  Manslaughters and accidents increased with the population increases in the period - with automobile accidents accounting for a larger share of accidents as automobiles took over the streets, replacing horses and competed with street railways ([JCLC p.516](/docs_fk/homicide/jclc516.pdf), [JCLC p.547](/docs_fk/homicide/jclc547.pdf), and [JCLC p.528-533](/docs_fk/homicide/jclc528-533.pdf)).  The politics of Prohibition, both nationally and in the State of Illinois, are a subject of considerable academic study and political commentary.
 
