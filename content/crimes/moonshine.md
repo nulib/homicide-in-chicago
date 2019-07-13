@@ -27,7 +27,7 @@ The association of death and alcohol includes accidental deaths from illegally b
 **View homicides where...**
 
 - [victim was drinking/drunk](/searches/victim-drunk/)
-- [one or more of defendants was drinking/drunk](/searches/defendent-drunk/)
+- [one or more of defendants was drinking/drunk](/searches/defendant-drunk/)
 - [both victim and defendant(s) were drinking/drunk](/searches/both-drunk/)
 - [that occurred in a drinking establishment](/searches/drinking-establishment/)
 - [involving illegal liquor or prohibition](/searches/illegal-liquor/)
