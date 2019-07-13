@@ -7,7 +7,7 @@ theme = "bulma" # to use as default theme
 enableRobotsTXT = true # Suggested, it generates a robots.txt
 googleAnalytics = "" # Optional, add tracking Id for analytics
 disqusShortname = "" # Optional, add Disqus shortname for comments
-SectionPagesMenu = "main" # Enable menu system for lazy bloggers
+#SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [params]
   theme_variant = "lux" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
@@ -18,7 +18,7 @@ SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 #  github  = "github" # Optional, to display link to github account in menu bar
 #  twitter = "twitter" # Optional, to display link to twitter account in menu bar
 
-SectionPagesMenu = "main"
+#SectionPagesMenu = "main"
 
 [permalinks]
   posts = "/:section/:filename/"
