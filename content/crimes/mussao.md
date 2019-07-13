@@ -1,17 +1,32 @@
 ---
 title: "1912: Husband Set On Fire"
-layout: crimes-sidebar
+layout: crimes
 historical_photographs:
   - title: "Lena 'Antonia' Mussao and daughter Catherine"
     url: /docs_fk/homicide/4273/LenaAntoniaMussao2.jpg
   - title: "Lena 'Antonia' Mussao photograph"
     url: /docs_fk/homicide/4273/LenaAntoniaMussao1.jpg
 ---
-
-[![mussao](/img/crimes/mussao/102.jpg)](/historical/timeline/1912/102/)
-click on image to view photo details
-
 Killings in circumstances of domestic violence are a substantial fraction of this set of homicide records. The specific situations may be bizarre, or unusual, as in this case, but the patterns are similar to cases reported today.
+
+<section class="section">
+  <div class="tiles">
+    <div class="tile is-ancestor has-text-centered">
+      <div class="tile is-child">
+        <figure>
+          {{< image title="Mussao" src="/img/crimes/mussao/MrsLenaMussao.jpg" >}}
+      </figure>
+        <a href="/historical/timeline/1912/102/">Mrs. Lena Mussao</a>
+      </div>
+      <div class="tile is-child">
+        <figure>
+          {{< image title="Mussao" src="/img/crimes/mussao/LenaAntoniaMussao2.jpg" >}}
+      </figure>
+        <a href="/historical/timeline/1912/102/">Lena "Antonia" Mussao and daughter Catherine</a>
+      </div>
+    </div>
+  </div>
+</section>
 
 [View case details...](/database/4273/)
 
