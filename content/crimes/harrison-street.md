@@ -9,11 +9,11 @@ publications:
     url: /docs_fk/homicide/1/JCLC538.pdf
 ---
 
-[![Harrison Street Police Station circa 1900](/img/crimes/harrisonStreet/200.jpg)](/historical/timeline/1900/200/)
-[![Image of the lockup keeper sitting in a rocking chair outside a row of jail cells in the Harrison Street police station](/img/crimes/harrisonStreet/jailer.jpg)](/historical/timeline/1907/283/)
-click on image to view photo details
+[![Harrison Street Police Station circa 1900](/img/crimes/harrisonStreet/HarrisonStreetPoliceStation.jpg)](/historical/timeline/1900/200/)
 
 This 1870 murder is the first case in the database. It offers an example of how the data was recorded by the police over the entire period. The Harrison Street Police station was the central police station, and the report of the killing at a railroad yard includes information about the victim and defendant typical of later records.
+
+[![Image of the lockup keeper sitting in a rocking chair outside a row of jail cells in the Harrison Street police station](/img/crimes/harrisonStreet/LockupKeeperOutsideJailCells.jpg)](/historical/timeline/1907/283/)
 
 The practice was to bring the accused person back to the police station to make the arrest and ‘booking’ at the station itself.
 

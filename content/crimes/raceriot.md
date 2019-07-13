@@ -3,15 +3,30 @@ title: "1919: The Race Riot"
 layout: crimes
 ---
 
-![chicago race riot](/img/crimes/raceriot/397.jpg)
-![walgreen drugs](/img/crimes/raceriot/403.jpg)
-click on image to view photo details
+<section class="section">
+  <div class="tiles">
+    <div class="tile is-ancestor has-text-centered">
+      <div class="tile is-child">
+        <figure>
+          {{< image title="Chicago Race Riot" src="/img/crimes/raceriot/Chicago_Race_Riot.jpg" >}}
+      </figure>
+        <a href="/historical/timeline/1919/397/">Chicago Race Riot</a>
+      </div>
+      <div class="tile is-child">
+        <figure>
+          {{< image title="Walgreen Drugs" src="/img/crimes/raceriot/Walgreen_Drugs.jpg" >}}
+        </figure>
+        <a href="/historical/timeline/1919/403/">Walgreen Drugs</a>
+      </div>
+    </div>
+  </div>
+</section>
 
 The Race Riot in Chicago in the summer of 1919 left 38 dead, including twenty three black men and boys; and 537 injured, of whom 342 were black, and hundreds homeless. Race riots in other Midwestern and northern cities took place about the same time, as social tensions were aggravated by economic and labor problems after the World War I armistice.
 
 [View case details...](/database/6543/)
 
-[Show all homicides related to race riot](/database/?backToResults=1&circum=12&page=1)
+[Show all homicides related to race riot](/searches/raceriot/)
 
 The Coroner's report on the riot described the events as follows: “Five days of terrible hate and passion let loose, cost the people of Chicago 38 lives (15 white and 23 colored), wounded and maimed several hundred, destroyed property of untold value, filled thousands with fear, blemished the city and left in its wake fear and apprehension for the future...”
 
@@ -25,5 +40,3 @@ The armed confrontations may have been over, but aftereffects smoldered longer t
    Cohen, Lizabeth., [Making a New Deal: Industrial Workers in Chicago, 1919-1939](https://www.amazon.com/exec/obidos/tg/detail/-/0521428386/qid=1085762614/sr=1-1/ref=sr_1_1/104-6378665-5804747?v=glance&s=books). Cambridge, UK: Cambridge University Press, 1990. This work documents the difficulties and successes of industrial workers (immigrants and racial minorities) to form a union in Chicago before and leading up to the New Deal. It also describes how mass culture permeated the lives of these workers and forged cohesive bonds across race and ethnic lines.
 
    Barrett, James R., [Work and Community in the Jungle: Chicago's Packinghouse Workers,1894-1922](https://www.amazon.com/exec/obidos/tg/detail/-/0252013786/qid=1085762654/sr=1-1/ref=sr_1_1/104-6378665-5804747?v=glance&s=books). Champaign: U. Illinois Press, 1987. A study of these workers, their political and social identifications, and the long, bitter and brutal battles for unionization.
-
-   [comment]: <> (has the same links as the packing house page?)

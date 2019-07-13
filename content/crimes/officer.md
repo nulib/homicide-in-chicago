@@ -3,12 +3,6 @@ title: "1921: Killing By An Officer"
 layout: crimes
 ---
 
-[![strike 1](/img/crimes/officer/strike12.jpg)](/historical/timeline/1903/341/)
-[![strike 2](/img/crimes/officer/strike22.jpg)](/historical/timeline/1903/342/)
-[![rattraylillie](/img/crimes/officer/rattraylillie2.jpg)](/historical/timeline/1915/387/)
-[![garmentworkerstrike](/img/crimes/officer/garmentworkersstrike2.jpg)](/historical/timeline/1910/392/)
-click on image to view photo details
-
 Murders by police and of police officers constitute a significant percentage of the homicides in this data set. Police kill persons who flee or resist arrest, or in circumstances of civil disorder, in self defense, or in other situations. These cases have been separately identified, and much research remains to be done on this subject.
 
 [View case details...](/database/6543/)

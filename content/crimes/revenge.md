@@ -3,12 +3,10 @@ title: "1923: Revenge"
 layout: crimes
 ---
 
-[![Alice Davis Sing, Accused Murderess](/img/crimes/revenge/alicedavissing-sm.jpg)](/historical/timeline/1913/95/)
-click on image to view case details
+<img src="/img/crimes/revenge/95.jpg" title="Alice Davis Sing, Accused Murderess">
+**Alice Davis Sing**, [click to view case details](/historical/timeline/1913/95/).
 
 Killings in revenge or from passion occur throughout this set of cases. Each is the remnant of a feud or complicated story, whose circumstances are only hinted at in the records here. Additional research in contemporaneous sources might begin to untangle some of the history which preceded the homicide.
-
-[view sample homicide](/database/?backToResults=1&alcohol=1&page=1)
 
 Cases such as these remind the reader that each record of a case is potentially the beginning of a journey leading to information, not just about the complicated set of social interactions which preceded the murder, but the story of how those events were treated by official actors, as the crime became a case in the legal system. This type of case is another reminder that homicide is a social event, an interaction between people who have a previous relationship. Records in the county and state archives contain original accounts, and documents regarding professional representation. Newspaper reports also provide valuable contextual information. See, as an example of how a simple factual description of a crime can be amplified, the amount of detail discovered regarding another case ([Thomas F. Geraghty Article](/docs_fk/homicide/jclc555-607.pdf)).
 

@@ -2,17 +2,47 @@
 title: "1922: Union Squabble"
 layout: crimes
 ---
-
-[![strike 1](/img/crimes/squabble/strike12.jpg)](/historical/timeline/1903/341/)
-[![strike 2](/img/crimes/squabble/strike22.jpg)](/historical/timeline/1903/342/)
-[![rattraylillie](/img/crimes/squabble/rattraylillie2.jpg)](/historical/timeline/1915/387/)
-[![garmentworkerstrike](/img/crimes/squabble/garmentworkersstrike2.jpg)](/historical/timeline/1910/392/)
-
-click on image to view case details
-
 Killings in revenge or from passion occur throughout this set of cases. Each is the remnant of a feud or complicated story, whose circumstances are only hinted at in the records here. Additional research in contemporaneous sources might begin to untangle some of the history which preceded the homicide.
 
+<section class="section">
+  <div class="tiles">
+    <div class="tile is-ancestor has-text-centered">
+      <div class="tile is-child">
+        <figure>
+          {{< image title="Railway Strike 1" src="/img/crimes/squabble/341.jpg" >}}
+      </figure>
+        <a href="/historical/timeline/1903/341/">Railway Strike 1</a>
+      </div>
+      <div class="tile is-child">
+        <figure>
+          {{< image title="Railway Strike 2" src="/img/crimes/squabble/342.jpg" >}}
+        </figure>
+        <a href="/historical/timeline/1903/342/">Railway Strike 2</a>
+      </div>
+    </div>
+  </div>
+</section>
+
 The ongoing struggles between labor organizers, business owners, and the attempts of local, state and federal governments to control strikes and regulate working conditions are one of the overarching dramas of this entire period. Workers poured into Chicago from abroad and from the rural regions of America, and during the period revolutions in the nature of factories, and manufacturing and industry, were accompanied by revolutions, both attempted and actual, in the relations between hired workers and their employers. The confrontations were highly charged, politicized, and with large economic stakes on both sides.
+
+<section class="section">
+  <div class="tiles">
+    <div class="tile is-ancestor has-text-centered">
+      <div class="tile is-child">
+        <figure>
+          {{< image title="Mrs. Frank Rattray Lillie" src="/img/crimes/squabble/387.jpg" >}}
+      </figure>
+        <a href="/historical/timeline/1915/387/">Mrs. Frank Rattray Lillie</a>
+      </div>
+      <div class="tile is-child">
+        <figure>
+          {{< image title="Garment Worker Strike" src="/img/crimes/squabble/392.jpg" >}}
+        </figure>
+        <a href="/historical/timeline/1910/392/">Garment Worker Strike</a>
+      </div>
+    </div>
+  </div>
+</section>
 
 [View case details...](/database/6687/)
 

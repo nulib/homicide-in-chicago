@@ -8,8 +8,7 @@ publications:
     url: /docs_fk/homicide/899/Bienen794.pdf
 ---
 
-![Eugene Patrick Prendergast, photographed in the Cook County Jail](/img/crimes/lunatic/Prendergast-sm.jpg)
-click on image to view photo details
+![Eugene Patrick Prendergast, photographed in the Cook County Jail](/img/crimes/lunatic/Prendergast.jpg)
 
 Killings by persons who were insane, deranged or temporarily incapacitated mentally occur throughout this data set. The standard for proving insanity was the McNaghten test, the standard being that the actor did not know what he was doing or did not know that it was wrong. This standard is still used in most American jurisdictions today.
 

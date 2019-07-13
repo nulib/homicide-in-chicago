@@ -6,8 +6,7 @@ publications:
     url: /docs_fk/homicide/70/Bienen482.pdf
 ---
 
-[![Girls Sewing in Chicago Sweatshop](/img/crimes/torchlight/47.jpg)](/historical/timeline/1903/47/)
-click on image to view photo details
+[![Girls Sewing in Chicago Sweatshop](/img/crimes/torchlight/GirlsSewinginChicagoSweatshop.jpg)](/historical/timeline/1903/47/)
 
 Children were present on the street, especially children of the poor and the workers, in ways which we would not recognize.
 

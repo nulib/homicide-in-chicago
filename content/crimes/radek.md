@@ -3,8 +3,8 @@ title: "1910: Child Murderess: The Mary Radek Case"
 layout: crimes
 ---
 
-[![boy with jug](/img/crimes/radek/30.jpg)](/historical/timeline/1910/30/)
-click on image to view photo details
+![boy with jug](/img/crimes/radek/ArthurTesler.jpg)
+[View photo details](/historical/timeline/1910/30/)
 
 Cases involving children as victims and defendants are found at all periods in the records. Some cases are accidental deaths; some are intentional. All raise special issues for legal determination.
 
