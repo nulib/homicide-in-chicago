@@ -1,6 +1,6 @@
 ---
 title: "1925: People vs. Fisher"
-layout: crimes
+layout: crimes-sidebar
 court_records:
   - title: "Application for Executive Clemency"
     url: /docs_fk/homicide/7722/melvin.jpg

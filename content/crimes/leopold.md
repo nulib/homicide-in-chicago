@@ -1,6 +1,6 @@
 ---
 title: "1924: Leopold and Loeb"
-layout: crimes
+layout: crimes-sidebar
 court_records:
   - title: "Leopold Psychiatric Evaluation"
     url: /docs_fk/homicide/5866/LeopoldPsychiatric.pdf

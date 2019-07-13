@@ -1,6 +1,6 @@
 ---
 title: "1903: Police Chief Cut to Death"
-layout: crimes
+layout: crimes-sidebar
 aliases: [/crimes/policeChief/]
 publications:
   - title: "Chief of Police Morgan Park Cut to Death"

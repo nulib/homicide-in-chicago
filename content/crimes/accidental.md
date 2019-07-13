@@ -1,6 +1,6 @@
 ---
 title: "1921: Accidental Shooting"
-layout: crimes
+layout: crimes-sidebar
 publications:
   - title: "Accidental Shooting"
     url: /docs_fk/homicide/6549/JCLC825.pdf

@@ -1,6 +1,6 @@
 ---
 title: "1908: An Accidental Anarchist"
-layout: crimes
+layout: crimes-sidebar
 news_clips:
   - title: "Riotous Scenes"
     url: /docs_fk/homicide/55/tribune5586b.5.gif

@@ -1,6 +1,6 @@
 ---
 title: "1921: Strike In A Packing House"
-layout: crimes
+layout: crimes-sidebar
 publications:
   - title: "Comments on Labor Issues, Civil and Political Unrest in Chicago"
     url: /docs_fk/homicide/6550/Bienen460.pdf

@@ -1,6 +1,6 @@
 ---
 title: "1870: Harrison Street Police Station"
-layout: crimes
+layout: crimes-sidebar
 aliases: [/crimes/harrisonStreet/]
 publications:
   - title: "Harrison Street Police Station"

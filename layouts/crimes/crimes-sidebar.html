@@ -62,9 +62,49 @@
         </div>
       </div>
 
+      <div class="column is-one-quarter">
+          {{ with .Params.court_records }}
+          <aside class="menu">
+            <p class="menu-label">
+              Court Records
+            </p>
+            <ul class="menu-list">
+              {{ range .}}
+              <li><a href="{{ .url}} ">{{ .title }}</a></li>
+              {{ end }}
+            </ul>
+          </aside>
+          {{ end }}
+
+          {{ with .Params.news_clips }}
+          <aside class="menu">
+            <p class="menu-label">
+              Newspaper Clippings
+            </p>
+            <ul class="menu-list">
+              {{ range .}}
+              <li><a href="{{ .url}} ">{{ .title }}</a></li>
+              {{ end }}
+            </ul>
+          </aside>
+          {{ end }}
+
+          {{ with .Params.publications }}
+          <aside class="menu">
+            <p class="menu-label">
+              Publications
+            </p>
+            <ul class="menu-list">
+              {{ range .}}
+              <li><a href="{{ .url}} ">{{ .title }}</a></li>
+              {{ end }}
+            </ul>
+          </aside>
+          {{ end }}
+
     </div><!-- columns -->
 
-</div>
+</div><!-- container -->
 
 </section>
 

@@ -1,6 +1,6 @@
 ---
 title: "1876: Boy Kicked to Death"
-layout: crimes
+layout: crimes-sidebar
 publications:
   - title: "Comment on the Urban Poor"
     url: /docs_fk/homicide/70/Bienen482.pdf

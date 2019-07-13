@@ -1,6 +1,6 @@
 ---
 title: "1887: Lunatic at Large"
-layout: crimes
+layout: crimes-sidebar
 publications:
   - title: "Afterword on 'Lunatics and Anarchists: Political Homicide in Chicago'"
     url: /docs_fk/homicide/899/Bienen805.pdf

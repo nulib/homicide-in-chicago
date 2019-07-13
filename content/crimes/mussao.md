@@ -1,6 +1,6 @@
 ---
 title: "1912: Husband Set On Fire"
-layout: crimes
+layout: crimes-sidebar
 historical_photographs:
   - title: "Lena 'Antonia' Mussao and daughter Catherine"
     url: /docs_fk/homicide/4273/LenaAntoniaMussao2.jpg

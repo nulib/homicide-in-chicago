@@ -1,6 +1,6 @@
 ---
 title: "1926: Capone vs. McSwiggin"
-layout: crimes
+layout: crimes-sidebar
 news_clips:
   - title: "2 Others of Auto Party Slain in Cicero Killing"
     url: /docs_fk/homicide/7349/McSwiggin05.jpg
