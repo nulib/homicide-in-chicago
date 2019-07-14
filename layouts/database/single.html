@@ -1,5 +1,12 @@
 {{ define "header"}} {{ partial "menu" . }} {{ end }}
 
+{{ define "footerfiles" }}
+<script src="/js/jquery-3.3.1.min.js"></script>
+<script src="/js/fuse.min.js"></script>
+<script src="/js/jquery.mark.min.js"></script>
+<script src="/js/search.js"></script>
+{{ end }}
+
 {{ define "main" }}
 
 <section class="hero is-primary">
@@ -16,7 +23,48 @@
   </section>
 
 <div class="section">
-  <div class="container">
+  <div class="container" style="max-width:970px;">
+
+    <div class="loading-overlay">
+      <div class="spin-loader"></div>
+    </div>
+
+    <div class="field has-addons">
+      <div class="control is-expanded">
+        <form action="{{ "search/" | absURL }}">
+          <input id="search-query" name="s" class="input is-large" type="text" placeholder="Search the database for names, addresses, or dates..."/>
+        </form>
+      </div>
+    </div>
+
+    <div id="search-results">
+      <br>
+      <hr>
+    </div>
+  </section>
+
+
+  <!-- this template is sucked in by search.js and appended to the search-results div above. So editing here will adjust style -->
+
+  <script id="search-result-template" type="text/x-js-template">
+  <section class="section is-paddingless">
+    <div id="summary-${key}">
+      <div class="box">
+        <h4><a class="title is-3" href="${link}">Date of Offense: ${DateOfOffense}</a></h4>
+        <ul>
+          ${ isset VictimName }<li><span class="has-text-weight-bold">Victim Name:</span> ${VictimName}</li>${ end }
+          ${ isset DefendantName }<li><span class="has-text-weight-bold">DefendantName:</span> ${DefendantName}</li>${ end }
+          ${ isset Address }<li><span class="has-text-weight-bold">Address:</span> ${Address}</li>${ end }
+          ${ isset CaseNumber }<li><span class="has-text-weight-bold">Case Number:</span> ${CaseNumber}</li>${end}
+          ${ isset CaseDescription }<li><span class="has-text-weight-bold">Case Description:</span> ${CaseDescription}</li>${ end }
+        </ul>
+      </div>
+      <hr>
+    </div>
+  </section>
+  </script>
+
+
       <h3 class="is-size-3">Circumstances</h3>
       <table class="table is-hoverable is-fullwidth">
         {{ if .Params.CircumstancesDateOfOffense }}
