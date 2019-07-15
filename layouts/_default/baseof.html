@@ -37,8 +37,8 @@
     <link rel="prev" href="{{ .Params.prev }}"> {{ end }} {{ if (isset .Params "next") }}
     <link rel="next" href="{{ .Params.next }}"> {{ end }} {{ partial "favicon" . }}
 
-    <link rel="stylesheet" href="/css/font-awesome.min.css"> 
-    <link rel="stylesheet" href="/css/bulmaswatch.min.css"> 
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/bulmaswatch.min.css">
     <link rel="stylesheet" href="/css/landing.css"> {{ block "style" .}} {{end}} {{ $lazylist := findRE "class=\".*?\\blazyload\\b.*?\"|class=lazyload\b" .Content }}
     <!-- http://regexr.com/3f9d1 -->
     {{ if ge (len $lazylist) 1 }}
@@ -49,10 +49,12 @@
     <!--[if lt IE 9]> lightbox support for older versions of IE
 	    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js" type="text/javascript"></script>
   <![endif]-->
+
 </head>
 <!--theme variation-->
 
 <body>
+    <button class="button" onclick="topFunction()" id="myBtn" title="Go to top">Back to Top</button>
         <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MW6MSWP"
       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -68,7 +70,7 @@
           <div class="container">
             <a href="http://florencekelley.northwestern.edu" target="_blank" title="The Life and Times of Florence Kelley in Chicago, 1891-1899">
               <img style="float:left;padding-right:1em;" src="/img/fk-link.jpg">
-            <h1 class="title">
+            <h1 class="title" id="return-to-top">
               Florence Kelley in Chicago, 1891-1899
             </h1>
             <h2 class="subtitle">
@@ -87,6 +89,7 @@
       var lightbox = new Lightbox();
       lightbox.load();
       </script>
+      <script src="/js/return-to-top.js" type="text/javascript"></script>
     </footer>
 
 </html>
