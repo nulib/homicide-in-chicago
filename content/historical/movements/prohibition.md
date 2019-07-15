@@ -29,15 +29,17 @@ For more information:
 
 - [Volstead Act in 1919 (Pages 449-452)](/docs_fk/homicide/jclc449-452.pdf).
 - [The 1929 Illinois Crime Survey Report (Pages 493-496)](/docs_fk/homicide/jclc493-496.pdf).
-- The 1929 Illinois Crime Survey.  Part III - Organized Crime in Chicago:
+
+[The 1929 Illinois Crime Survey.  Part III - Organized Crime in Chicago](/pubs/icc/):
+
 - [Chapter XX: The Rule of the Underworld: Torrio as Overlord](/docs_fk/homicide/ICS/ICS.20.pdf).
 - [Chapter XXI: The Beer Wars](/docs_fk/homicide/ICS/ICS.21.pdf).
 - [Chapter XXII: Terrorization by Bombs](/docs_fk/homicide/ICS/ICS.22.pdf).
 
-See also...
+We recommend you [download the raw database files](https://doi.org/10.21985/N2HB3R) for comprehensive searching, but here's a sample of related cases:
 
-- [Homicides where victim was drinking/drunk](/database/?backToResults=1&alcohol=1&page=1)
-- [Homicides where one or more of defendants was drinking/drunk](/database/?backToResults=1&alcohol=2&page=1)
-- [Homicides where both victim and defendant(s) were drinking/drunk](/database/?backToResults=1&alcohol=3&page=1)
-- [Homicides that occurred in a drinking establishment](/database/?backToResults=1&alcohol=5&page=1)
-- [Homicides involving illegal liquor or prohibition](/database/?backToResults=1&alcohol=6&page=1)
+- [Homicides where victim was drinking/drunk](/searches/victim-drunk/)
+- [Homicides where one or more of defendants was drinking/drunk](/searches/defendant-drunk/)
+- [Homicides where both victim and defendant(s) were drinking/drunk](/searches/both-drunk/)
+- [Homicides that occurred in a drinking establishment](/searches/drinking-establishment/)
+- [Homicides involving illegal liquor or prohibition](/searches/illegal-liquor/)

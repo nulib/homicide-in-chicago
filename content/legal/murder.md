@@ -5,7 +5,9 @@ layout: legal
 
 In a number of these cases the defendant killed his wife, or wife and children, and then killed himself, or attempted to kill himself. And there are some cases where a woman killed her husband or her children, and then killed herself or attempted to kill herself.
 
-<a class="button" href="/search/?s=suicide">View all homicides in which circumstances included suicide</a>
+We recommend you [download the raw database files](https://doi.org/10.21985/N2HB3R) for comprehensive searching, but here's a sample of related cases:
+
+- [View all homicides in which circumstances included suicide](/searches/murder-suicide/)
 
 <table class="table is-hoverable">
   <tbody>

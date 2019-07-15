@@ -11,11 +11,11 @@ Gun accidents and gun deaths are typically recorded by the police as part of the
 
 In the 19th century many people are killed in horse-related accidents, but as the 20th century progresses, everyone is killed by recklessly driven automobiles. If there is one technological change which overwhelmingly changes the character of people’s lives before the computer, it is the automobile.
 
-See also:
+We recommend you [download the raw database files](https://doi.org/10.21985/N2HB3R) for comprehensive searching, but here's a sample of related cases:
 
-- [All cases of unintentional manslaughter with a gun](/database/?backToResults=1&kindman=2&page=1)
-- [All cases of unintentional manslaughter with an automobile](/database/?backToResults=1&kindman=1&page=1)
-- [All other cases of unintentional manslaughter](/database/?backToResults=1&kindman=3&page=1)
+- [Cases of unintentional manslaughter with a gun](/searches/unintentional-manslaughter-gun/)
+- [Cases of unintentional manslaughter with an automobile](/searches/unintentional-manslaughter-auto/)
+- [Other cases of unintentional manslaughter](/searches/unintentional-manslaughter-other/)
 
 [Learning From the Past, Living In the Present: Understanding Homicide in Chicago, 1870-1930 (pages 551-552)](/docs_fk/homicide/jclc551-552.pdf) by Leigh B. Bienen & Brandon Rottinghaus
 

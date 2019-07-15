@@ -26,7 +26,9 @@ The Race Riot in Chicago in the summer of 1919 left 38 dead, including twenty th
 
 [View case details...](/database/6543/)
 
-[Show all homicides related to race riot](/searches/raceriot/)
+We recommend you [download the raw database files](https://doi.org/10.21985/N2HB3R) for comprehensive searching, but here's a sample of related cases:
+
+- [Show all homicides related to race riot](/searches/raceriot/)
 
 The Coroner's report on the riot described the events as follows: “Five days of terrible hate and passion let loose, cost the people of Chicago 38 lives (15 white and 23 colored), wounded and maimed several hundred, destroyed property of untold value, filled thousands with fear, blemished the city and left in its wake fear and apprehension for the future...”
 

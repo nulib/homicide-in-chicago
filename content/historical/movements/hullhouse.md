@@ -25,9 +25,7 @@ layout: historical
   </tbody>
 </table>
 
-For more information:
+**_Hull House Maps and Papers_** (1895):
 
-- Hull House Maps and Papers (1895):
-- Chapter X: The Settlement as a factor in the labor movement
-- Editor's Preface
-- Urban Experience in Chicago: Hull-House and Its Neighborhoods, 1889-1963.
+- [Chapter X: The Settlement as a factor in the labor movement](/docs_fk/homicide/HullHouse/HH.10.pdf)
+- [Urban Experience in Chicago: Hull-House and Its Neighborhoods, 1889-1963](https://hullhouse.uic.edu/hull/urbanexp/)

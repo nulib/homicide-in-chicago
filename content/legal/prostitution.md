@@ -29,7 +29,8 @@ Prostitution was never legal in Chicago. The notorious Levee district, ostensibl
   </div>
 </div>
 
-See: [All cases involving prostitution](/searches/prostitution/)
+We recommend you [download the raw database files](https://doi.org/10.21985/N2HB3R) for comprehensive searching, but here's a sample of related cases:
+- [Cases involving prostitution](/searches/prostitution/)
 
 Prostitution in contemporaneous records and reports was termed "the social evil" or "vice", and those who ran the illegal enterprises were termed ‘The Vice Lords’ ([JCLC p.500-511](/docs_fk/homicide/jclc500-511.pdf)). The Levee district was notorious, in Chicago and around the world, described by many contemporaneous commentators and visitors to the city, including William Stead, [If Christ Came to Chicago (1894)](/pubs/ICCTC/), the most famous journalist of his time.
 

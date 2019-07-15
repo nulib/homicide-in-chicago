@@ -1,5 +1,5 @@
 ---
-title: "Homicides that took place in a Drinking Establishment"
+title: "Homicides Involving Illegal Liquor or Prohibition"
 layout: crimes
 ---
 ### 19 Cases Found:
