@@ -18,7 +18,7 @@ layout: pubs
       (PDF - .54MB)</li>
       <li><a href="/docs_fk/homicide/mayday/mayday.03.pdf">Chapter III: November 11th</a>
       (PDF - .34MB)</li>
-      <li><a href="notfound">Chapter IV: November Eleventh</a>
+      <li><a href="/docs_fk/homicide/mayday/mayday.04.pdf">Chapter IV: November Eleventh</a>
       (PDF - .79MB)</li>
       <li><a href="/docs_fk/homicide/mayday/mayday.05.pdf">Chapter V: Our Martyred Comrades</a>
       (PDF - 2.97MB)</li>
@@ -28,7 +28,7 @@ layout: pubs
       (PDF - .54MB)</li>
       <li><a href="/docs_fk/homicide/mayday/mayday.08.pdf">Chapter VIII: November eleventh, twenty years ago</a>
       (PDF - 1.02MB)</li>
-      <li><a href="not found">Chapter IX: The Defiance of August Spies</a>
+      <li><a href="/docs_fk/homicide/mayday/mayday.09.pdf">Chapter IX: The Defiance of August Spies</a>
       (PDF - .84MB)</li>
       <li><a href="/docs_fk/homicide/mayday/mayday.ref.pdf">Further Reading</a>
       (PDF - .18MB).</li>

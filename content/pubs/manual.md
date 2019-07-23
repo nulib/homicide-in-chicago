@@ -17,8 +17,6 @@ aliases: [/pubs/MCLCPP/]
       (PDF - 4.47MB)</li>
       <li><a href="/docs_fk/homicide/MCLCPP/MCLCPP.02.pdf">Chapter II: Procedural Law</a>
       (PDF - 3.56MB)</li>
-      <li><a href="">Index</a>
-      (PDF - .43MB)</li>
     </ul>
   </div>
 </div>
