@@ -34,12 +34,8 @@ layout: pubs
 (PDF - 3.26MB)</li>
 
 <li><a href="/docs_fk/homicide/ICS/ICS.04.pdf">Chapter IV: The Juries, in Felony Cases, in Cook County</a>
-
-
-<ul>
-<li>Gustave F. Fischer*
-(PDF - 2.55MB)</li></ul>
-</li>
+<em>Gustave F. Fischer*</em>
+(PDF - 2.55MB)</li>
 
 <li><a href="/docs_fk/homicide/ICS/ICS.05.pdf">Chapter V: The Prosecutor (outside of Chicago) in Felony Cases</a>
 <em>William D. Knight</em>
