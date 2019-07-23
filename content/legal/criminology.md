@@ -19,7 +19,7 @@ Photos of Northwestern University Law School facilities, Loop location, circa 19
 
 Criminology - the study of crime, the police, the judicial system and the interaction of these institutions within the society - began to be a serious academic enterprise in Chicago during this period. The city, its crimes, its police, and its social institutions became the laboratory for the city's study of itself, and resulted in the production of a reservoir of important data, commentary and contemporaneous accounts concerning this period.
 
-Criminology combines the study of law, crime, the police, and their social and political affiliations. The discipline was born in America in Chicago ([JCLC p.477-486Jane Addams Hull House](/docs_fk/homicide/jclc477-486.pdf)].
+Criminology combines the study of law, crime, the police, and their social and political affiliations. The discipline was born in America in Chicago [JCLC p.477-486Jane Addams Hull House](/docs_fk/homicide/jclc477-486.pdf).
 
 The founding of the American Institute of Criminal Law and Criminology in 1910 at Northwestern University School of Law was a landmark in the history of criminology, and occurred in conjunction with the celebration of the founding of Northwestern University School of Law fifty years earlier.
 
