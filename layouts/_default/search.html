@@ -28,6 +28,19 @@
 
     {{ .Content }}
 
+    <div class="level">
+      <div class="level-left">
+        <div class="level-item">
+          <p class="has-text-weight-bold">{{ .Params.db_instructions }}</p>
+        </div>
+      </div>
+      <div class="level-right">
+        <div class="level-item">
+          <a class="button" href="{{ .Params.db_link }}" target="_blank">{{ .Params.db_link_text }}</a>
+        </div>
+      </div>
+    </div>
+
     <div class="loading-overlay">
       <div class="spin-loader"></div>
     </div>
