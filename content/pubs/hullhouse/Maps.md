@@ -1,6 +1,7 @@
 ---
 title: "The Maps"
 layout: pubs
+alias: [/Maps/]
 ---
 <table class="table is-hoverable">
   <tbody>
