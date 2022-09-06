@@ -1,3 +1,5 @@
+> Note: This repo does not contain the full `/database` of the website. It only has a sample of the data. The full database was used only once --due to its size-- to build the production website several years ago. Therefore, it is our practice **not** to change any info in the `/database`. If there is a need to fix a typo on another section of the site, for example, you can use this project to build the site locally, replace the pre-built HTML in the s3 bucket, then create a cache invalidation in CloudFront (if applicable) to refresh the site. 
+
 ## Required
 [Hugo](https://gohugo.io/) v0.52
 
