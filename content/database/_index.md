@@ -12,6 +12,6 @@ aliases:
 ---
 **Disclaimer:** The database is constructed verbatum from the source material. Hence all errors of spelling, naming, dates, etc have intentionally not been corrected. Following documents help explain changes to Street Addresses over time conversion sites:
 
-- [1909 Chicago Street Numbering Changes](http://www.chsmedia.org/househistory/1909snc/start.pdf)
-- [1911 Chicago Loop Street Numbering Changes](http://www.chsmedia.org/househistory/1911snc/start.pdf)
-- [Chicago Street Name Changes](http://www.chsmedia.org/househistory/nameChanges/start.pdf)
+- [1909 Chicago Street Numbering Changes](https://chsmedia.org/househistory/1909snc/start.pdf)
+- [1911 Chicago Loop Street Numbering Changes](https://chsmedia.org/househistory/1911snc/start.pdf)
+- [Chicago Street Name Changes](https://chsmedia.org/househistory/nameChanges/start.pdf)
