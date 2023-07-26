@@ -1,7 +1,7 @@
 ---
 title: Harold Shapiro
-repo: https://media.northwestern.edu/media_objects/tq57ns56n
-id: 2b88qd75v
+repo: https://dc.library.northwestern.edu/items/f46bdb60-097d-4531-8609-c05d6e9e1d97
+id: f46bdb60-097d-4531-8609-c05d6e9e1d97
 ---
 Victor Rosenblum, Professor of Law Emeritus, Northwestern Uinersity, talks about his life.
       

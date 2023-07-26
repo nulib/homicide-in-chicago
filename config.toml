@@ -9,6 +9,9 @@ googleAnalytics = "" # Optional, add tracking Id for analytics
 disqusShortname = "" # Optional, add Disqus shortname for comments
 #SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
+# ignore python
+ignoreFiles = [ "\\.py$" ]
+
 [params]
   theme_variant = "lux" # possible value for the theme_variant `cerulean,cosmo,cyborg,darkly,flatly,journal,litera,lumen,lux,materia,minty,pulse,sandstone,simplex,slate,solar,spacelab,superhero,united,yeti`
   description = "The history of homicide in Chicago, 1870-1930, based on over 11,0000 Chicago Police Department homicide reports." # Suggested, controls default description meta and landing page
